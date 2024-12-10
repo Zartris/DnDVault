@@ -1,0 +1,211 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1733854175568,
+      "markers": [
+        {
+          "id": "ID_db686be8183a",
+          "type": "default",
+          "loc": [
+            1.8340582137026078,
+            -224.15284963613558
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_781908b9b929",
+          "type": "default",
+          "loc": [
+            105.07164826693855,
+            -194.45436482630058
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69495a1aa86b",
+          "type": "default",
+          "loc": [
+            143.25541445101211,
+            -146.37110370561535
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "SwordCoastRegionMap",
+      "locked": true,
+      "lastAccessed": 1733858846047,
+      "markers": [
+        {
+          "id": "ID_49ea49994a4a",
+          "type": "Town",
+          "loc": [
+            5240.578277699168,
+            4066.2175452132415
+          ],
+          "link": "NeverWinter",
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "NeverWinter City",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_597aa888387a",
+          "type": "Town",
+          "loc": [
+            4927.639332850296,
+            4335.625228845316
+          ],
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Sword Coast.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#9e0000",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#9e0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "City",
+        "Home"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Quest",
+      "iconName": "star",
+      "color": "#ffdd00",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Death",
+      "iconName": "cross",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "PointOfInterest",
+      "iconName": "star-of-life",
+      "color": "#4d79ff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Point of Interest"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
