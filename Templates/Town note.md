@@ -2,10 +2,8 @@
 tags:
   - DND
   - DNDCity
-aliases:
 ---
-
-```leaflet
+```leaflet123
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
 ### id must be unique  
 id: NeverWinterCity  
@@ -40,13 +38,8 @@ scale: 1
 darkMode: false  
 ```
 
-
-
-
-
+## Point of interest.
 ---
-# Reference
 
-**Links to material:**
-
-**Related topics**
+## Summary of town
+---

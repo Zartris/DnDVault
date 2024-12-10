@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/World/Sword-Coast/Sword Coast.md",
+                "file": "DND/Sessions/1. Session.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sword Coast"
+              "title": "1. Session"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 628.5
   },
   "right": {
     "id": "3200c319b56f919a",
@@ -179,54 +179,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1fbcf9bedf8f609d",
+  "active": "f4b3a271a97d6cdb",
   "lastOpenFiles": [
+    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+    "DND/Sessions/1. Session.md",
+    "DND/World/Sword-Coast/Towns/NeverWinter.md",
+    "DND/World/Sword-Coast/Towns/Phandalin.md",
+    "DND/World/Sword-Coast/Sword Coast.md",
+    "DND/images/Maps/phandelver-map-exterior-player.jpg",
+    "DND/images/Characters",
+    "DND/images/Maps",
+    "DND/images",
+    "Templates/NPC note.md",
+    "Templates/Session Note.md",
+    "Templates/Templates.md",
+    "Templates/Town note.md",
+    "Templates/Base.md",
+    "DND/Characters/Vandur the Evil.md",
+    "Templates/Research Note.md",
+    "DND/Sessions/1. Session",
     "DND/World/Sword-Coast/Towns/Phandalin",
     "DND/World/Sword-Coast/NPCs",
     "DND/World/Sword-Coast/Towns",
-    "DND/World/Sword-Coast/Towns/NeverWinter/NeverWinter.md",
     "DND/World/Sword-Coast/phan.md",
-    "DND/World/Sword-Coast/Sword Coast.md",
-    "DND/World/Sword-Coast/img/phandelver-map-exterior-player.jpg",
-    "DND/World/Sword-Coast/img/sword-coast-merge-map-dm.jpg",
+    "DND/images/Maps/sword-coast-merge-map-dm.jpg",
     "DND/World/Sword-Coast/Towns/NeverWinter/img",
-    "DND/World/Sword-Coast/img/Sword-Coast-Map_LowRes.jpg",
+    "DND/images/Maps/Sword-Coast-Map_LowRes.jpg",
     "DND/World/Sword-Coast/img",
-    "DND/World/Sword-Coast/img/Sword-Coast-Map_MedRes-min.jpg",
+    "DND/images/Maps/Sword-Coast-Map_MedRes-min.jpg",
     "DND/World/Sword-Coast/Sword-Coast-Map_MedRes.jpg",
-    "DND/World/Sword-Coast/Towns/NeverWinter/img/NeverwinterMapLabels-scaled.jpg",
+    "DND/images/Maps/NeverwinterMapLabels-scaled.jpg",
     "DND/World/Sword-Coast/Towns/NeverWinter",
-    "DND/World/Sword-Coast",
-    "DND/World",
-    "DND/Sessions",
-    "DND/Characters",
     "Robotics/Graphs/Factor Graphs.md",
     "DND/Untitled.canvas",
-    "DND",
     "Robotics/Visual SLAM/Orin Project/Setting up Orin.md",
     "Robotics/Visual SLAM/Orin Project/Setting up vscode for cpp.md",
     "Robotics/Visual SLAM/Orin Project/Orin Project.md",
     "Robotics/Graphs/Gaussian Belief Propagation.md",
     "Robotics/Planning/Local planning/Papers/GBP planner.md",
-    "Templates/Base.md",
-    "Templates/Templates.md",
     "Robotics/Planning/Local planning/Papers/attachments/Pasted image 20231006015748.png",
     "Robotics/Planning/Local planning/Papers/attachments/GBP_AAAI_poster.png",
     "Robotics/Planning/Local planning/Papers/Pasted image 20231006015437.png.md",
     "Robotics/Planning/Local planning/Papers/Pasted image 20231006015604.png",
     "Robotics/Planning/Local planning/Papers/Pasted image 20231006015437.png",
-    "Templates/Research Note.md",
     "Documentation/Robots/Swerve Drive/Kinematics & Inverse.md",
     "Kanban/Tasks/Tasks.md",
     "Kanban/Kanban.md",
     "Documentation/Simulation/Tools/Isaac Sim (NVIDIA Omniverse).md",
     "Documentation/Simulation/Tools/Godot Engine.md",
-    "Documentation/Simulation/Tools/Gazebo.md",
-    "Documentation/Robots/Differential Drive/Differential Drive.md",
-    "Documentation/Robots/Differential Drive/Kinematics & Inverse.md",
-    "Documentation/Simulation/Tools/Unreal Engine (Epic Games).md",
-    "Documentation/Simulation/Tools/Unity Engine.md",
-    "Documentation/Simulation/Tools/Tools.md",
-    "Documentation/Simulation/Tools/Colosseum.md"
+    "Documentation/Simulation/Tools/Gazebo.md"
   ]
 }
