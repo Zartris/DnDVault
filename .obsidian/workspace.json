@@ -35,13 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Sessions/1. Session.md",
+                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Session"
+              "title": "Gundren Rockseeker"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "6364ad0d28d65ed3",
   "lastOpenFiles": [
-    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
     "DND/Sessions/1. Session.md",
+    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
     "DND/World/Sword-Coast/Sword Coast.md",
     "DND/World/Sword-Coast/Towns/Phandalin.md",
     "DND/World/Sword-Coast/Towns/Neverwinter.md",
