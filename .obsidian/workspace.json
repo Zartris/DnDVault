@@ -1,43 +1,37 @@
 {
   "main": {
-    "id": "b4a0408cc376b827",
+    "id": "f3d32fb032c6eff5",
     "type": "split",
     "children": [
       {
-        "id": "6f68320ef5f7d244",
+        "id": "c6b21c97fa3aba11",
         "type": "tabs",
         "children": [
           {
-            "id": "d0533d1ce36a99e2",
+            "id": "048a5edeb76238a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/World/Sword-Coast/Sword Coast.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sword Coast"
+              "title": "New tab"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "130fa97cb9178055",
+    "id": "12092563075bed3a",
     "type": "split",
     "children": [
       {
-        "id": "e326b557ba3856d6",
+        "id": "a22c3fcd4218bc9a",
         "type": "tabs",
         "children": [
           {
-            "id": "1fbcf9bedf8f609d",
+            "id": "ba05d95634b8388a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +43,7 @@
             }
           },
           {
-            "id": "f55be4107180e778",
+            "id": "cf08a0fee7b535fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +60,7 @@
             }
           },
           {
-            "id": "ef1b0d5686ad5a6f",
+            "id": "3f4f0bbf7e78461e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,38 +68,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "49113b9965e6a287",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 300
   },
   "right": {
-    "id": "3200c319b56f919a",
+    "id": "306d9a8211a94d0a",
     "type": "split",
     "children": [
       {
-        "id": "e17e84ae6061bf0a",
+        "id": "0900424a6dd77a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "5c2decc5364260f3",
+            "id": "28b010e28097ee38",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND/World/Sword-Coast/Sword Coast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sword Coast"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e78ca2e7cbb36677",
+            "id": "769a9449bf808be8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/Sessions/1. Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Session"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "343aaaada0a3e32c",
+            "id": "9f963887c705168a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,33 +128,21 @@
             }
           },
           {
-            "id": "bb7ff71822b0af16",
+            "id": "cb7ed70a8fd319d0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DND/Sessions/1. Session.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 1. Session"
-            }
-          },
-          {
-            "id": "2cfa1a986da44c22",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,53 +158,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0533d1ce36a99e2",
-  "lastOpenFiles": [
-    "DND/World/Sword-Coast/Towns/Phandalin.md",
-    "DND/World/Sword-Coast/Sword Coast.md",
-    "DND/World/Sword-Coast/Towns/Neverwinter.md",
-    "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
-    "DND/images/Maps/NeverwinterMapLabels-scaled.jpg",
-    "DND/Sessions/1. Session.md",
-    "Templates/Town note.md",
-    "Templates/Templates.md",
-    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
-    "DND/images/Characters.md",
-    "DND/images/Characters/Gundren_Rockseeker.jpg",
-    "DND.md",
-    "DND/images/Maps/Phandalin.webp",
-    "DND/World/Sword-Coast/PointOfInterest",
-    "DND/images/Maps/phandelver-map-exterior-player.jpg",
-    "DND/images/Characters",
-    "DND/images/Maps",
-    "DND/images",
-    "Templates/NPC note.md",
-    "Templates/Session Note.md",
-    "Templates/Base.md",
-    "DND/Characters/Vandur the Evil.md",
-    "Templates/Research Note.md",
-    "DND/Sessions/1. Session",
-    "DND/World/Sword-Coast/Towns/Phandalin",
-    "DND/World/Sword-Coast/NPCs",
-    "DND/World/Sword-Coast/Towns",
-    "DND/World/Sword-Coast/phan.md",
-    "DND/images/Maps/sword-coast-merge-map-dm.jpg",
-    "DND/World/Sword-Coast/Towns/NeverWinter/img",
-    "DND/images/Maps/Sword-Coast-Map_LowRes.jpg",
-    "DND/World/Sword-Coast/img",
-    "DND/images/Maps/Sword-Coast-Map_MedRes-min.jpg",
-    "DND/World/Sword-Coast/Sword-Coast-Map_MedRes.jpg",
-    "Robotics/Graphs/Factor Graphs.md",
-    "DND/Untitled.canvas",
-    "Robotics/Visual SLAM/Orin Project/Setting up Orin.md",
-    "Robotics/Visual SLAM/Orin Project/Setting up vscode for cpp.md",
-    "Robotics/Visual SLAM/Orin Project/Orin Project.md",
-    "Robotics/Graphs/Gaussian Belief Propagation.md",
-    "Robotics/Planning/Local planning/Papers/GBP planner.md",
-    "Robotics/Planning/Local planning/Papers/attachments/Pasted image 20231006015748.png",
-    "Robotics/Planning/Local planning/Papers/attachments/GBP_AAAI_poster.png",
-    "Robotics/Planning/Local planning/Papers/Pasted image 20231006015437.png.md",
-    "Documentation/Robots/Swerve Drive/Kinematics & Inverse.md",
-    "Kanban/Tasks/Tasks.md"
-  ]
+  "active": "048a5edeb76238a3",
+  "lastOpenFiles": []
 }
