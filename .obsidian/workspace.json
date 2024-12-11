@@ -35,21 +35,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Sessions/1. Session.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Session"
-            }
-          },
-          {
-            "id": "e727ac06adbb9ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
                 "mode": "source",
                 "backlinks": true,
@@ -58,24 +43,8 @@
               "icon": "lucide-file",
               "title": "Gundren Rockseeker"
             }
-          },
-          {
-            "id": "c3de7e0057b5bf85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/World/Sword-Coast/Towns/NeverWinter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NeverWinter"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,9 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e727ac06adbb9ddd",
+  "active": "6364ad0d28d65ed3",
   "lastOpenFiles": [
-    "DND/World/Sword-Coast/Towns/NeverWinter.md",
+    "DND/World/Sword-Coast/Towns/Neverwinter.md",
     "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
     "DND/Sessions/1. Session.md",
     "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
