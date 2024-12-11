@@ -3,6 +3,7 @@ tags:
   - DND
   - DNDNPC
 ---
+![[Gundren_Rockseeker.jpg]]
 ## Description
 ---
 * Race: 
@@ -15,4 +16,3 @@ tags:
 ## Quests
 ---
 1. [ ] If any
-

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Sessions/1. Session.md",
+                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Session"
+              "title": "Gundren Rockseeker"
             }
           }
         ],
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/Sessions/1. Session.md",
+                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Session"
+              "title": "Outgoing links from Gundren Rockseeker"
             }
           },
           {
@@ -151,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Sessions/1. Session.md"
+                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Session"
+              "title": "Outline of Gundren Rockseeker"
             }
           },
           {
@@ -192,11 +192,14 @@
   },
   "active": "d0533d1ce36a99e2",
   "lastOpenFiles": [
+    "DND/images/Characters/Gundren_Rockseeker.jpg",
+    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+    "DND.md",
+    "DND/World/Sword-Coast/Towns/Phandalin.md",
+    "DND/World/Sword-Coast/Towns/NeverWinter.md",
+    "DND/images/Maps/Phandalin.webp",
     "DND/Sessions/1. Session.md",
     "DND/World/Sword-Coast/PointOfInterest",
-    "DND/World/Sword-Coast/Towns/Phandalin.md",
-    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
-    "DND/World/Sword-Coast/Towns/NeverWinter.md",
     "DND/World/Sword-Coast/Sword Coast.md",
     "DND/images/Maps/phandelver-map-exterior-player.jpg",
     "DND/images/Characters",
@@ -231,12 +234,9 @@
     "Robotics/Planning/Local planning/Papers/attachments/Pasted image 20231006015748.png",
     "Robotics/Planning/Local planning/Papers/attachments/GBP_AAAI_poster.png",
     "Robotics/Planning/Local planning/Papers/Pasted image 20231006015437.png.md",
-    "Robotics/Planning/Local planning/Papers/Pasted image 20231006015604.png",
-    "Robotics/Planning/Local planning/Papers/Pasted image 20231006015437.png",
     "Documentation/Robots/Swerve Drive/Kinematics & Inverse.md",
     "Kanban/Tasks/Tasks.md",
     "Kanban/Kanban.md",
-    "Documentation/Simulation/Tools/Isaac Sim (NVIDIA Omniverse).md",
-    "Documentation/Simulation/Tools/Godot Engine.md"
+    "Documentation/Simulation/Tools/Isaac Sim (NVIDIA Omniverse).md"
   ]
 }
