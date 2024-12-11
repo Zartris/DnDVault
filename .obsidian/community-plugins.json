@@ -1,15 +1,13 @@
 [
   "table-editor-obsidian",
   "drawio-obsidian",
-  "obsidian-kanban",
-  "obsidian-advanced-slides",
   "obsidian-autocomplete-plugin",
   "file-tree-alternative",
   "colored-text",
   "obsidian-leaflet-plugin",
   "obsidian-latex-suite",
   "editor-width-slider",
-  "obsidian-languagetool-plugin",
   "obsidian-git",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "obsidian-languagetool-plugin"
 ]
