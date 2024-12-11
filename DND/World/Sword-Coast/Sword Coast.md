@@ -79,11 +79,3 @@ unit: km
 scale: 1  
 darkMode: false  
 ```
-
-
----
-# Reference
-
-**Links to material:**
-
-**Related topics**
