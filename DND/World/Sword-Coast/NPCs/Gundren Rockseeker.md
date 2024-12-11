@@ -6,7 +6,7 @@ aliases:
   - Gundren
   - Rockseeker
 ---
-![Gundren_Rockseeker_image](DND/images/Characters/Gundren_Rockseeker.jpg)
+![Gundren_Rockseeker_image](/DND/images/Characters/Gundren_Rockseeker.jpg)
 
 ## Description
 ---
