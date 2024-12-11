@@ -2,6 +2,9 @@
 tags:
   - DND
   - DNDNPC
+aliases:
+  - Gundren
+  - Rockseeker
 ---
 ![[Gundren_Rockseeker.jpg]]
 ## Description
