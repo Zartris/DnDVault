@@ -12,9 +12,9 @@ aliases:
 ---
 - **Race:** Dwarf
 - **Hometown:** Neverwinter, Sword Coast North
-- **Met:** Gundren was encountered in Neverwinter, where he hired the party to escort a wagon to Phandalin.
+- **Met:** Gundren was encountered in [Neverwinter](../Towns/Neverwinter.md), where he hired the party to escort a wagon to [Phandalin](../Towns/Phandalin.md).
 
-> Gundren Rockseeker is one of three dwarf brothers who rediscovered the legendary Wave Echo Cave, home to the Forge of Spells. Eager to capitalize on this discovery, he traveled to [Neverwinter](DND/World/Sword-Coast/Towns/Neverwinter.md) to gather supplies and enlist adventurers for the journey to Phandalin. He is a friend of Sildar Hallwinter, a member of the Lords' Alliance, who accompanied him on this venture 
+> Gundren Rockseeker is one of three dwarf brothers who rediscovered the legendary Wave Echo Cave, home to the Forge of Spells. Eager to capitalize on this discovery, he traveled to [Neverwinter](/DND/World/Sword-Coast/Towns/Neverwinter.md) to gather supplies and enlist adventurers for the journey to [Phandalin](../Towns/Phandalin.md). He is a friend of Sildar Hallwinter, a member of the Lords' Alliance, who accompanied him on this venture 
 ## Quests
 ---
 1.  [ ] **Escort Gundren's Supplies to Phandalin**
