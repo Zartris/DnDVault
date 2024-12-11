@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4c7869a6ed3b378",
+        "id": "6f68320ef5f7d244",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b3a271a97d6cdb",
+            "id": "d0533d1ce36a99e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/World/Sword-Coast/Sword Coast.md",
+                "file": "DND/Sessions/1. Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sword Coast"
+              "title": "Outgoing links from 1. Session"
             }
           },
           {
@@ -151,18 +151,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/World/Sword-Coast/Sword Coast.md"
+                "file": "DND/Sessions/1. Session.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sword Coast"
+              "title": "Outline of 1. Session"
+            }
+          },
+          {
+            "id": "2cfa1a986da44c22",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,15 +186,17 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4b3a271a97d6cdb",
+  "active": "d0533d1ce36a99e2",
   "lastOpenFiles": [
-    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
     "DND/Sessions/1. Session.md",
-    "DND/World/Sword-Coast/Towns/NeverWinter.md",
+    "DND/World/Sword-Coast/PointOfInterest",
     "DND/World/Sword-Coast/Towns/Phandalin.md",
+    "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+    "DND/World/Sword-Coast/Towns/NeverWinter.md",
     "DND/World/Sword-Coast/Sword Coast.md",
     "DND/images/Maps/phandelver-map-exterior-player.jpg",
     "DND/images/Characters",
@@ -209,7 +221,6 @@
     "DND/images/Maps/Sword-Coast-Map_MedRes-min.jpg",
     "DND/World/Sword-Coast/Sword-Coast-Map_MedRes.jpg",
     "DND/images/Maps/NeverwinterMapLabels-scaled.jpg",
-    "DND/World/Sword-Coast/Towns/NeverWinter",
     "Robotics/Graphs/Factor Graphs.md",
     "DND/Untitled.canvas",
     "Robotics/Visual SLAM/Orin Project/Setting up Orin.md",
@@ -226,7 +237,6 @@
     "Kanban/Tasks/Tasks.md",
     "Kanban/Kanban.md",
     "Documentation/Simulation/Tools/Isaac Sim (NVIDIA Omniverse).md",
-    "Documentation/Simulation/Tools/Godot Engine.md",
-    "Documentation/Simulation/Tools/Gazebo.md"
+    "Documentation/Simulation/Tools/Godot Engine.md"
   ]
 }
