@@ -226,8 +226,9 @@
   },
   "active": "6364ad0d28d65ed3",
   "lastOpenFiles": [
-    "DND/World/Sword-Coast/Towns/Neverwinter.md",
+    "DND/images/Characters.md",
     "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+    "DND/World/Sword-Coast/Towns/Neverwinter.md",
     "DND/Sessions/1. Session.md",
     "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
     "DND/images/Characters/Gundren_Rockseeker.jpg",
@@ -271,7 +272,6 @@
     "Robotics/Planning/Local planning/Papers/Pasted image 20231006015437.png.md",
     "Documentation/Robots/Swerve Drive/Kinematics & Inverse.md",
     "Kanban/Tasks/Tasks.md",
-    "Kanban/Kanban.md",
-    "Documentation/Simulation/Tools/Isaac Sim (NVIDIA Omniverse).md"
+    "Kanban/Kanban.md"
   ]
 }
