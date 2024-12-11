@@ -43,8 +43,21 @@
               "icon": "lucide-file",
               "title": "Neverwinter"
             }
+          },
+          {
+            "id": "d704c143c13f1ae1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DND/images/Maps/NeverwinterMapLabels-scaled.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "NeverwinterMapLabels-scaled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a2d4ce9db2491e9",
+  "active": "1fbcf9bedf8f609d",
   "lastOpenFiles": [
-    "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
     "DND/World/Sword-Coast/Towns/Neverwinter.md",
+    "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
     "DND/World/Sword-Coast/Sword Coast.md",
     "DND/World/Sword-Coast/Towns/Phandalin.md",
     "DND/Sessions/1. Session.md",
