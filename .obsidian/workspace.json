@@ -13,51 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
+                "file": "DND/World/Sword-Coast/Sword Coast.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cragmaw Castle"
+              "title": "Sword Coast"
             }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "ed1ee4bf3734992c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0a2d4ce9db2491e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neverwinter"
-            }
-          },
-          {
-            "id": "d704c143c13f1ae1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DND/images/Maps/NeverwinterMapLabels-scaled.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "NeverwinterMapLabels-scaled"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,19 +183,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fbcf9bedf8f609d",
+  "active": "d0533d1ce36a99e2",
   "lastOpenFiles": [
+    "DND/World/Sword-Coast/Towns/Phandalin.md",
+    "DND/World/Sword-Coast/Sword Coast.md",
     "DND/World/Sword-Coast/Towns/Neverwinter.md",
     "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
-    "DND/World/Sword-Coast/Sword Coast.md",
-    "DND/World/Sword-Coast/Towns/Phandalin.md",
+    "DND/images/Maps/NeverwinterMapLabels-scaled.jpg",
     "DND/Sessions/1. Session.md",
     "Templates/Town note.md",
     "Templates/Templates.md",
@@ -259,7 +224,6 @@
     "DND/World/Sword-Coast/img",
     "DND/images/Maps/Sword-Coast-Map_MedRes-min.jpg",
     "DND/World/Sword-Coast/Sword-Coast-Map_MedRes.jpg",
-    "DND/images/Maps/NeverwinterMapLabels-scaled.jpg",
     "Robotics/Graphs/Factor Graphs.md",
     "DND/Untitled.canvas",
     "Robotics/Visual SLAM/Orin Project/Setting up Orin.md",
@@ -271,7 +235,6 @@
     "Robotics/Planning/Local planning/Papers/attachments/GBP_AAAI_poster.png",
     "Robotics/Planning/Local planning/Papers/Pasted image 20231006015437.png.md",
     "Documentation/Robots/Swerve Drive/Kinematics & Inverse.md",
-    "Kanban/Tasks/Tasks.md",
-    "Kanban/Kanban.md"
+    "Kanban/Tasks/Tasks.md"
   ]
 }

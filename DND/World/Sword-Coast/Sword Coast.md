@@ -17,12 +17,12 @@ lock: true
 recenter: true  
 ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
 noScrollZoom: false  
-image: [Sword-Coast-Map_MedRes-min](Sword-Coast-Map_MedRes-min.jpg) 
+image: [[Sword-Coast-Map_MedRes-min.jpg]] 
 ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
 ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
 ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
 ### Bounds is entered as [Height, Width]  
-bounds: [0,0](0,0)
+bounds: [[0,0]]
 height: 1000px  
 width: 95%  
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
@@ -55,12 +55,12 @@ lock: true
 recenter: true  
 ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
 noScrollZoom: false  
-image: [phandelver-map-exterior-player](phandelver-map-exterior-player.jpg) 
+image: [[phandelver-map-exterior-player.jpg]] 
 ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
 ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
 ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
 ### Bounds is entered as [Height, Width]  
-bounds: [0,0](0,0)
+bounds: [[0,0]]
 height: 1000px  
 width: 95%  
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
