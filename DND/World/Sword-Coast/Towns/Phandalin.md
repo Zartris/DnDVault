@@ -6,7 +6,7 @@ tags:
 ```leaflet
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
 ### id must be unique  
-id: NeverWinterCity  
+id: PhandalinCity  
 ### Lock pins so they can't be moved  
 lock: true
 ### If true, view of map will recenter as you zoom out.  
@@ -18,7 +18,7 @@ image: [[Phandalin.webp]]
 ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
 ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
 ### Bounds is entered as [Height, Width]  
-bounds: [[0,0]]
+bounds: [[0,0], [684, 1000]]
 height: 684px  
 width: 95%  
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  

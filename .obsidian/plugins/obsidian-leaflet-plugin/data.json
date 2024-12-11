@@ -60,7 +60,7 @@
     {
       "id": "SwordCoastRegionMap",
       "locked": true,
-      "lastAccessed": 1733917844262,
+      "lastAccessed": 1733918213027,
       "markers": [
         {
           "id": "ID_49ea49994a4a",
@@ -100,6 +100,34 @@
       "shapes": [],
       "files": [
         "DND/World/Sword-Coast/Sword Coast.md"
+      ]
+    },
+    {
+      "id": "PhandalinCity",
+      "locked": true,
+      "lastAccessed": 1733918330620,
+      "markers": [
+        {
+          "id": "ID_d8fa2bbb797a",
+          "type": "default",
+          "loc": [
+            133.609375,
+            313.5
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Perfect for summoning dragon chickens ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Towns/Phandalin.md"
       ]
     }
   ],
