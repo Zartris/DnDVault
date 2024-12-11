@@ -8,7 +8,7 @@ tags:
 ---
 - [NPC one]
 - ...
-## Towns/Locations visited
+## Towns/Locations
 ---
 * [Location one]
 * ....
