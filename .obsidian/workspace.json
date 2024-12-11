@@ -35,13 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/World/Sword-Coast/Towns/Neverwinters.md",
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neverwinters"
+              "title": "Neverwinter"
             }
           }
         ]
@@ -217,7 +217,7 @@
     "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
     "DND/World/Sword-Coast/Sword Coast.md",
     "DND/World/Sword-Coast/Towns/Phandalin.md",
-    "DND/World/Sword-Coast/Towns/Neverwinters.md",
+    "DND/World/Sword-Coast/Towns/Neverwinter.md",
     "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
     "DND/images/Characters.md",
     "DND/images/Characters/Gundren_Rockseeker.jpg",
