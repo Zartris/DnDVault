@@ -14,11 +14,11 @@ aliases:
 - **Hometown:** Neverwinter, Sword Coast North
 - **Met:** Gundren was encountered in [Neverwinter](../Towns/Neverwinter.md), where he hired the party to escort a wagon to [Phandalin](../Towns/Phandalin.md).
 
-> Gundren Rockseeker is one of three dwarf brothers who rediscovered the legendary Wave Echo Cave, home to the Forge of Spells. Eager to capitalize on this discovery, he traveled to [Neverwinter](/DND/World/Sword-Coast/Towns/Neverwinter.md) to gather supplies and enlist adventurers for the journey to [Phandalin](../Towns/Phandalin.md). He is a friend of Sildar Hallwinter, a member of the Lords' Alliance, who accompanied him on this venture 
+> Gundren Rockseeker is one of three dwarf brothers who rediscovered the legendary Wave Echo Cave, home to the Forge of Spells. Eager to capitalize on this discovery, he travelled to [Neverwinter](/DND/World/Sword-Coast/Towns/Neverwinter.md) to gather supplies and enlist adventurers for the journey to [Phandalin](../Towns/Phandalin.md). He is a friend of [Sildar Hallwinter](Sildar%20Hallwinter.md), a member of the [Lords' Alliance](Lords'%20Alliance.md), who accompanied him on this venture.
 ## Quests
 ---
 1.  [ ] **Escort Gundren's Supplies to Phandalin**
-    - **Description:** Transport a wagonload of provisions from Neverwinter to Phandalin on behalf of Gundren Rockseeker.
+    - **Description:** Transport a wagon load of provisions from Neverwinter to Phandalin on behalf of Gundren Rockseeker.
     - **Location:** Neverwinter to Phandalin
     - **Items needed:** Wagon of supplies
     - **Reward:** 10 gold pieces per person upon safe delivery
