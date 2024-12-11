@@ -58,9 +58,37 @@
       "files": []
     },
     {
+      "id": "PhandalinCity",
+      "locked": true,
+      "lastAccessed": 1733918330620,
+      "markers": [
+        {
+          "id": "ID_d8fa2bbb797a",
+          "type": "default",
+          "loc": [
+            133.609375,
+            313.5
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Perfect for summoning dragon chickens ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Towns/Phandalin.md"
+      ]
+    },
+    {
       "id": "SwordCoastRegionMap",
       "locked": true,
-      "lastAccessed": 1733918213027,
+      "lastAccessed": 1733920295257,
       "markers": [
         {
           "id": "ID_49ea49994a4a",
@@ -103,31 +131,129 @@
       ]
     },
     {
-      "id": "PhandalinCity",
+      "id": "PhandelverMap",
       "locked": true,
-      "lastAccessed": 1733918330620,
+      "lastAccessed": 1733920392195,
       "markers": [
         {
-          "id": "ID_d8fa2bbb797a",
+          "id": "ID_299a19390acb",
           "type": "default",
           "loc": [
-            133.609375,
-            313.5
+            559.296875,
+            173.5
           ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Perfect for summoning dragon chickens ",
+          "description": "Start of the session\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9cbe8898a6b",
+          "type": "default",
+          "loc": [
+            234.296875,
+            458.5
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "End of session\n",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 556.9230680212374,
+              "lng": 176.16779899565321,
+              "id": "ID_d92a1a382b6a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 496.37852612297,
+              "lng": 231.66696240239835,
+              "id": "ID_0a19fb3ab829",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 438.35667347046376,
+              "lng": 272.02999033457667,
+              "id": "ID_18faa9b85a98",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 364.35778892813687,
+              "lng": 300.62046845320293,
+              "id": "ID_885808eb99c9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 294.56338646207854,
+              "lng": 313.2339146820087,
+              "id": "ID_1a298a780b7a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 323.99476099595853,
+              "lng": 329.21094657182925,
+              "id": "ID_2ba879b9e949",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 295.40428287733226,
+              "lng": 368.7330780887538,
+              "id": "ID_a859eb5a089a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 311.38131476715284,
+              "lng": 426.7549307412601,
+              "id": "ID_c9a899da683b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 239.06422305533337,
+              "lng": 458.7089945209013,
+              "id": "ID_38ea198baab8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
       "files": [
-        "DND/World/Sword-Coast/Towns/Phandalin.md"
+        "DND/World/Sword-Coast/Sword Coast.md",
+        "DND/Sessions/1. Session.md"
       ]
     }
   ],

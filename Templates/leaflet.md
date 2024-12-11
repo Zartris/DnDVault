@@ -1,8 +1,3 @@
----
-tags:
-  - DND
-  - DNDCity
----
 ```leaflet123
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
 ### id must be unique  
@@ -37,13 +32,3 @@ unit: km
 scale: 1  
 darkMode: false  
 ```
-
-## Point of interest.
----
-- 
-## People of importance
----
-- 
-## Summary of town
----
-> Text here
