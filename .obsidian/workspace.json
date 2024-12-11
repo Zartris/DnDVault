@@ -11,10 +11,15 @@
             "id": "048a5edeb76238a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Neverwinter"
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Neverwinter"
             }
           },
           {
@@ -107,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Neverwinter"
             }
           },
           {
@@ -132,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Neverwinter"
             }
           }
         ]
@@ -159,5 +168,8 @@
     }
   },
   "active": "048a5edeb76238a3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DND/World/Sword-Coast/Towns/Phandalin.md",
+    "DND/World/Sword-Coast/Sword Coast.md"
+  ]
 }
