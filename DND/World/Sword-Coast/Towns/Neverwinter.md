@@ -43,6 +43,9 @@ darkMode: false
 ---
 See map as they are already listed out.
 
+## People of importance
+---
+
 ## Summary of town
 ---
 Nme change
