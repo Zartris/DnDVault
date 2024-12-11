@@ -35,13 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gundren Rockseeker"
+              "title": "Neverwinter"
+            }
+          },
+          {
+            "id": "e111bb7a24d452f2",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "DND/World/Sword-Coast/Towns/NeverWinter.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (NeverWinter)"
             }
           }
         ]
@@ -145,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gundren Rockseeker"
+              "title": "Outgoing links from Neverwinter"
             }
           },
           {
@@ -172,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md"
+                "file": "DND/World/Sword-Coast/Towns/Neverwinter.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gundren Rockseeker"
+              "title": "Outline of Neverwinter"
             }
           },
           {
