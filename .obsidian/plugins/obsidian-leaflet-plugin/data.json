@@ -133,7 +133,7 @@
     {
       "id": "PhandelverMap",
       "locked": true,
-      "lastAccessed": 1733942638331,
+      "lastAccessed": 1733942795334,
       "markers": [
         {
           "id": "ID_299a19390acb",
@@ -169,7 +169,7 @@
         },
         {
           "id": "ID_485a392999aa",
-          "type": "Quest",
+          "type": "PointOfInterest",
           "loc": [
             320.52929420317076,
             329.323997008945
@@ -194,7 +194,55 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "Quest 3: **Investigate Lionshield Coster Crates** ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea7a694a7a99",
+          "type": "Quest",
+          "loc": [
+            448.44743045350833,
+            414.35389154982505
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest 2: **Find Gundren Rockseeker & His Map** ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da392b18d918",
+          "type": "PointOfInterest",
+          "loc": [
+            439.1975698857174,
+            420.24107872734135
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cragmaw Castle",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca98390afaeb",
+          "type": "Quest",
+          "loc": [
+            318.94938250443624,
+            347.07175237821
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest 1: **Escort Sildar to Phandalin**",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
