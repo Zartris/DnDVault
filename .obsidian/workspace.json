@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
-                "mode": "preview",
+                "file": "DND/Sessions/1. Session.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gundren Rockseeker"
+              "title": "1. Session"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+                "file": "DND/Sessions/1. Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gundren Rockseeker"
+              "title": "Backlinks for 1. Session"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
+                "file": "DND/Sessions/1. Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gundren Rockseeker"
+              "title": "Outgoing links from 1. Session"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md"
+                "file": "DND/Sessions/1. Session.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gundren Rockseeker"
+              "title": "Outline of 1. Session"
             }
           }
         ]
@@ -169,11 +169,11 @@
   },
   "active": "048a5edeb76238a3",
   "lastOpenFiles": [
-    "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
     "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
-    "DND/World/Sword-Coast/NPCs/Sildar.md",
-    "DND/World/Sword-Coast/NPCs/Lords' Alliance.md",
     "DND/World/Sword-Coast/Towns/Neverwinter.md",
+    "DND/World/Sword-Coast/NPCs/Lords' Alliance.md",
+    "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
+    "DND/World/Sword-Coast/NPCs/Sildar.md",
     "DND/World/Sword-Coast/Towns/Phandalin.md",
     "DND/World/Sword-Coast/Sword Coast.md"
   ]

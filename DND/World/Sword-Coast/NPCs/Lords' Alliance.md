@@ -1,12 +1,40 @@
-## Description
-The Lords' Alliance is a coalition of rulers from cities and towns across Faerûn, primarily in the North, who believe that solidarity is essential to keep evil at bay. Prominent members include Waterdeep, Silverymoon, Neverwinter, and other free cities. Each member prioritizes the fate and fortune of their individual settlements, but they unite against common threats to civilization.
+## Alliancens Mål
+---
+* **Sikre sikkerhed og velstand**: Beskytte byer og bosættelser i Faerûn mod trusler.
+* **Opretholde en stærk koalition**: Forene kræfter mod kaos og ondskab.
+* **Proaktiv eliminering af trusler**: Handle før fjenden angriber.
 
-The Lords' Alliance plays a crucial role in maintaining stability and order across the Sword Coast and the North, leveraging the combined strength of its members to combat threats to civilization.
+## Overbevisninger
+---
+* For at civilisationen kan overleve, må alle stå sammen mod mørkets kræfter.
+* Kæmp for dit rige; kun du kan bringe ære, hæder og velstand til din herre og hjemland.
+* Den bedste forsvar er et stærkt angreb.
 
-**Beliefs:** 
-- Civilization must unite against the dark forces that threaten it. 
-- Glory comes from protecting one's home and honoring its leaders. 
-- The best defense is a strong offense. 
+## Struktur og Rækker
+---
+1. **Kappe (1 Anseelse)**: Nye medlemmer modtager alliancens signetring med et indgraveret krone-symbol.
+2. **Rødkniv (3 Anseelse)**: Viser engagement i alliancens mål og får adgang til yderligere træning.
+3. **Stikblad (10 Anseelse)**: Pålidelige agenter betroet med flere hemmeligheder og støtte.
+4. **Krigshertug (25 Anseelse)**: Respekterede stemmer inden for alliancen, set som dens forkæmpere.
+5. **Løvekrone (50 Anseelse)**: Højest rangerende medlemmer med betydelig indflydelse.
 
-**Activities:**
-Members work to ensure the safety and prosperity of civilized Faerûn by standing united against threats. They proactively eliminate dangers, often employing adventurers for tasks ranging from gathering information to conducting raids against hostile forces. 
+## Kendte Medlemmer
+---
+* **Laeral Silverhand**: Åben Lord af Waterdeep og nuværende leder af alliancen.
+* **Dagult Neverember**: Tidligere Lord Protector af Neverwinter og leder af alliancen.
+* **Sildar Hallwinter**: Agent i Phandalin.
+
+## Medlemsbyer
+---
+* **Waterdeep**
+* **Silverymoon**
+* **Neverwinter**
+* **Baldur's Gate**
+* **Daggerford**
+* **Mithral Hall**
+* **Yartar**
+* **Amphail**
+* **Longsaddle**
+* **Mirabar**
+
+Alliancen har en historie med at hyre eventyrere til at bekæmpe trusler som Zhentarim og andre onde kræfter. Medlemmerne er ofte krigere, troldmænd og andre, der er loyale over for deres byer og alliancens mål. De arbejder sammen for at sikre fred og velstand i regionen.

@@ -1,10 +1,10 @@
-## Description
+## Beskrivelse
 ---
-* **Race:** Human 
-* **Hometown:** Neverwinter 
-* **Met:** Session 1 
- 
->Sildar Hallwinter is a kindhearted human male of nearly fifty years who holds a place of honor in the famous griffon cavalry of the great city of Waterdeep. He is a loyal member of the Lords' Alliance, a political organization that unites the various free cities and towns of the North. Sildar is a retired soldier and sellsword who hails from the city of Neverwinter.
+* Race: Human
+* hjemby: Neverwinter
+* Mødested: Goblin-hulen nær Phandalin
+
+> Sildar Hallwinter er en venligsindet mand på næsten 50 år, der har tjent ærefuldt i den berømte griffon cavalry i den store by Waterdeep. Han er et loyalt medlem af [Lords' Alliance](Lords'%20Alliance.md), en politisk organisation, der forener de forskellige frie byer og landsbyer i Norden. Sildar er en pensioneret soldat og lejesoldat fra byen Neverwinter.
 
 ## Quests
 ---
