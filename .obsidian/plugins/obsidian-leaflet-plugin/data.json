@@ -88,7 +88,7 @@
     {
       "id": "SwordCoastRegionMap",
       "locked": true,
-      "lastAccessed": 1733920295257,
+      "lastAccessed": 1733942518691,
       "markers": [
         {
           "id": "ID_49ea49994a4a",
@@ -133,7 +133,7 @@
     {
       "id": "PhandelverMap",
       "locked": true,
-      "lastAccessed": 1733920392195,
+      "lastAccessed": 1733942638331,
       "markers": [
         {
           "id": "ID_299a19390acb",
@@ -163,6 +163,38 @@
           "command": false,
           "percent": null,
           "description": "End of session\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_485a392999aa",
+          "type": "Quest",
+          "loc": [
+            320.52929420317076,
+            329.323997008945
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cragmaw Hideout",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a81a2a595b5b",
+          "type": "Quest",
+          "loc": [
+            238.01794593167742,
+            444.6193947463753
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

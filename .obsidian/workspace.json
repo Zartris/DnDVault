@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "right": {
     "id": "306d9a8211a94d0a",
@@ -169,7 +169,9 @@
   },
   "active": "048a5edeb76238a3",
   "lastOpenFiles": [
+    "DND/images/Maps/Phandalin.webp",
     "DND/World/Sword-Coast/Sword Coast.md",
+    "DND/images/Maps/sword-coast-merge-map-dm.jpg",
     "DND/Sessions/1. Session.md",
     "Templates/leaflet.md",
     "Templates/Town note.md",
