@@ -32,3 +32,5 @@ aliases:
     - **Reward:** Potential gratitude and further assistance from Gundren
 
 Gundren's ambition and discovery set the stage for significant events in the region, intertwining his fate with that of the adventurers and the future of Phandalin.
+
+
