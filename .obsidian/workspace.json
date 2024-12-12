@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Sessions/2. Session.md",
+                "file": "DND/Sessions/4. Session.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Session"
+              "title": "4. Session"
             }
           }
         ]
@@ -170,8 +170,8 @@
   "active": "048a5edeb76238a3",
   "lastOpenFiles": [
     "DND/Sessions/1. Session.md",
+    "DND/Sessions/4. Session.md",
     "DND/Sessions/Nainine.md",
-    "DND/Sessions/2. Session.md",
     "Templates/Session Note.md",
     "Templates/Town note.md",
     "DND/images/Maps/Phandalin.webp",
