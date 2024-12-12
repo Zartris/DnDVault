@@ -58,34 +58,6 @@
       "files": []
     },
     {
-      "id": "PhandalinCity",
-      "locked": true,
-      "lastAccessed": 1733918330620,
-      "markers": [
-        {
-          "id": "ID_d8fa2bbb797a",
-          "type": "default",
-          "loc": [
-            133.609375,
-            313.5
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Perfect for summoning dragon chickens ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/World/Sword-Coast/Towns/Phandalin.md"
-      ]
-    },
-    {
       "id": "PhandelverMap",
       "locked": true,
       "lastAccessed": 1733987507741,
@@ -335,6 +307,50 @@
       "shapes": [],
       "files": [
         "DND/World/Sword-Coast/Sword Coast.md"
+      ]
+    },
+    {
+      "id": "PhandalinCity",
+      "locked": true,
+      "lastAccessed": 1733989504928,
+      "markers": [
+        {
+          "id": "ID_d8fa2bbb797a",
+          "type": "default",
+          "loc": [
+            133.609375,
+            313.5
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Perfect for summoning dragon chickens ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cab9583a2aab",
+          "type": "default",
+          "loc": [
+            420.609375,
+            880.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hideout for the Red brandt group and where we first encountered glass staff, the leader of the group.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Towns/Phandalin.md"
       ]
     }
   ],

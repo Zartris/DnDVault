@@ -40,9 +40,12 @@ darkMode: false
 
 ## Point of interest.
 ---
-
+- Tresendar Manor er Red Brandt's gruppens hideout i denne by. Dette er også første sted vi møder Glass staff.
 ## People of importance
 ---
-
+- [Gundren Rockseeker](../NPCs/Gundren%20Rockseeker.md) - 
+- [Sildar Hallwinter](../NPCs/Sildar%20Hallwinter.md) - Soldat og ven af Gundren.
+- Glass Staff - Leder af Red Brandt gruppen / afdelingen i Phandalin.
+- Nainine - Kvinde som høre til Lionshield Coster og som sælger våben og armor.
 ## Summary of town
 ---
