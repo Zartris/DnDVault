@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://static.wikia.nocookie.net/forgottenrealms/images/c/cb/Lords%27_Alliance_5e.png/revision/latest?cb=20220124065826)" alt="Lords' alliance logo" width="200"/>
+</p>
+
 ## Alliancens Mål
 ---
 * **Sikre sikkerhed og velstand**: Beskytte byer og bosættelser i Faerûn mod trusler.

@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://preview.redd.it/sildar-hallwinter-lost-mine-of-phandelver-v0-w28vd3d1y3gd1.png?width=768&format=png&auto=webp&s=2bc2d60cf78ed8ac221801d62f897919afe0fdbf" alt="Sildar Hallwinter" width="400"/>
+</p>
+
+
 ## Beskrivelse
 ---
 * Race: Human

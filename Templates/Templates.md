@@ -11,3 +11,4 @@ aliases:
 - [Town note](Town%20note.md)
 - [NPC note](NPC%20note.md)
 - [leaflet](leaflet.md)
+- [Insert center image html](Insert%20center%20image%20html.md)

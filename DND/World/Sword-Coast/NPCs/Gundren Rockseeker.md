@@ -6,13 +6,15 @@ aliases:
   - Gundren
   - Rockseeker
 ---
-![Gundren_Rockseeker_image](/DND/images/Characters/Gundren_Rockseeker.jpg)
 
+<p align="center">
+<img src="https://i.pinimg.com/736x/66/a3/c1/66a3c1f372eec5a057b15216596fc4c9.jpg" alt="Gundren Rockseeker image" width="400"/>
+</p>
 ## Description
 ---
 - **Race:** Dwarf
 - **Hometown:** Neverwinter, Sword Coast North
-- **Met:** Gundren was encountered in [Neverwinter](../Towns/Neverwinter.md), where he hired the party to escort a wagon to [Phandalin](../Towns/Phandalin.md).
+- **Mødested:** Gundren was encountered in [Neverwinter](../Towns/Neverwinter.md), where he hired the party to escort a wagon to [Phandalin](../Towns/Phandalin.md).
 
 > Gundren Rockseeker er en af tre dværgebrødre, der genopdagede den legendariske Wave Echo Cave, hjemsted for Forge of Spells. Ivrig efter at udnytte denne opdagelse rejste han til [Neverwinter](../Towns/Neverwinter.md) for at samle forsyninger og hyre eventyrere til rejsen til [Phandalin](../Towns/Phandalin.md). Han er ven med [Sildar Hallwinter](Sildar%20Hallwinter.md), et medlem af [Lords' Alliance](Lords'%20Alliance.md), som ledsagede ham på denne mission.
 ## Quests
