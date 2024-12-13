@@ -388,9 +388,55 @@
       ]
     },
     {
+      "id": "SwordCoastRegionMap",
+      "locked": true,
+      "lastAccessed": 1734115084378,
+      "markers": [
+        {
+          "id": "ID_49ea49994a4a",
+          "type": "Town",
+          "loc": [
+            5240.578277699168,
+            4066.2175452132415
+          ],
+          "link": "NeverWinter",
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "NeverWinter City, (Undead problem)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_597aa888387a",
+          "type": "Town",
+          "loc": [
+            4927.639332850296,
+            4335.625228845316
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Phandalin City, (Mining city) ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Sword Coast.md"
+      ]
+    },
+    {
       "id": "Session2",
       "locked": true,
-      "lastAccessed": 1734114579419,
+      "lastAccessed": 1734115950587,
       "markers": [
         {
           "id": "ID_fb7afae9c92b",
@@ -945,55 +991,9 @@
       ]
     },
     {
-      "id": "SwordCoastRegionMap",
-      "locked": true,
-      "lastAccessed": 1734115084378,
-      "markers": [
-        {
-          "id": "ID_49ea49994a4a",
-          "type": "Town",
-          "loc": [
-            5240.578277699168,
-            4066.2175452132415
-          ],
-          "link": "NeverWinter",
-          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "NeverWinter City, (Undead problem)",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_597aa888387a",
-          "type": "Town",
-          "loc": [
-            4927.639332850296,
-            4335.625228845316
-          ],
-          "link": "Phandalin",
-          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Phandalin City, (Mining city) ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/World/Sword-Coast/Sword Coast.md"
-      ]
-    },
-    {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734115202235,
+      "lastAccessed": 1734115951514,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1177,7 +1177,7 @@
     {
       "id": "Session5Map",
       "locked": true,
-      "lastAccessed": 1734115202235,
+      "lastAccessed": 1734115951514,
       "markers": [
         {
           "id": "ID_48ea4ba8ab4b",
@@ -1195,10 +1195,199 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb8bdb5a389a",
+          "type": "Quest",
+          "loc": [
+            239.99686089648662,
+            461.56101151043106
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Returnerede med Gundrens lig. Søster Garaele nævnte, at hun ville kontakte Bob i Neverwinter for hjælp til genoplivning.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_182869ba7ae9",
+          "type": "Quest",
+          "loc": [
+            336.32263721170705,
+            740.4300799785691
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Undersøg Orkere ved Wyvern Tor**\n\n- Clearede et ork fortification. Vi fandt Gundrens kort, som ledte os til Lost Mine of Phandelver.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7abaf918c879",
+          "type": "Quest",
+          "loc": [
+            251.95358842039423,
+            545.9519976034742
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Efterforsk Forge of Spells** og **Håndter Flame Skull**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba5899b90ab8",
+          "type": "PointOfInterest",
+          "loc": [
+            265.90625,
+            539.8125
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lost Mine of Phandelver, a.k.a. Wave Echo Cave",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 458.814106572808,
+              "lng": 418.97663890016327,
+              "id": "ID_4a0a9b1aead8",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_48ea4ba8ab4b"
+              }
+            },
+            {
+              "lat": 311.8125,
+              "lng": 423.625,
+              "id": "ID_eb788aab1aa8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 239.99686089648662,
+              "lng": 461.56101151043106,
+              "id": "ID_f9fb9978793a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_fb8bdb5a389a"
+              }
+            },
+            {
+              "lat": 315.8125,
+              "lng": 432.625,
+              "id": "ID_fbfa3ae87939",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 326.5,
+              "lng": 458.25,
+              "id": "ID_f8fbfba9cacb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 386.3125,
+              "lng": 509.125,
+              "id": "ID_089b29a8d989",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 431.3125,
+              "lng": 560.625,
+              "id": "ID_e9a9585aca4a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 398.3125,
+              "lng": 609.625,
+              "id": "ID_9b0a88f8c9db",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 391.8125,
+              "lng": 730.625,
+              "id": "ID_89492ae81b79",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 336.32263721170705,
+              "lng": 740.4300799785691,
+              "id": "ID_4b4b8b680be8",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_182869ba7ae9"
+              }
+            },
+            {
+              "lat": 384.8125,
+              "lng": 717.125,
+              "id": "ID_f858c828d918",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 388.3125,
+              "lng": 611.625,
+              "id": "ID_e92a28a94b7b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 372.8125,
+              "lng": 518.625,
+              "id": "ID_3a299b6a88d9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 265.90625,
+              "lng": 539.8125,
+              "id": "ID_792ae8c97b29",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_ba5899b90ab8"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
       "files": [
         "DND/Sessions/5. Session.md"
       ]
