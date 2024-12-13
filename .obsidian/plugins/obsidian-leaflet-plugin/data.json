@@ -264,9 +264,179 @@
       ]
     },
     {
+      "id": "PhandalinCity",
+      "locked": true,
+      "lastAccessed": 1734076067400,
+      "markers": [
+        {
+          "id": "ID_d8fa2bbb797a",
+          "type": "default",
+          "loc": [
+            133.609375,
+            313.5
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Perfect for summoning dragon chickens ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cab9583a2aab",
+          "type": "default",
+          "loc": [
+            420.609375,
+            880.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hideout for the Red brandt group and where we first encountered glass staff, the leader of the group.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bc8094b4aaa",
+          "type": "PointOfInterest",
+          "loc": [
+            478.609375,
+            259.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Daren Edermath\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18d84a0888aa",
+          "type": "PointOfInterest",
+          "loc": [
+            323.609375,
+            342.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Nainine sælger armor og våben for Lionshield Coster\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9ba9a6b1a1b",
+          "type": "PointOfInterest",
+          "loc": [
+            444.609375,
+            358.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sister Garaele: medlem af Harpoers ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a2bdaa9fa6b",
+          "type": "PointOfInterest",
+          "loc": [
+            220.609375,
+            331.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gundrens Rockseeker brødre arbejder her.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e98a190b1988",
+          "type": "default",
+          "loc": [
+            395.609375,
+            626.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bar hvor redbrand drikker deres øl",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Towns/Phandalin.md"
+      ]
+    },
+    {
+      "id": "SwordCoastRegionMap",
+      "locked": true,
+      "lastAccessed": 1734113133851,
+      "markers": [
+        {
+          "id": "ID_49ea49994a4a",
+          "type": "Town",
+          "loc": [
+            5240.578277699168,
+            4066.2175452132415
+          ],
+          "link": "NeverWinter",
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "NeverWinter City, (Undead problem)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_597aa888387a",
+          "type": "Town",
+          "loc": [
+            4927.639332850296,
+            4335.625228845316
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Phandalin City, (Mining city) ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Sword Coast.md"
+      ]
+    },
+    {
       "id": "Session2",
       "locked": true,
-      "lastAccessed": 1734075437359,
+      "lastAccessed": 1734113689450,
       "markers": [
         {
           "id": "ID_fb7afae9c92b",
@@ -821,179 +991,9 @@
       ]
     },
     {
-      "id": "PhandalinCity",
-      "locked": true,
-      "lastAccessed": 1734076067400,
-      "markers": [
-        {
-          "id": "ID_d8fa2bbb797a",
-          "type": "default",
-          "loc": [
-            133.609375,
-            313.5
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Perfect for summoning dragon chickens ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_cab9583a2aab",
-          "type": "default",
-          "loc": [
-            420.609375,
-            880.25
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Hideout for the Red brandt group and where we first encountered glass staff, the leader of the group.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3bc8094b4aaa",
-          "type": "PointOfInterest",
-          "loc": [
-            478.609375,
-            259.25
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Daren Edermath\n",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_18d84a0888aa",
-          "type": "PointOfInterest",
-          "loc": [
-            323.609375,
-            342.25
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Nainine sælger armor og våben for Lionshield Coster\n",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d9ba9a6b1a1b",
-          "type": "PointOfInterest",
-          "loc": [
-            444.609375,
-            358.25
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Sister Garaele: medlem af Harpoers ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4a2bdaa9fa6b",
-          "type": "PointOfInterest",
-          "loc": [
-            220.609375,
-            331.25
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Gundrens Rockseeker brødre arbejder her.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e98a190b1988",
-          "type": "default",
-          "loc": [
-            395.609375,
-            626.25
-          ],
-          "layer": "%5B%5BPhandalin.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Bar hvor redbrand drikker deres øl",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/World/Sword-Coast/Towns/Phandalin.md"
-      ]
-    },
-    {
-      "id": "SwordCoastRegionMap",
-      "locked": true,
-      "lastAccessed": 1734113133851,
-      "markers": [
-        {
-          "id": "ID_49ea49994a4a",
-          "type": "Town",
-          "loc": [
-            5240.578277699168,
-            4066.2175452132415
-          ],
-          "link": "NeverWinter",
-          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "NeverWinter City, (Undead problem)",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_597aa888387a",
-          "type": "Town",
-          "loc": [
-            4927.639332850296,
-            4335.625228845316
-          ],
-          "link": "Phandalin",
-          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Phandalin City, (Mining city) ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/World/Sword-Coast/Sword Coast.md"
-      ]
-    },
-    {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734113264535,
+      "lastAccessed": 1734113690873,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1007,7 +1007,7 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Cragmaw Castle",
+          "description": "Quest: **Find og konfronter Glasstav** \nog \n**Find Gundren Rockseeker & His Map** \n - Cragmaw Castle",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -1039,14 +1039,136 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "Quest: **Forstå Glasstaff's Forbindelser** - Snak med Sildar omkring League of Lords",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89988b98b848",
+          "type": "Quest",
+          "loc": [
+            429.48029144711546,
+            716.6459376785148
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Undeads ved Old Owl Well**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8cb4ab99ae8",
+          "type": "Quest",
+          "loc": [
+            350.9348857941923,
+            741.931790159985
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Undersøg Orkere ved Wyvern Tor**",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 257.6398633292223,
+              "lng": 451.45275103290794,
+              "id": "ID_eb489938582b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 312.9379941768488,
+              "lng": 422.91178027284263,
+              "id": "ID_b96afa9ad8da",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 334.3437222468978,
+              "lng": 469.88546131545013,
+              "id": "ID_fab858baf989",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 390.83106020952704,
+              "lng": 507.94008899553717,
+              "id": "ID_1a9b4a2b6a5b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 441.96696615464407,
+              "lng": 572.1572732056841,
+              "id": "ID_c9e97a89083a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 472.8863511447148,
+              "lng": 606.644279540763,
+              "id": "ID_fba848381b58",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 562.0768847699188,
+              "lng": 610.8065044432725,
+              "id": "ID_daab3b9af8ca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 464.56190133969574,
+              "lng": 441.93909411288615,
+              "id": "ID_6a29db78c899",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 322.4516510968706,
+              "lng": 433.61464430786714,
+              "id": "ID_2b488a7a5ba9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 242.1484375,
+              "lng": 457.125,
+              "id": "ID_d9baea08cba8",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_88995909c9aa"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
       "files": [
         "DND/World/Sword-Coast/Sword Coast.md",
         "DND/Sessions/4. Session.md"
@@ -1151,7 +1273,60 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -0.25,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "1000px",
+    "image": "phandelver-map-exterior-player.jpg",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "phandelver-map-exterior-player.jpg"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 2,
+    "minZoom": -1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.25,
+    "zoomFeatures": false,
+    "id": "PhandelverMap_GM",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": false,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1095,
+        800
+      ]
+    ],
+    "width": "95%",
+    "lat": 400,
+    "long": 547.5,
+    "unit": "km",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
