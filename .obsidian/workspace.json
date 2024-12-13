@@ -26,12 +26,15 @@
             "id": "c3ace674dc9a05f4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DND/images/Maps/sword-coast-merge-map-dm.jpg"
+                "file": "DND/Sessions/4. Session.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "sword-coast-merge-map-dm"
+              "icon": "lucide-file",
+              "title": "4. Session"
             }
           }
         ],
@@ -192,8 +195,11 @@
   },
   "active": "c3ace674dc9a05f4",
   "lastOpenFiles": [
-    "DND/Sessions/4. Session.md",
     "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
+    "DND/Sessions/4. Session.md",
+    "DND/World/Sword-Coast/Sword Coast.md",
+    "DND/images/Maps/phandelver-map-exterior-player.jpg",
+    "DND/images/Maps/sword-coast-merge-map-dm.jpg",
     "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
     "DND/images/Maps/Cragmore_castle.webp",
     "DND/Sessions/2. Session.md",
@@ -201,8 +207,6 @@
     "DND/World/Sword-Coast/Towns/Phandalin.md",
     "DND/World/Sword-Coast/Towns/Neverwinter.md",
     "DND/images/Maps/Phandalin.webp",
-    "DND/images/Maps/phandelver-map-exterior-player.jpg",
-    "DND/World/Sword-Coast/Sword Coast.md",
     "DND/images/Characters.md",
     "Nainine.md",
     "Templates/Templates.md",
@@ -212,7 +216,6 @@
     "DND/World/Sword-Coast/NPCs/Lords' Alliance.md",
     "DND/Sessions/Nainine.md",
     "Templates/Session Note.md",
-    "DND/images/Maps/sword-coast-merge-map-dm.jpg",
     "Templates/leaflet.md",
     "DND/World/Sword-Coast/NPCs/Sildar.md"
   ]
