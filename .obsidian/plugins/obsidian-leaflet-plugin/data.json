@@ -436,7 +436,7 @@
     {
       "id": "Session2",
       "locked": true,
-      "lastAccessed": 1734113689450,
+      "lastAccessed": 1734113725473,
       "markers": [
         {
           "id": "ID_fb7afae9c92b",
@@ -993,7 +993,7 @@
     {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734113690873,
+      "lastAccessed": 1734113744047,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1171,7 +1171,8 @@
       ],
       "files": [
         "DND/World/Sword-Coast/Sword Coast.md",
-        "DND/Sessions/4. Session.md"
+        "DND/Sessions/4. Session.md",
+        "DND/Sessions/5. Session.md"
       ]
     }
   ],
