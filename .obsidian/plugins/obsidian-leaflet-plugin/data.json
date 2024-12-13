@@ -352,6 +352,434 @@
       "files": [
         "DND/World/Sword-Coast/Towns/Phandalin.md"
       ]
+    },
+    {
+      "id": "Session2",
+      "locked": true,
+      "lastAccessed": 1734075059188,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 618.296875,
+              "lng": 531.25,
+              "id": "ID_48689b9a8af9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 602.296875,
+              "lng": 525.25,
+              "id": "ID_4818bab899ba",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 581.296875,
+              "lng": 527.25,
+              "id": "ID_db0bd929981a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 538.296875,
+              "lng": 523.25,
+              "id": "ID_a92989889a9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 519.296875,
+              "lng": 505.25,
+              "id": "ID_4939c9399969",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 491.296875,
+              "lng": 482.25,
+              "id": "ID_49e8e9a9cb8a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 470.296875,
+              "lng": 461.25,
+              "id": "ID_99881b0b7a68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 448.296875,
+              "lng": 445.25,
+              "id": "ID_0b29b998ab89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 427.296875,
+              "lng": 432.25,
+              "id": "ID_69cb59fa5a48",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 410.296875,
+              "lng": 408.25,
+              "id": "ID_1bc8c8a9ca6a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 389.296875,
+              "lng": 395.25,
+              "id": "ID_39e998db59e9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 370.296875,
+              "lng": 381.25,
+              "id": "ID_9abb59a86b5a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 327.296875,
+              "lng": 345.25,
+              "id": "ID_fac99ad98a28",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 291.296875,
+              "lng": 336.25,
+              "id": "ID_2a694ae87ad8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 266.296875,
+              "lng": 333.25,
+              "id": "ID_6ae828b838db",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 274.296875,
+              "lng": 306.25,
+              "id": "ID_e8aaaa1959ba",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 325.296875,
+              "lng": 297.25,
+              "id": "ID_99382b0b6b59",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 361.296875,
+              "lng": 293.25,
+              "id": "ID_d8192859e958",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 388.296875,
+              "lng": 340.25,
+              "id": "ID_39898879cbf9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 410.296875,
+              "lng": 358.25,
+              "id": "ID_28fbdab8bb5a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 441.296875,
+              "lng": 362.25,
+              "id": "ID_dacaab9b7809",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 463.296875,
+              "lng": 339.25,
+              "id": "ID_3888a909bb58",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 491.296875,
+              "lng": 331.25,
+              "id": "ID_3a6ac9390a1b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 506.296875,
+              "lng": 324.25,
+              "id": "ID_1a099aaaa94a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 499.296875,
+              "lng": 301.25,
+              "id": "ID_8bf8b9c839ab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 486.296875,
+              "lng": 272.25,
+              "id": "ID_4aa979d8fb8a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 479.296875,
+              "lng": 260.25,
+              "id": "ID_08a91a5979db",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 427.296875,
+              "lng": 260.25,
+              "id": "ID_6abb1929da8b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 391.296875,
+              "lng": 300.25,
+              "id": "ID_ca49bb9b0bd9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 378.296875,
+              "lng": 360.25,
+              "id": "ID_a94a6b995af9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 388.296875,
+              "lng": 384.25,
+              "id": "ID_59596918ba79",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 397.296875,
+              "lng": 423.25,
+              "id": "ID_587a098aeb59",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 420.296875,
+              "lng": 454.25,
+              "id": "ID_6bd9db69a8da",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 388.296875,
+              "lng": 444.25,
+              "id": "ID_eafaf949f80a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 388.296875,
+              "lng": 499.25,
+              "id": "ID_caf838a87a69",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 382.296875,
+              "lng": 551.25,
+              "id": "ID_b98bb949488a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 382.296875,
+              "lng": 596.25,
+              "id": "ID_aacb3acb391a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 381.296875,
+              "lng": 641.25,
+              "id": "ID_191b8a4bcbd8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 366.296875,
+              "lng": 677.25,
+              "id": "ID_39a9a99b387b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 380.296875,
+              "lng": 711.25,
+              "id": "ID_4959db58cb0b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 404.296875,
+              "lng": 737.25,
+              "id": "ID_ab687bd8b81b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 417.296875,
+              "lng": 753.25,
+              "id": "ID_5ab8bac9e80a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 417.296875,
+              "lng": 772.25,
+              "id": "ID_babafac9f9d8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 400.296875,
+              "lng": 775.25,
+              "id": "ID_491b184ab959",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 391.296875,
+              "lng": 786.25,
+              "id": "ID_68da1a1b4988",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 406.296875,
+              "lng": 795.25,
+              "id": "ID_08c83b092b38",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 416.296875,
+              "lng": 808.25,
+              "id": "ID_29e8993be9fa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 408.296875,
+              "lng": 828.25,
+              "id": "ID_c9a879f9b878",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 404.296875,
+              "lng": 847.25,
+              "id": "ID_c9d84aa84ada",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 417.296875,
+              "lng": 869.25,
+              "id": "ID_1bd82bfa6b69",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 422.296875,
+              "lng": 891.25,
+              "id": "ID_e808d95bd868",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "DND/Sessions/2. Session.md"
+      ]
     }
   ],
   "defaultMarker": {
