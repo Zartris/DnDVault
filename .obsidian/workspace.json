@@ -11,12 +11,15 @@
             "id": "048a5edeb76238a3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DND/images/Maps/Phandalin.webp"
+                "file": "DND/Sessions/2. Session.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Phandalin"
+              "icon": "lucide-file",
+              "title": "2. Session"
             }
           }
         ]
@@ -176,12 +179,13 @@
   },
   "active": "048a5edeb76238a3",
   "lastOpenFiles": [
-    "DND/images/Maps/phandelver-map-exterior-player.jpg",
-    "DND/images/Maps/Phandalin.webp",
+    "DND/World/Sword-Coast/Towns/Phandalin.md",
     "DND/Sessions/2. Session.md",
+    "DND/Sessions/2. Session 1.md",
+    "DND/images/Maps/Phandalin.webp",
+    "DND/images/Maps/phandelver-map-exterior-player.jpg",
     "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
     "DND/Sessions/1. Session.md",
-    "DND/World/Sword-Coast/Towns/Phandalin.md",
     "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
     "DND/World/Sword-Coast/Sword Coast.md",
     "DND/World/Sword-Coast/Towns/Neverwinter.md",
