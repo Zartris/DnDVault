@@ -7,7 +7,6 @@ tags:
 <img src="https://static.wikia.nocookie.net/brightsidedm/images/5/58/Cragmaw.jpg/revision/latest?cb=20180909011152" alt="Cragmaw Castle" width="650"/>
 <img src="https://static.wikia.nocookie.net/forgottenrealms/images/8/88/Crag.png/revision/latest/scale-to-width-down/1000?cb=20191021122436" alt="Cragmaw Castle" width="600"/>
 <img src="https://static.wikia.nocookie.net/forgottenrealms/images/2/26/PortionNeverwinterWood.png/revision/latest?cb=20190921221245" alt="Cragmaw Castle" width="500"/>
-
 </p>
 
 ## Beskrivelse

@@ -26,15 +26,12 @@
             "id": "c3ace674dc9a05f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "DND/images/Maps/sword-coast-merge-map-dm.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Cragmaw Castle"
+              "icon": "lucide-image",
+              "title": "sword-coast-merge-map-dm"
             }
           }
         ],
@@ -195,9 +192,9 @@
   },
   "active": "c3ace674dc9a05f4",
   "lastOpenFiles": [
-    "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
-    "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
     "DND/Sessions/4. Session.md",
+    "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
+    "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
     "DND/images/Maps/Cragmore_castle.webp",
     "DND/Sessions/2. Session.md",
     "DND/Sessions/1. Session.md",
