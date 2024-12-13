@@ -11,15 +11,12 @@
             "id": "048a5edeb76238a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DND/Sessions/2. Session.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "DND/images/Maps/Phandalin.webp"
               },
-              "icon": "lucide-file",
-              "title": "2. Session"
+              "icon": "lucide-image",
+              "title": "Phandalin"
             }
           }
         ]
@@ -179,8 +176,11 @@
   },
   "active": "048a5edeb76238a3",
   "lastOpenFiles": [
-    "DND/Sessions/1. Session.md",
+    "DND/images/Maps/phandelver-map-exterior-player.jpg",
+    "DND/images/Maps/Phandalin.webp",
     "DND/Sessions/2. Session.md",
+    "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
+    "DND/Sessions/1. Session.md",
     "DND/World/Sword-Coast/Towns/Phandalin.md",
     "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
     "DND/World/Sword-Coast/Sword Coast.md",
@@ -192,10 +192,8 @@
     "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
     "Templates/Insert center image html.md",
     "DND/World/Sword-Coast/NPCs/Lords' Alliance.md",
-    "DND/World/Sword-Coast/PointOfInterest/Cragmaw Castle.md",
     "DND/Sessions/Nainine.md",
     "Templates/Session Note.md",
-    "DND/images/Maps/Phandalin.webp",
     "DND/images/Maps/sword-coast-merge-map-dm.jpg",
     "Templates/leaflet.md",
     "DND/World/Sword-Coast/NPCs/Sildar.md"
