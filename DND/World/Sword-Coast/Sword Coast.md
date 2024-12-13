@@ -48,7 +48,7 @@ darkMode: false
 ```leaflet
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
 ### id must be unique  
-id: PhandelverMap_GM  
+id: PhandelverMap_GM_Sword_Coast  
 ### Lock pins so they can't be moved  
 lock: true
 ### If true, view of map will recenter as you zoom out.  

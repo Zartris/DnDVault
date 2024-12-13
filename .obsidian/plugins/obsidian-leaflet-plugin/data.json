@@ -388,52 +388,6 @@
       ]
     },
     {
-      "id": "SwordCoastRegionMap",
-      "locked": true,
-      "lastAccessed": 1734113133851,
-      "markers": [
-        {
-          "id": "ID_49ea49994a4a",
-          "type": "Town",
-          "loc": [
-            5240.578277699168,
-            4066.2175452132415
-          ],
-          "link": "NeverWinter",
-          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "NeverWinter City, (Undead problem)",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_597aa888387a",
-          "type": "Town",
-          "loc": [
-            4927.639332850296,
-            4335.625228845316
-          ],
-          "link": "Phandalin",
-          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Phandalin City, (Mining city) ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/World/Sword-Coast/Sword Coast.md"
-      ]
-    },
-    {
       "id": "Session2",
       "locked": true,
       "lastAccessed": 1734114579419,
@@ -991,9 +945,55 @@
       ]
     },
     {
+      "id": "SwordCoastRegionMap",
+      "locked": true,
+      "lastAccessed": 1734115084378,
+      "markers": [
+        {
+          "id": "ID_49ea49994a4a",
+          "type": "Town",
+          "loc": [
+            5240.578277699168,
+            4066.2175452132415
+          ],
+          "link": "NeverWinter",
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "NeverWinter City, (Undead problem)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_597aa888387a",
+          "type": "Town",
+          "loc": [
+            4927.639332850296,
+            4335.625228845316
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Phandalin City, (Mining city) ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Sword Coast.md"
+      ]
+    },
+    {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734114591707,
+      "lastAccessed": 1734115202235,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1171,6 +1171,35 @@
       "files": [
         "DND/World/Sword-Coast/Sword Coast.md",
         "DND/Sessions/4. Session.md",
+        "DND/Sessions/5. Session.md"
+      ]
+    },
+    {
+      "id": "Session5Map",
+      "locked": true,
+      "lastAccessed": 1734115202235,
+      "markers": [
+        {
+          "id": "ID_48ea4ba8ab4b",
+          "type": "PointOfInterest",
+          "loc": [
+            458.814106572808,
+            418.97663890016327
+          ],
+          "link": "Cragmaw Castle",
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cragmaw Castle",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
         "DND/Sessions/5. Session.md"
       ]
     }
