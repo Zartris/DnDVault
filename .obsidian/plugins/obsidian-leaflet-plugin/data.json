@@ -1243,193 +1243,9 @@
       ]
     },
     {
-      "id": "PhandelverMap_GM",
-      "locked": true,
-      "lastAccessed": 1734120325504,
-      "markers": [
-        {
-          "id": "ID_7b1a7ba8091a",
-          "type": "Quest",
-          "loc": [
-            461.90177309756774,
-            433.27187795947646
-          ],
-          "link": "Cragmaw Castle",
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Find og konfronter Glasstav** \nog \n**Find Gundren Rockseeker & His Map** \n - Cragmaw Castle",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3ab8a85a1baa",
-          "type": "PointOfInterest",
-          "loc": [
-            562.8093429280135,
-            610.7010215780102
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Banshee",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_88995909c9aa",
-          "type": "Quest",
-          "loc": [
-            242.1484375,
-            457.125
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Forstå Glasstaff's Forbindelser** - Snak med Sildar omkring League of Lords",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_89988b98b848",
-          "type": "Quest",
-          "loc": [
-            429.48029144711546,
-            716.6459376785148
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Undeads ved Old Owl Well**",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a8cb4ab99ae8",
-          "type": "Quest",
-          "loc": [
-            350.9348857941923,
-            741.931790159985
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Undersøg Orkere ved Wyvern Tor**",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 257.6398633292223,
-              "lng": 451.45275103290794,
-              "id": "ID_eb489938582b",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 312.9379941768488,
-              "lng": 422.91178027284263,
-              "id": "ID_b96afa9ad8da",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 334.3437222468978,
-              "lng": 469.88546131545013,
-              "id": "ID_fab858baf989",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 390.83106020952704,
-              "lng": 507.94008899553717,
-              "id": "ID_1a9b4a2b6a5b",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 441.96696615464407,
-              "lng": 572.1572732056841,
-              "id": "ID_c9e97a89083a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 472.8863511447148,
-              "lng": 606.644279540763,
-              "id": "ID_fba848381b58",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 562.0768847699188,
-              "lng": 610.8065044432725,
-              "id": "ID_daab3b9af8ca",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 464.56190133969574,
-              "lng": 441.93909411288615,
-              "id": "ID_6a29db78c899",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 322.4516510968706,
-              "lng": 433.61464430786714,
-              "id": "ID_2b488a7a5ba9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 242.1484375,
-              "lng": 457.125,
-              "id": "ID_d9baea08cba8",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": true,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "DND/World/Sword-Coast/Sword Coast.md",
-        "DND/Sessions/4. Session.md",
-        "DND/Sessions/5. Session.md"
-      ]
-    },
-    {
       "id": "Session5Map",
       "locked": true,
-      "lastAccessed": 1734120325504,
+      "lastAccessed": 1734120709815,
       "markers": [
         {
           "id": "ID_48ea4ba8ab4b",
@@ -1639,6 +1455,190 @@
       "files": [
         "DND/Sessions/5. Session.md",
         "DND/Sessions/6. Session.md"
+      ]
+    },
+    {
+      "id": "PhandelverMap_GM",
+      "locked": true,
+      "lastAccessed": 1734120709815,
+      "markers": [
+        {
+          "id": "ID_7b1a7ba8091a",
+          "type": "Quest",
+          "loc": [
+            461.90177309756774,
+            433.27187795947646
+          ],
+          "link": "Cragmaw Castle",
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Find og konfronter Glasstav** \nog \n**Find Gundren Rockseeker & His Map** \n - Cragmaw Castle",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ab8a85a1baa",
+          "type": "PointOfInterest",
+          "loc": [
+            562.8093429280135,
+            610.7010215780102
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Banshee",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88995909c9aa",
+          "type": "Quest",
+          "loc": [
+            242.1484375,
+            457.125
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Forstå Glasstaff's Forbindelser** - Snak med Sildar omkring League of Lords",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89988b98b848",
+          "type": "Quest",
+          "loc": [
+            429.48029144711546,
+            716.6459376785148
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Undeads ved Old Owl Well**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8cb4ab99ae8",
+          "type": "Quest",
+          "loc": [
+            350.9348857941923,
+            741.931790159985
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Undersøg Orkere ved Wyvern Tor**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 257.6398633292223,
+              "lng": 451.45275103290794,
+              "id": "ID_eb489938582b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 312.9379941768488,
+              "lng": 422.91178027284263,
+              "id": "ID_b96afa9ad8da",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 334.3437222468978,
+              "lng": 469.88546131545013,
+              "id": "ID_fab858baf989",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 390.83106020952704,
+              "lng": 507.94008899553717,
+              "id": "ID_1a9b4a2b6a5b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 441.96696615464407,
+              "lng": 572.1572732056841,
+              "id": "ID_c9e97a89083a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 472.8863511447148,
+              "lng": 606.644279540763,
+              "id": "ID_fba848381b58",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 562.0768847699188,
+              "lng": 610.8065044432725,
+              "id": "ID_daab3b9af8ca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 464.56190133969574,
+              "lng": 441.93909411288615,
+              "id": "ID_6a29db78c899",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 322.4516510968706,
+              "lng": 433.61464430786714,
+              "id": "ID_2b488a7a5ba9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 242.1484375,
+              "lng": 457.125,
+              "id": "ID_d9baea08cba8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "DND/World/Sword-Coast/Sword Coast.md",
+        "DND/Sessions/4. Session.md",
+        "DND/Sessions/5. Session.md"
       ]
     }
   ],
