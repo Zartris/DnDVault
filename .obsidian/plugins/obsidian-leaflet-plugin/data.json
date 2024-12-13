@@ -993,7 +993,7 @@
     {
       "id": "Session7Map",
       "locked": true,
-      "lastAccessed": 1734120098802,
+      "lastAccessed": 1734120300085,
       "markers": [
         {
           "id": "ID_bb48e8b85889",
@@ -1183,9 +1183,69 @@
       ]
     },
     {
+      "id": "Session7MapNeverWinterCity",
+      "locked": true,
+      "lastAccessed": 1734120300085,
+      "markers": [
+        {
+          "id": "ID_48b8194a3859",
+          "type": "PointOfInterest",
+          "loc": [
+            1408.75,
+            812.5
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ankom til byen, hvor Nondrow gik mod Blue Lake District for at begrave sine brødre.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a199bba8899",
+          "type": "PointOfInterest",
+          "loc": [
+            1413.329678896612,
+            1973.181472901061
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cloak Tower i Neverwinter\n- Delthor forsøgte at identificere den magiske cannister uden held.\n- Ministeren for forbandede genstande fjernede Delthors forbandelse med \"Remove Curse.\"\n- Golden eye blev nægtet adgang til Cloak Tower på grund af racisme.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bf9884b9b99",
+          "type": "PointOfInterest",
+          "loc": [
+            1042.805725554861,
+            1110.511199853473
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "House of Knowledge\n- Besøgte biblioteket og lærte om Neverwinters historie, herunder vulkanudbruddet ved Mt. Hotenow og Kong Fillips sindssyge.\n- Underskriveren Atlavast tilbød hjælp, men kunne ikke finde specifik information hurtigt nok.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/Sessions/7. Session.md"
+      ]
+    },
+    {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734120222981,
+      "lastAccessed": 1734120325504,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1369,7 +1429,7 @@
     {
       "id": "Session5Map",
       "locked": true,
-      "lastAccessed": 1734120222981,
+      "lastAccessed": 1734120325504,
       "markers": [
         {
           "id": "ID_48ea4ba8ab4b",
@@ -1580,66 +1640,6 @@
         "DND/Sessions/5. Session.md",
         "DND/Sessions/6. Session.md"
       ]
-    },
-    {
-      "id": "Session7MapNeverWinterCity",
-      "locked": true,
-      "lastAccessed": 1734120222981,
-      "markers": [
-        {
-          "id": "ID_48b8194a3859",
-          "type": "PointOfInterest",
-          "loc": [
-            1408.75,
-            812.5
-          ],
-          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Ankom til byen, hvor Nondrow gik mod Blue Lake District for at begrave sine brødre.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9a199bba8899",
-          "type": "PointOfInterest",
-          "loc": [
-            1413.329678896612,
-            1973.181472901061
-          ],
-          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Cloak Tower i Neverwinter\n- Delthor forsøgte at identificere den magiske cannister uden held.\n- Ministeren for forbandede genstande fjernede Delthors forbandelse med \"Remove Curse.\"\n- Golden eye blev nægtet adgang til Cloak Tower på grund af racisme.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5bf9884b9b99",
-          "type": "PointOfInterest",
-          "loc": [
-            1042.805725554861,
-            1110.511199853473
-          ],
-          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/Sessions/7. Session.md"
-      ]
     }
   ],
   "defaultMarker": {
@@ -1707,7 +1707,7 @@
     {
       "type": "PointOfInterest",
       "iconName": "star-of-life",
-      "color": "#4d79ff",
+      "color": "#d84dff",
       "alpha": 1,
       "layer": false,
       "transform": {
