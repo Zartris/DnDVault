@@ -993,7 +993,7 @@
     {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734115951514,
+      "lastAccessed": 1734116046067,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1177,7 +1177,7 @@
     {
       "id": "Session5Map",
       "locked": true,
-      "lastAccessed": 1734115951514,
+      "lastAccessed": 1734116046067,
       "markers": [
         {
           "id": "ID_48ea4ba8ab4b",
@@ -1272,8 +1272,7 @@
               "lng": 418.97663890016327,
               "id": "ID_4a0a9b1aead8",
               "targets": {
-                "vertexIds": [],
-                "markerId": "ID_48ea4ba8ab4b"
+                "vertexIds": []
               }
             },
             {
@@ -1289,8 +1288,7 @@
               "lng": 461.56101151043106,
               "id": "ID_f9fb9978793a",
               "targets": {
-                "vertexIds": [],
-                "markerId": "ID_fb8bdb5a389a"
+                "vertexIds": []
               }
             },
             {
@@ -1346,8 +1344,7 @@
               "lng": 740.4300799785691,
               "id": "ID_4b4b8b680be8",
               "targets": {
-                "vertexIds": [],
-                "markerId": "ID_182869ba7ae9"
+                "vertexIds": []
               }
             },
             {
@@ -1379,8 +1376,7 @@
               "lng": 539.8125,
               "id": "ID_792ae8c97b29",
               "targets": {
-                "vertexIds": [],
-                "markerId": "ID_ba5899b90ab8"
+                "vertexIds": []
               }
             }
           ],
@@ -1389,7 +1385,8 @@
         }
       ],
       "files": [
-        "DND/Sessions/5. Session.md"
+        "DND/Sessions/5. Session.md",
+        "DND/Sessions/6. Session.md"
       ]
     }
   ],
