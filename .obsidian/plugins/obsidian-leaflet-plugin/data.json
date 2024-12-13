@@ -310,54 +310,139 @@
       ]
     },
     {
-      "id": "PhandalinCity",
+      "id": "Session2",
       "locked": true,
-      "lastAccessed": 1733989504928,
+      "lastAccessed": 1734075437359,
       "markers": [
         {
-          "id": "ID_d8fa2bbb797a",
+          "id": "ID_fb7afae9c92b",
           "type": "default",
           "loc": [
-            133.609375,
-            313.5
+            612.296875,
+            531.25
           ],
           "layer": "%5B%5BPhandalin.webp%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Perfect for summoning dragon chickens ",
+          "description": "Start of session.\n",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_cab9583a2aab",
-          "type": "default",
+          "id": "ID_4a49cad99bd9",
+          "type": "Quest",
           "loc": [
-            420.609375,
-            880.25
+            327.6484375,
+            345.125
           ],
           "layer": "%5B%5BPhandalin.webp%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Hideout for the Red brandt group and where we first encountered glass staff, the leader of the group.",
+          "description": "Quest 1: **Investigate Lionshield Coster Crates** - Snak med Nainine",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_785bbb5a2899",
+          "type": "default",
+          "loc": [
+            227.1911990865465,
+            321.9103621351757
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Snak med Gundrens brødre",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_895a782a9bba",
+          "type": "default",
+          "loc": [
+            126.296875,
+            316.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Summon dragon chicken!",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba9b9898c929",
+          "type": "PointOfInterest",
+          "loc": [
+            444.296875,
+            359.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Snak med Sister Garaele",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_180ab9f8ab2a",
+          "type": "PointOfInterest",
+          "loc": [
+            482.296875,
+            257.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Snak med Daren Edermath",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bf868f928fb",
+          "type": "default",
+          "loc": [
+            416.296875,
+            454.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mødte Redbrands, og kæmpede mod dem.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aaadadb3b69",
+          "type": "default",
+          "loc": [
+            416.296875,
+            887.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Konfrontere dem i deres Hideout",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         }
       ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/World/Sword-Coast/Towns/Phandalin.md"
-      ]
-    },
-    {
-      "id": "Session2",
-      "locked": true,
-      "lastAccessed": 1734075059188,
-      "markers": [],
       "overlays": [],
       "shapes": [
         {
@@ -469,32 +554,32 @@
               }
             },
             {
-              "lat": 291.296875,
-              "lng": 336.25,
+              "lat": 275.7716446627535,
+              "lng": 350.72496346852756,
               "id": "ID_2a694ae87ad8",
               "targets": {
                 "vertexIds": []
               }
             },
             {
-              "lat": 266.296875,
-              "lng": 333.25,
+              "lat": 229.10259710444137,
+              "lng": 321.7335854398791,
               "id": "ID_6ae828b838db",
               "targets": {
                 "vertexIds": []
               }
             },
             {
-              "lat": 274.296875,
-              "lng": 306.25,
+              "lat": 284.9640328181786,
+              "lng": 335.1686142824235,
               "id": "ID_e8aaaa1959ba",
               "targets": {
                 "vertexIds": []
               }
             },
             {
-              "lat": 325.296875,
-              "lng": 297.25,
+              "lat": 307.59144981614816,
+              "lng": 301.9345955666558,
               "id": "ID_99382b0b6b59",
               "targets": {
                 "vertexIds": []
@@ -779,6 +864,114 @@
       ],
       "files": [
         "DND/Sessions/2. Session.md"
+      ]
+    },
+    {
+      "id": "PhandalinCity",
+      "locked": true,
+      "lastAccessed": 1734075630205,
+      "markers": [
+        {
+          "id": "ID_d8fa2bbb797a",
+          "type": "default",
+          "loc": [
+            133.609375,
+            313.5
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Perfect for summoning dragon chickens ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cab9583a2aab",
+          "type": "default",
+          "loc": [
+            420.609375,
+            880.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hideout for the Red brandt group and where we first encountered glass staff, the leader of the group.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bc8094b4aaa",
+          "type": "PointOfInterest",
+          "loc": [
+            478.609375,
+            259.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Daren Edermath\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18d84a0888aa",
+          "type": "PointOfInterest",
+          "loc": [
+            323.609375,
+            342.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Nainine sælger armor og våben for Lionshield Coster\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9ba9a6b1a1b",
+          "type": "PointOfInterest",
+          "loc": [
+            444.609375,
+            358.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sister Garaele: medlem af Harpoers ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a2bdaa9fa6b",
+          "type": "PointOfInterest",
+          "loc": [
+            220.609375,
+            331.25
+          ],
+          "layer": "%5B%5BPhandalin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gundrens Rockseeker brødre arbejder her.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/World/Sword-Coast/Towns/Phandalin.md"
       ]
     }
   ],
