@@ -991,9 +991,186 @@
       ]
     },
     {
+      "id": "Session7Map",
+      "locked": true,
+      "lastAccessed": 1734119974930,
+      "markers": [
+        {
+          "id": "ID_bb48e8b85889",
+          "type": "default",
+          "loc": [
+            266.4567192052972,
+            529.3458170655862
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Start of session: Clearede de sidste farer i minen, inklusive Flame Skull.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bba6a09ab7b",
+          "type": "Quest",
+          "loc": [
+            273.5625,
+            521.625
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Cleare Wave Echo Cave** og **Håndter Flame Skull**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b84898ababa8",
+          "type": "default",
+          "loc": [
+            241.5625,
+            459.625
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tilbage til Phandalin\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fafb1a885899",
+          "type": "Quest",
+          "loc": [
+            584.5625,
+            330.125
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **eliminate green drake**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2918f918eb8b",
+          "type": "Town",
+          "loc": [
+            224.24123798378386,
+            460.50329124773907
+          ],
+          "link": "Phandalin",
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 291.5,
+              "lng": 511.5,
+              "id": "ID_6ab8e819ea8a",
+              "targets": {
+                "vertexIds": [
+                  "ID_79188a69ba2b"
+                ]
+              }
+            },
+            {
+              "lat": 338.0625,
+              "lng": 476.125,
+              "id": "ID_1a68ea89690a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 313.0625,
+              "lng": 424.125,
+              "id": "ID_ab2839eb489b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 241.5625,
+              "lng": 459.625,
+              "id": "ID_1b1a2a58baeb",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_b84898ababa8"
+              }
+            },
+            {
+              "lat": 309.0625,
+              "lng": 415.125,
+              "id": "ID_ba6ae8c9b878",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 283.0625,
+              "lng": 317.625,
+              "id": "ID_8b2978a94a89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 435.0625,
+              "lng": 274.125,
+              "id": "ID_f8eb9ba8e92a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 563.5625,
+              "lng": 175.125,
+              "id": "ID_993839ba887a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 584.0625,
+              "lng": 332.125,
+              "id": "ID_dbb9280a694a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "DND/Sessions/7. Session.md"
+      ]
+    },
+    {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734119610924,
+      "lastAccessed": 1734119976818,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1177,7 +1354,7 @@
     {
       "id": "Session5Map",
       "locked": true,
-      "lastAccessed": 1734119610924,
+      "lastAccessed": 1734119976819,
       "markers": [
         {
           "id": "ID_48ea4ba8ab4b",
@@ -1387,34 +1564,6 @@
       "files": [
         "DND/Sessions/5. Session.md",
         "DND/Sessions/6. Session.md"
-      ]
-    },
-    {
-      "id": "Session7Map",
-      "locked": true,
-      "lastAccessed": 1734119610924,
-      "markers": [
-        {
-          "id": "ID_bb48e8b85889",
-          "type": "default",
-          "loc": [
-            266.4567192052972,
-            529.3458170655862
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Start of session: Clearede de sidste farer i minen, inklusive Flame Skull.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/Sessions/7. Session.md"
       ]
     }
   ],
