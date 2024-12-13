@@ -46,7 +46,7 @@ darkMode: false
 - [Gundren Rockseeker](../NPCs/Gundren%20Rockseeker.md) - 
 - [Sildar Hallwinter](../NPCs/Sildar%20Hallwinter.md) - Soldat og ven af Gundren.
 - **GlassStaff** - Leder af Red Brandt gruppen / afdelingen i Phandalin.
-- **Nainine** - Kvinde som høre til Lionshield Coster og som sælger våben og armor.
+- **Nainine (Linene)** - Kvinde som høre til Lionshield Coster og som sælger våben og armor.
 - **Sister Garaele**: En elver præst af Tymora i Phandalin, associaered med Harpers. Ude foran hendes hjem er et harpe symbol. 
 - **Daren Edermath:** En  elver som er pensioneret eventyrer og nu ejer af en æbleplantage i Phandalin.
 ## Summary of town
