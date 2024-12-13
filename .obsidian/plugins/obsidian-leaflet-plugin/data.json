@@ -993,7 +993,7 @@
     {
       "id": "PhandelverMap_GM",
       "locked": true,
-      "lastAccessed": 1734118246448,
+      "lastAccessed": 1734119610924,
       "markers": [
         {
           "id": "ID_7b1a7ba8091a",
@@ -1177,7 +1177,7 @@
     {
       "id": "Session5Map",
       "locked": true,
-      "lastAccessed": 1734118246448,
+      "lastAccessed": 1734119610924,
       "markers": [
         {
           "id": "ID_48ea4ba8ab4b",
@@ -1387,6 +1387,34 @@
       "files": [
         "DND/Sessions/5. Session.md",
         "DND/Sessions/6. Session.md"
+      ]
+    },
+    {
+      "id": "Session7Map",
+      "locked": true,
+      "lastAccessed": 1734119610924,
+      "markers": [
+        {
+          "id": "ID_bb48e8b85889",
+          "type": "default",
+          "loc": [
+            266.4567192052972,
+            529.3458170655862
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Start of session: Clearede de sidste farer i minen, inklusive Flame Skull.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/Sessions/7. Session.md"
       ]
     }
   ],
