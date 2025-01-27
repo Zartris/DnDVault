@@ -58,212 +58,6 @@
       "files": []
     },
     {
-      "id": "PhandelverMap",
-      "locked": true,
-      "lastAccessed": 1733987507741,
-      "markers": [
-        {
-          "id": "ID_299a19390acb",
-          "type": "default",
-          "loc": [
-            559.296875,
-            173.5
-          ],
-          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Start of the session\n",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e9cbe8898a6b",
-          "type": "default",
-          "loc": [
-            234.296875,
-            458.5
-          ],
-          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "End of session\n",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_485a392999aa",
-          "type": "PointOfInterest",
-          "loc": [
-            320.52929420317076,
-            329.323997008945
-          ],
-          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Cragmaw Hideout",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a81a2a595b5b",
-          "type": "Quest",
-          "loc": [
-            238.01794593167742,
-            444.6193947463753
-          ],
-          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest 3: **Investigate Lionshield Coster Crates** ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ea7a694a7a99",
-          "type": "Quest",
-          "loc": [
-            448.44743045350833,
-            414.35389154982505
-          ],
-          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest 2: **Find Gundren Rockseeker & His Map** ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_da392b18d918",
-          "type": "PointOfInterest",
-          "loc": [
-            439.1975698857174,
-            420.24107872734135
-          ],
-          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Cragmaw Castle",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ca98390afaeb",
-          "type": "Quest",
-          "loc": [
-            318.94938250443624,
-            347.07175237821
-          ],
-          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest 1: **Escort Sildar to Phandalin**",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 556.9230680212374,
-              "lng": 176.16779899565321,
-              "id": "ID_d92a1a382b6a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 496.37852612297,
-              "lng": 231.66696240239835,
-              "id": "ID_0a19fb3ab829",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 438.35667347046376,
-              "lng": 272.02999033457667,
-              "id": "ID_18faa9b85a98",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 364.35778892813687,
-              "lng": 300.62046845320293,
-              "id": "ID_885808eb99c9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 294.56338646207854,
-              "lng": 313.2339146820087,
-              "id": "ID_1a298a780b7a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 323.99476099595853,
-              "lng": 329.21094657182925,
-              "id": "ID_2ba879b9e949",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 295.40428287733226,
-              "lng": 368.7330780887538,
-              "id": "ID_a859eb5a089a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 311.38131476715284,
-              "lng": 426.7549307412601,
-              "id": "ID_c9a899da683b",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 239.06422305533337,
-              "lng": 458.7089945209013,
-              "id": "ID_38ea198baab8",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "DND/Sessions/4. Session.md",
-        "DND/Sessions/1. Session.md"
-      ]
-    },
-    {
       "id": "PhandalinCity",
       "locked": true,
       "lastAccessed": 1734076067400,
@@ -390,7 +184,7 @@
     {
       "id": "SwordCoastRegionMap",
       "locked": true,
-      "lastAccessed": 1734115084378,
+      "lastAccessed": 1734205630092,
       "markers": [
         {
           "id": "ID_49ea49994a4a",
@@ -425,6 +219,22 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_1909eb3a5be8",
+          "type": "Town",
+          "loc": [
+            2528.2381990455888,
+            8919.798491277705
+          ],
+          "layer": "%5B%5BSword-Coast-Map_MedRes-min.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -434,9 +244,191 @@
       ]
     },
     {
+      "id": "PhandelverMap_GM",
+      "locked": true,
+      "lastAccessed": 1734205846772,
+      "markers": [
+        {
+          "id": "ID_7b1a7ba8091a",
+          "type": "Quest",
+          "loc": [
+            461.90177309756774,
+            433.27187795947646
+          ],
+          "link": "Cragmaw Castle",
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Find og konfronter Glasstav** \nog \n**Find Gundren Rockseeker & His Map** \n - Cragmaw Castle",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ab8a85a1baa",
+          "type": "PointOfInterest",
+          "loc": [
+            562.8093429280135,
+            610.7010215780102
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Banshee",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88995909c9aa",
+          "type": "Quest",
+          "loc": [
+            242.1484375,
+            457.125
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Forstå Glasstaff's Forbindelser** - Snak med Sildar omkring League of Lords",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89988b98b848",
+          "type": "Quest",
+          "loc": [
+            429.48029144711546,
+            716.6459376785148
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Undeads ved Old Owl Well**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8cb4ab99ae8",
+          "type": "Quest",
+          "loc": [
+            350.9348857941923,
+            741.931790159985
+          ],
+          "layer": "phandelver-map-exterior-player.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest: **Undersøg Orkere ved Wyvern Tor**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 257.6398633292223,
+              "lng": 451.45275103290794,
+              "id": "ID_eb489938582b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 312.9379941768488,
+              "lng": 422.91178027284263,
+              "id": "ID_b96afa9ad8da",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 334.3437222468978,
+              "lng": 469.88546131545013,
+              "id": "ID_fab858baf989",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 390.83106020952704,
+              "lng": 507.94008899553717,
+              "id": "ID_1a9b4a2b6a5b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 441.96696615464407,
+              "lng": 572.1572732056841,
+              "id": "ID_c9e97a89083a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 472.8863511447148,
+              "lng": 606.644279540763,
+              "id": "ID_fba848381b58",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 562.0768847699188,
+              "lng": 610.8065044432725,
+              "id": "ID_daab3b9af8ca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 464.56190133969574,
+              "lng": 441.93909411288615,
+              "id": "ID_6a29db78c899",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 322.4516510968706,
+              "lng": 433.61464430786714,
+              "id": "ID_2b488a7a5ba9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 242.1484375,
+              "lng": 457.125,
+              "id": "ID_d9baea08cba8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "DND/Sessions/4. Session.md"
+      ]
+    },
+    {
       "id": "Session2",
       "locked": true,
-      "lastAccessed": 1734115950587,
+      "lastAccessed": 1734205849815,
       "markers": [
         {
           "id": "ID_fb7afae9c92b",
@@ -991,253 +983,9 @@
       ]
     },
     {
-      "id": "Session7MapNeverWinterCity",
-      "locked": true,
-      "lastAccessed": 1734120300085,
-      "markers": [
-        {
-          "id": "ID_48b8194a3859",
-          "type": "PointOfInterest",
-          "loc": [
-            1408.75,
-            812.5
-          ],
-          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Ankom til byen, hvor Nondrow gik mod Blue Lake District for at begrave sine brødre.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9a199bba8899",
-          "type": "PointOfInterest",
-          "loc": [
-            1413.329678896612,
-            1973.181472901061
-          ],
-          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Cloak Tower i Neverwinter\n- Delthor forsøgte at identificere den magiske cannister uden held.\n- Ministeren for forbandede genstande fjernede Delthors forbandelse med \"Remove Curse.\"\n- Golden eye blev nægtet adgang til Cloak Tower på grund af racisme.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5bf9884b9b99",
-          "type": "PointOfInterest",
-          "loc": [
-            1042.805725554861,
-            1110.511199853473
-          ],
-          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "House of Knowledge\n- Besøgte biblioteket og lærte om Neverwinters historie, herunder vulkanudbruddet ved Mt. Hotenow og Kong Fillips sindssyge.\n- Underskriveren Atlavast tilbød hjælp, men kunne ikke finde specifik information hurtigt nok.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "DND/Sessions/7. Session.md"
-      ]
-    },
-    {
-      "id": "PhandelverMap_GM",
-      "locked": true,
-      "lastAccessed": 1734125235168,
-      "markers": [
-        {
-          "id": "ID_7b1a7ba8091a",
-          "type": "Quest",
-          "loc": [
-            461.90177309756774,
-            433.27187795947646
-          ],
-          "link": "Cragmaw Castle",
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Find og konfronter Glasstav** \nog \n**Find Gundren Rockseeker & His Map** \n - Cragmaw Castle",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3ab8a85a1baa",
-          "type": "PointOfInterest",
-          "loc": [
-            562.8093429280135,
-            610.7010215780102
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Banshee",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_88995909c9aa",
-          "type": "Quest",
-          "loc": [
-            242.1484375,
-            457.125
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Forstå Glasstaff's Forbindelser** - Snak med Sildar omkring League of Lords",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_89988b98b848",
-          "type": "Quest",
-          "loc": [
-            429.48029144711546,
-            716.6459376785148
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Undeads ved Old Owl Well**",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a8cb4ab99ae8",
-          "type": "Quest",
-          "loc": [
-            350.9348857941923,
-            741.931790159985
-          ],
-          "layer": "phandelver-map-exterior-player.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Quest: **Undersøg Orkere ved Wyvern Tor**",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 257.6398633292223,
-              "lng": 451.45275103290794,
-              "id": "ID_eb489938582b",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 312.9379941768488,
-              "lng": 422.91178027284263,
-              "id": "ID_b96afa9ad8da",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 334.3437222468978,
-              "lng": 469.88546131545013,
-              "id": "ID_fab858baf989",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 390.83106020952704,
-              "lng": 507.94008899553717,
-              "id": "ID_1a9b4a2b6a5b",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 441.96696615464407,
-              "lng": 572.1572732056841,
-              "id": "ID_c9e97a89083a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 472.8863511447148,
-              "lng": 606.644279540763,
-              "id": "ID_fba848381b58",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 562.0768847699188,
-              "lng": 610.8065044432725,
-              "id": "ID_daab3b9af8ca",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 464.56190133969574,
-              "lng": 441.93909411288615,
-              "id": "ID_6a29db78c899",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 322.4516510968706,
-              "lng": 433.61464430786714,
-              "id": "ID_2b488a7a5ba9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 242.1484375,
-              "lng": 457.125,
-              "id": "ID_d9baea08cba8",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": true,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "DND/World/Sword-Coast/Sword Coast.md",
-        "DND/Sessions/4. Session.md",
-        "DND/Sessions/5. Session.md"
-      ]
-    },
-    {
       "id": "Session5Map",
       "locked": true,
-      "lastAccessed": 1734125235168,
+      "lastAccessed": 1734205851490,
       "markers": [
         {
           "id": "ID_48ea4ba8ab4b",
@@ -1445,14 +1193,13 @@
         }
       ],
       "files": [
-        "DND/Sessions/5. Session.md",
-        "DND/Sessions/6. Session.md"
+        "DND/Sessions/5. Session.md"
       ]
     },
     {
       "id": "Session7Map",
       "locked": true,
-      "lastAccessed": 1734125235168,
+      "lastAccessed": 1734205911842,
       "markers": [
         {
           "id": "ID_bb48e8b85889",
@@ -1638,8 +1385,274 @@
         }
       ],
       "files": [
-        "DND/Sessions/7. Session.md",
-        "DND/Sessions/8. Session.md"
+        "DND/Sessions/8. Session.md",
+        "DND/Sessions/7. Session.md"
+      ]
+    },
+    {
+      "id": "Session7MapNeverWinterCity",
+      "locked": true,
+      "lastAccessed": 1734205911842,
+      "markers": [
+        {
+          "id": "ID_48b8194a3859",
+          "type": "PointOfInterest",
+          "loc": [
+            1408.75,
+            812.5
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ankom til byen, hvor Nondrow gik mod Blue Lake District for at begrave sine brødre.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a199bba8899",
+          "type": "PointOfInterest",
+          "loc": [
+            1413.329678896612,
+            1973.181472901061
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cloak Tower i Neverwinter\n- Delthor forsøgte at identificere den magiske cannister uden held.\n- Ministeren for forbandede genstande fjernede Delthors forbandelse med \"Remove Curse.\"\n- Golden eye blev nægtet adgang til Cloak Tower på grund af racisme.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bf9884b9b99",
+          "type": "PointOfInterest",
+          "loc": [
+            1042.805725554861,
+            1110.511199853473
+          ],
+          "layer": "%5B%5BNeverwinterMapLabels-scaled.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "House of Knowledge\n- Besøgte biblioteket og lærte om Neverwinters historie, herunder vulkanudbruddet ved Mt. Hotenow og Kong Fillips sindssyge.\n- Underskriveren Atlavast tilbød hjælp, men kunne ikke finde specifik information hurtigt nok.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DND/Sessions/8. Session.md",
+        "DND/Sessions/7. Session.md"
+      ]
+    },
+    {
+      "id": "PhandelverMap",
+      "locked": true,
+      "lastAccessed": 1734205958219,
+      "markers": [
+        {
+          "id": "ID_299a19390acb",
+          "type": "default",
+          "loc": [
+            559.296875,
+            173.5
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Start of the session\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9cbe8898a6b",
+          "type": "default",
+          "loc": [
+            234.296875,
+            458.5
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "End of session\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_485a392999aa",
+          "type": "PointOfInterest",
+          "loc": [
+            320.52929420317076,
+            329.323997008945
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cragmaw Hideout",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a81a2a595b5b",
+          "type": "Quest",
+          "loc": [
+            238.01794593167742,
+            444.6193947463753
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest 3: **Investigate Lionshield Coster Crates** ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea7a694a7a99",
+          "type": "Quest",
+          "loc": [
+            448.44743045350833,
+            414.35389154982505
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest 2: **Find Gundren Rockseeker & His Map** ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da392b18d918",
+          "type": "PointOfInterest",
+          "loc": [
+            439.1975698857174,
+            420.24107872734135
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cragmaw Castle",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca98390afaeb",
+          "type": "Quest",
+          "loc": [
+            318.94938250443624,
+            347.07175237821
+          ],
+          "layer": "%5B%5Bphandelver-map-exterior-player.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Quest 1: **Escort Sildar to Phandalin**",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 556.9230680212374,
+              "lng": 176.16779899565321,
+              "id": "ID_d92a1a382b6a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 496.37852612297,
+              "lng": 231.66696240239835,
+              "id": "ID_0a19fb3ab829",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 438.35667347046376,
+              "lng": 272.02999033457667,
+              "id": "ID_18faa9b85a98",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 364.35778892813687,
+              "lng": 300.62046845320293,
+              "id": "ID_885808eb99c9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 294.56338646207854,
+              "lng": 313.2339146820087,
+              "id": "ID_1a298a780b7a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 323.99476099595853,
+              "lng": 329.21094657182925,
+              "id": "ID_2ba879b9e949",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 295.40428287733226,
+              "lng": 368.7330780887538,
+              "id": "ID_a859eb5a089a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 311.38131476715284,
+              "lng": 426.7549307412601,
+              "id": "ID_c9a899da683b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 239.06422305533337,
+              "lng": 458.7089945209013,
+              "id": "ID_38ea198baab8",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "DND/Sessions/1. Session.md"
       ]
     }
   ],
