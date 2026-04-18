@@ -84,3 +84,6 @@ This **builds tension over time**, rather than forcing the player into combat en
 ✅ **Works With a Non-Combat Heavy Campaign:** Since combat is **not as frequent in this campaign**, Kaelen can **rely on vials, prayer, and choices beyond just killing.**  
 
 ---
+
+## **7. Leveling guide **
+[[]]
