@@ -1,4 +1,4 @@
-And I was thinking of it being a Devouring blade of ... which can transform into any weapon it has devoured. This way I can change my weapons without losing roleplay potential.
+And I was thinking of it being a Devouring blade of blood and steel which can transform into any weapon it has devoured. This way I can change my weapons without losing roleplay potential.
 
 
 
@@ -6,7 +6,7 @@ And I was thinking of it being a Devouring blade of ... which can transform into
 
 
 
-
+# The corrupted deity Ignis-vor, 
 
 
 
