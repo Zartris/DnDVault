@@ -6,7 +6,7 @@ And I was thinking of it being a Devouring blade of blood and steel which can tr
 
 
 
-# The corrupted deity Ignis-vor, 
+# Ignis-Vor devourer of blood and steel
 
 
 
