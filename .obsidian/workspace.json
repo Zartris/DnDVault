@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "3a3eb129197dc6ab",
+            "id": "cd98355a9e110091",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.8.4"
+                "currentVersion": "1.12.7"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
-            "id": "1192b341eb0befb4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,8 +201,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1192b341eb0befb4",
+  "active": "cd98355a9e110091",
   "lastOpenFiles": [
+    "DND/Characters/Pal15_Hex5_PAM_Guide.md",
     "DND/Characters/Vandur the Evil.md",
     "DND/Sessions/1. Session.md",
     "DND/images/Maps/Sword-Coast-Map_MedRes-min.jpg",
