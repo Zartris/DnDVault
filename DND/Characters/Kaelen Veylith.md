@@ -1,43 +1,41 @@
 And I was thinking of it being a Devouring blade of blood and steel which can transform into any weapon it has devoured. This way I can change my weapons without losing roleplay potential.
 
 
-
-
-
-
-
 # Ignis-Vor: Devourer of Blood and Steel
 
-### 1. Alignment & Nature
+### 1. Alignment, Nature & The "Venom" Dynamic
 
-- **Suggested Alignment:** Chaotic Evil or Neutral Evil. 
+- **Suggested Alignment:** Neutral Evil or Chaotic Evil.
 	- This is suggested as I would let the DM decide which ever, but I have leaned into the neutral evil.
     
-- **The Vibe:** Ignis-Vor is driven by a primal, parasitic gluttony. It doesn't necessarily want to rule the world or destroy it out of malice; it simply views all creation—whether it is the blood of a living creature or the steel of a masterwork blade—as sustenance to be hoarded, consumed, and absorbed.
+- **The Symbiote Vibe:** Ignis-Vor behaves very much like a parasitic symbiote (think Venom from Marvel). It is an aggressive, manipulative entity, but it possesses absolute self-preservation. There is **zero benefit in a dead host**. If Kaelen dies, Ignis-Vor sinks back into a cold, powerless dormancy for years—or centuries—until someone else with the right bloodline finds it.
     
-### 2. Communication & The Cursed Mark
-
-- **The Awakening:** For generations, the fragment of Ignis-Vor within the blade has lain dormant. Kaelen grew up knowing _of_ the curse, but the entity itself was silent. Only recently—coinciding with Kaelen stepping into his Hexblade powers—has the weapon truly awoken. The whispers are new, raw, and growing louder.
-    
-- **The Cursed Mark:** Ignis-Vor does not speak aloud, nor can anyone else hear it. It communicates strictly telepathically with the bearer of the **Cursed Mark**—a generational brand Kaelen inherited. Even if another family member held the physical blade, they would experience it as nothing more than an oddly heavy, strange weapon; only Kaelen possesses the spiritual "conduit" to hear its true voice.
+- **The Angel & Devil Shoulder:** Ignis-Vor is the constant, corrupting whisper on Kaelen’s shoulder, nudging him toward the raw, unchecked power of the Hexblade path. Kaelen’s Paladin training represents the opposite "angel"—the strict discipline, vows, and mental armor he uses to fight back against the entity’s influence.
     
 
-### 3. Cosmic Motivation & History (DM Freedom)
+### 2. Why the Blade is Locked to Kaelen
 
-- **What it wants:** At its core, it wants to _consume_. However, a fragment of a god usually wants to become whole again. Every drop of blood it drinks and every unique weapon it devours acts as raw materials, slowly rebuilding its forgotten divine essence.
+- **The Blood Anchor:** The weapon cannot simply be picked up and used by a random bandit or rival adventurer. Ignis-Vor is spiritually anchored to the specific bloodline carrying the **Cursed Mark**.
     
-- **Why the Sword?** Long ago, the entity was shattered or sealed away. A piece of its consciousness was trapped inside this metal form. Whether it was imprisoned by an ancient rival deity, trapped by an ambitious blacksmith, or bound by Kaelen's own ancestors to contain its threat, the blade is its prison—and its only window to the world.
+- **To Anyone Else:** If anyone else tries to wield the blade, it physically rejects them. It feels like an impossibly heavy, unwieldy slab of completely inert, dead iron. It might even grow blistering hot or biting cold to force an outsider to drop it.
     
-- - **DM Hook:** What happens when the blade eats _enough_ powerful artifacts? Does Ignis-Vor break free? Does the sword evolve?  That is entirely up to the DM. 
-        
+- **The Forced Bond:** Kaelen can’t just throw the sword in a lake to get rid of it. Because of the Mark, the entity is tethered to his soul. If he leaves it behind, he still suffers the starvation penalties, and the whispers only grow louder and more maddening until he retrieves it. He is stuck with it; his only choice is to master it before it masters him.
+    
 
-### 4. Family Lineage & Lore Hooks
+### 3. Cosmic Motivation & The Power of Metamorphosis
 
-- **The Present State:** Kaelen was an only child. After his parents were brutally murdered in the Dalelands, he became the sole survivor of his immediate line—and the sole bearer of the Cursed Mark. As far as Kaelen knows, his bloodline ends with him.
+- **The Library of Forms:** Ignis-Vor views the world as a forge of raw materials. By shifting shapes into weapons it has consumed, it isn't just mimicking them—it is rewriting its own physical reality.
     
-- **Past Ancestors:** The family history is dark and shrouded in tragedy. Because the weapon demands blood, past generations likely struggled with the same curse. Some may have surrendered to the gluttony and become bloodthirsty monsters, while others (like Kaelen) used discipline, faith, or isolation to keep the hunger at bay. Kaelen’s Paladin training was a direct response to this lineage of tragedy.
-        
-- - **DM Hook (Surviving Relatives):** Kaelen _believes_ he is the last of his line, but the DM has full permission to introduce long-lost relatives, secret bastards, or a rival branch of the family who want the blade—or carry a different piece of the curse.
+- **The Long Game:** The entity wants Kaelen to hunt powerful foes and find legendary steel. It doesn't want Kaelen to get sloppy and die in a ditch; it wants him to become a terrifyingly powerful warrior, because a stronger host means access to better "food" ( rarer metals and stronger blood).
+    
+
+### 4. Family Lineage & DM Campaign Hooks
+
+- **The Fate of the Parents:** Kaelen’s parents were killed by bandits in the Dalelands. While that specific event is a closed door, the _consequence_ is what matters: their deaths left Kaelen as an only child, making him the absolute last known bearer of the Cursed Mark.
+    
+- **The Bloodline History:** Because the weapon demands a high price, past generations of Kaelen's family likely had varied, tragic histories with it. Some ancestors may have broken completely, becoming bloodthirsty monsters that the Church of Tyr had to put down. Others may have successfully managed it through extreme isolation. Kaelen’s path—trying to balance a holy oath with a dark symbiote—is an incredibly dangerous tightrope walk.
+    
+- - **DM Hook (Surviving Relatives):** Kaelen _believes_ his immediate line is entirely gone. However, because Ignis-Vor is bound to the bloodline, the DM has full creative freedom to reveal hidden branches of the family, secret bastards, or distant cousins who might carry a faded version of the Mark—and might want to claim the Devouring Blade for themselves.
 
 # Weapon concept
 **Character:** Kaelen Veylith (Half-Drow Paladin/Hexblade)  
