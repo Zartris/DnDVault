@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Characters/Kaelen Veylith.md",
+                "file": "DND/Characters/Kaelen Veylith v2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kaelen Veylith"
+              "title": "Kaelen Veylith v2"
             }
           }
         ],
@@ -215,6 +215,8 @@
   },
   "active": "cd98355a9e110091",
   "lastOpenFiles": [
+    "DND/Characters/Kaelen Veylith.md",
+    "DND/Characters/Kaelen Veylith v2.md",
     "DND/Characters/Pal15_Hex5_PAM_Guide.md",
     "DND/Characters/Vandur the Evil.md",
     "DND/Sessions/1. Session.md",
@@ -228,7 +230,6 @@
     "DND/World/Sword-Coast/NPCs/Sildar Hallwinter.md",
     "DND/World/Sword-Coast/NPCs/Lords' Alliance.md",
     "DND/World/Sword-Coast/NPCs/Gundren Rockseeker.md",
-    "DND/Characters/Kaelen Veylith.md",
     "DND/Sessions/7. Session.md",
     "DND/Sessions/8. Session.md",
     "DND/Sessions/5. Session.md",
@@ -244,7 +245,6 @@
     "Templates/Insert center image html.md",
     "DND/Sessions/Nainine.md",
     "Templates/Session Note.md",
-    "Templates/leaflet.md",
-    "DND/World/Sword-Coast/NPCs/Sildar.md"
+    "Templates/leaflet.md"
   ]
 }
