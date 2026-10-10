@@ -135,7 +135,7 @@ So far, we have developed the flavour of Chronal Shift. Gaza's individual spells
 
 ### Intended experience
 
-During a stealth or exploration scene, Gaza can rewind the shared timeline by about two seconds, returning everyone to their position and state before one brief event. Only Gaza remembers the discarded interval. He can then choose a different immediate response; the new outcome is not guaranteed.
+During a stealth or exploration scene, Gaza can rewind the shared timeline by about two seconds, returning everyone to their position and state before one brief event. Only Gaza remembers the discarded interval. He can then choose a different immediate response, including a short warning to his companions; the new outcome is not guaranteed. The goal is to change how the group handles a brief exploration scenario, not simply select one creature to reroll and not rewrite combat.
 
 Narratively this affects everyone's time, rather than targeting one creature's die. At the table, the DM identifies one short, local event to replay; the group does not reconstruct simultaneous events across the whole world.
 
@@ -144,7 +144,7 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 - **Cost:** one spell slot of level 3 or higher, plus one use per long rest. Both costs remain spent through the rewind. Higher-level slots do not increase the duration or uses.
 - **Timing:** a reaction immediately after Gaza perceives the brief event, while conscious and able to react. No waiting to learn later consequences.
 - **Scope:** initially available outside initiative only, for one short exploration event. No reversing combat turns, damage, death, spellcasting, or expended resources in this trial version. The DM must identify a clear starting point; if the interval cannot be resolved within these boundaries, this version cannot rewind it.
-- **Changed choice:** Gaza may change his own immediate action, such as stopping before stepping into view. He cannot retroactively direct companions. Other creatures resume their intentions and respond normally to his changed behaviour.
+- **Changed choice:** Gaza may change his own immediate action, such as stopping before stepping into view or calling “Wait—guards! Stay behind the wall!” during the replay. Companions can respond to that new warning if there is time, without remembering the discarded timeline. He cannot give them instructions before the rewind's starting point, grant extra actions, or fit a long discussion into two seconds. Other creatures respond normally to the changed situation.
 - **Resolution:** the DM decides which checks the new situation needs. No automatic success, no blanket reroll for the whole party, and no additional turns or actions.
 - **No loops:** the same event cannot be rewound again, including by another time-reversal ability.
 - **Information:** Gaza remembers only what he personally perceived during the discarded interval. No extra future vision. Trial use is for reacting to an unexpected mishap, not repeatedly testing passwords, traps, conversations, or other outcomes.
@@ -152,7 +152,7 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 
 ### Stealth example
 
-Gaza starts to step around a corner and notices a guard turn towards him. He spends the slot and daily use to return to just before that step. This time he stays behind cover. Companions do not remember the discarded moment, but their own movements are not automatically corrected. A guard can still discover them for another reason.
+While the party approaches a castle, guards begin to spot them. Gaza spends the slot and daily use to rewind to just before that moment. This time he gives a quick warning—“Stop! Behind the wall!”—and tries to prevent the exposure. Companions can react within the available time, but remember only this version. The DM resolves the changed positions, any required checks, and the guards' response. Two seconds might allow stopping or ducking behind nearby cover; it does not allow a full retreat or a new route. A warning can itself make noise, and detection remains possible.
 
 ### What the DM needs to decide
 
