@@ -75,11 +75,37 @@ A mistake erased through a successful reroll is known only to Gaza. Uncorrected 
 
 This proposed experience is for the characters within the story. The players and DM still resolve the actual reroll at the table.
 
-### Why he does not explain it
+### Why he cannot explain it — new story proposal
 
-Gaza does not normally tell his companions that he can turn back a moment. It might be difficult for him to explain, or simply something he does not feel comfortable discussing. The reason remains open.
+Gaza is willing to tell his companions about his time magic, but currently cannot. When he tries to explain the ability, an unknown higher power or temporal force rolls time back to roughly two seconds before he began explaining. The strain overwhelms him and he blacks out. It is draining rather than painful.
 
-This does not mean he conceals his intelligence, manipulates the party, feels ashamed of his magic, or seeks praise. Those motives have not been established.
+The rewind prevents the disclosure from reaching his companions. They do not retain the discarded explanation. What they observe of his blackout, and how long it lasts, remain for the DM to define. This replaces the earlier suggestion that he simply feels uncomfortable discussing it: his silence is imposed, not chosen out of shame, distrust, or uncertainty about his competence.
+
+The identity, motives, and origin of the preventing force remain open. This is a proposed story restriction and house rule, not a published Chronurgy feature or an approved extra power.
+
+#### Private decisions, not a group safety plan
+
+Gaza knows his own ability and can take a personal risk with the thought that he might reverse an eligible moment if necessary. He still activates it in reaction to something happening, within the limits of the feature being used. Having this private fallback is not a guarantee of success or permission to undo anything.
+
+His companions cannot knowingly plan around “Gaza will rewind us if it goes wrong.” He cannot tell them to take risks on that promise. He may still give a practical warning during an approved replay without explaining its source.
+
+The players and DM know the mechanics; the intended restriction concerns character knowledge. Keeping that distinction is a shared table agreement, not something secrecy alone guarantees.
+
+#### Possible growth — deliberately undecided
+
+As Gaza gains experience and becomes more adept, he might eventually tolerate the strain, understand the restriction, or become able to explain his power. Whether that happens, how, and at what level remain open. No automatic unlock is agreed. For now, the intended story is that disclosure is blocked.
+
+#### DM decisions and mechanical boundaries
+
+- [ ] Agree whether this disclosure-blocking force belongs in the story.
+- [ ] Define what counts as disclosure, including writing, hints, demonstrations, or magical communication.
+- [ ] Define the blackout's duration, what companions observe, and what Gaza remembers afterwards.
+- [ ] Decide whether the blackout is a narrative lapse or applies an actual condition such as Unconscious, and whether attempts impose mechanical Exhaustion or resource costs.
+- [ ] Ensure the forced rewind cannot be triggered deliberately to gain extra useful rewinds, information, or restored resources.
+- [ ] Decide how discovery by others is handled; the restriction on his explanations does not itself establish universal undetectability.
+- [ ] Keep any future weakening or removal of the restriction open for later discussion.
+
+No new Exhaustion cost, condition, or spending of Chronal Shift uses is assumed here. Ordinary Chronal Shift remains unchanged. The forced disclosure rewind is separate from the optional level-ten exploration rewind and is not available as an additional controllable ability.
 
 ### Physical tells
 
@@ -123,11 +149,11 @@ If this secrecy or memory difference changes what characters can discover or act
 
 ### Mechanical homebrew status
 
-No mechanical changes are currently approved. A separate optional Two-Second Rewind is now proposed below as explicit mechanical homebrew. Until the DM approves a defined version, Gaza has only the ordinary Chronal Shift mechanics.
+No mechanical changes are currently approved. The disclosure-blocking rewind and blackout are a new story restriction for DM discussion; any actual Exhaustion, condition, or costs must be defined separately. A separate optional Two-Second Rewind is proposed below as explicit mechanical homebrew. Until the DM approves defined versions, Gaza's published features remain unchanged.
 
 ### Individual spells — still to develop
 
-So far, we have developed the flavour of Chronal Shift. Gaza's individual spells and the presentation of his other subclass features have not yet been worked out. Future entries should list the normal effect, Gaza's presentation, and any proposed rule change separately.
+So far, we have developed the flavour of Chronal Shift. Convergent Future also has a flavour entry below. Gaza's individual spells and the presentation of his remaining subclass features have not yet been worked out. Future entries should list the normal effect, Gaza's presentation, and any proposed rule change separately.
 
 ## Optional homebrew proposal — Two-Second Rewind
 
@@ -149,7 +175,7 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 - **Changed choice:** Gaza may change his own immediate action, such as stopping before stepping into view or calling “Wait—guards! Stay behind the wall!” during the replay. Companions can respond to that new warning if there is time, without remembering the discarded timeline. He cannot give them instructions before the rewind's starting point, grant extra actions, or fit a long discussion into two seconds. Other creatures respond normally to the changed situation.
 - **Resolution:** the DM decides which checks the new situation needs. No automatic success, no blanket reroll for the whole party, and no additional turns or actions.
 - **No loops:** the same event cannot be rewound again, including by another time-reversal ability.
-- **Information:** Gaza remembers only what he personally perceived during the discarded interval. No extra future vision. Trial use is for reacting to an unexpected mishap, not repeatedly testing passwords, traps, conversations, or other outcomes.
+- **Information:** Gaza remembers only what he personally perceived during the discarded interval. No extra future vision. He may privately weigh a risk knowing he has a limited fallback, but cannot promise the party a rewind. Repeated testing of passwords, traps, conversations, or other outcomes remains outside the trial's intended use.
 - **Visibility and memory:** only Gaza retaining the old timeline is explicitly part of this homebrew request. Physical strain may be visible; the ability does not make his other magic undetectable.
 
 ### Separate from Chronal Shift
@@ -236,6 +262,8 @@ The DM should confirm how this older subclass's Exhaustion cost works with the c
 - Approval and adaptation of Chronurgy to the 2024 Wizard.
 - Whether to trial the separate Two-Second Rewind homebrew proposal, including its costs, scope, and memory effect.
 - Whether the DM agrees to the core flavour: only Gaza remembers the discarded moment; other characters feel no change and know only the final outcome.
+- Approval and boundaries for the new disclosure-blocking force, forced rewind, and blackout; any mechanical penalties require explicit agreement.
+- Whether Gaza could later overcome that restriction remains deliberately open.
 - How subtle physical tells are portrayed without adding penalties to Chronal Shift.
 - Timing of rerolls during stealth and detection scenes.
 - How a knowledgeable but frightened level-five wizard remains imprisoned.
