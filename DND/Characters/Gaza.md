@@ -123,11 +123,42 @@ If this secrecy or memory difference changes what characters can discover or act
 
 ### Mechanical homebrew status
 
-No mechanical changes are currently agreed. Undoing movement, actions, spent resources, an entire turn, or death after its resolution would go beyond this concept and require separately defined homebrew. The story description does not add extra rerolls or change their timing.
+No mechanical changes are currently approved. A separate optional Two-Second Rewind is now proposed below as explicit mechanical homebrew. Until the DM approves a defined version, Gaza has only the ordinary Chronal Shift mechanics.
 
 ### Individual spells — still to develop
 
 So far, we have developed the flavour of Chronal Shift. Gaza's individual spells and the presentation of his other subclass features have not yet been worked out. Future entries should list the normal effect, Gaza's presentation, and any proposed rule change separately.
+
+## Optional homebrew proposal — Two-Second Rewind
+
+**Status: player request for discussion, not approved or part of the build.** This is a separate proposed ability, not an expanded interpretation of Chronal Shift. Its costs and limits below are an initial design suggestion, not an established balanced rule.
+
+### Intended experience
+
+During a stealth or exploration scene, Gaza can rewind the shared timeline by about two seconds, returning everyone to their position and state before one brief event. Only Gaza remembers the discarded interval. He can then choose a different immediate response; the new outcome is not guaranteed.
+
+Narratively this affects everyone's time, rather than targeting one creature's die. At the table, the DM identifies one short, local event to replay; the group does not reconstruct simultaneous events across the whole world.
+
+### Suggested starting limits
+
+- **Cost:** one spell slot of level 3 or higher, plus one use per long rest. Both costs remain spent through the rewind. Higher-level slots do not increase the duration or uses.
+- **Timing:** a reaction immediately after Gaza perceives the brief event, while conscious and able to react. No waiting to learn later consequences.
+- **Scope:** initially available outside initiative only, for one short exploration event. No reversing combat turns, damage, death, spellcasting, or expended resources in this trial version. The DM must identify a clear starting point; if the interval cannot be resolved within these boundaries, this version cannot rewind it.
+- **Changed choice:** Gaza may change his own immediate action, such as stopping before stepping into view. He cannot retroactively direct companions. Other creatures resume their intentions and respond normally to his changed behaviour.
+- **Resolution:** the DM decides which checks the new situation needs. No automatic success, no blanket reroll for the whole party, and no additional turns or actions.
+- **No loops:** the same event cannot be rewound again, including by another time-reversal ability.
+- **Information:** Gaza remembers only what he personally perceived during the discarded interval. No extra future vision. Trial use is for reacting to an unexpected mishap, not repeatedly testing passwords, traps, conversations, or other outcomes.
+- **Visibility and memory:** only Gaza retaining the old timeline is explicitly part of this homebrew request. Physical strain may be visible; the ability does not make his other magic undetectable.
+
+### Stealth example
+
+Gaza starts to step around a corner and notices a guard turn towards him. He spends the slot and daily use to return to just before that step. This time he stays behind cover. Companions do not remember the discarded moment, but their own movements are not automatically corrected. A guard can still discover them for another reason.
+
+### What the DM needs to decide
+
+Whether to permit this at all; whether the exploration-only scope fits the campaign; the exact trigger, slot cost, daily limit, and treatment of detection; and whether the exclusive memory effect is acceptable. Start with a short trial and revisit it if it removes tension or slows play.
+
+A less disruptive alternative is to keep ordinary Chronal Shift and use its existing reroll with the same rewind description. That alternative cannot change an action or reposition anyone.
 
 ## Later subclass milestones
 
@@ -143,6 +174,7 @@ Chronurgy comes from *Explorer's Guide to Wildemount*. The DM should confirm its
 ## Discuss with the DM
 
 - Approval and adaptation of Chronurgy to the 2024 Wizard.
+- Whether to trial the separate Two-Second Rewind homebrew proposal, including its costs, scope, and memory effect.
 - Whether the DM agrees to the core flavour: only Gaza remembers the discarded moment; other characters feel no change and know only the final outcome.
 - How subtle physical tells are portrayed without adding penalties to Chronal Shift.
 - Timing of rerolls during stealth and detection scenes.
