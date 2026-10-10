@@ -59,6 +59,37 @@ Expand his knowledge of wizardry and discover what he can do beyond the tower. H
 
 Any larger quest remains open.
 
+## Backstory ideas — not decided
+
+*Loose notes for discussion. None of these possibilities is established backstory; they may change substantially.*
+
+### Family and belonging
+
+Perhaps Gaza spent so much of his life in captivity that he barely remembers being with family or friends. He has had little opportunity to learn the everyday customs of his own goblin community.
+
+He might want to find the people he came from, partly to discover whether anyone remembers or missed him. He imagines that returning will feel like coming home, but the reunion may be more complicated: affection and unfamiliarity can coexist.
+
+One possible arc is discovering that he can reconnect with his origins while also finding a home among his adventuring companions. Whether he returns, stays, or belongs in both places remains open.
+
+### Possible hooks for the DM
+
+- **A first lead:** someone recognises a name, keepsake, or fragment of a childhood memory and can point him towards his former community. Which clue he has, if any, is undecided.
+- **An actual reunion:** a relative or old friend remembers him, but they have both changed. The encounter gives him someone to talk to and something concrete to choose.
+- **A reason to stay involved:** someone from home needs help with a specific problem. The nature of that problem should fit the campaign rather than being fixed now.
+- **The captivity question:** why he was taken, whether anyone searched for him, and who knows the answer could become separate leads. No answer is chosen yet.
+
+These hooks work through relationships and ordinary events; they do not require anyone to know about Gaza's chronomancy.
+
+### Questions to return to
+
+- Does he remember particular people, or mostly a feeling of home?
+- What makes him start looking, and what lead can he actually follow?
+- What does he hope to find when he arrives?
+- How would returning differ from his expectations?
+- Why was he captured in the first place? Leave this for a separate discussion.
+
+His interest in learning spells remains part of his personality. A concrete person, place, or lead could give that curiosity and his wish to belong a playable direction.
+
 ## Chronurgy and the tiny rewind
 
 ### Deliberate, private corrections
