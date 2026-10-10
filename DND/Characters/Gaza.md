@@ -141,6 +141,8 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 
 ### Suggested starting limits
 
+- **Proposed unlock:** Wizard level 10, subject to DM agreement. Gaza would not have this ability at his level-five start. Level 10 is a tentative milestone, not a settled balance decision. This would be an additional homebrew benefit alongside Arcane Abeyance unless the DM explicitly chooses a replacement or tradeoff; no published feature is currently being replaced.
+
 - **Cost:** one spell slot of level 3 or higher, plus one use per long rest. Both costs remain spent through the rewind. Higher-level slots do not increase the duration or uses.
 - **Timing:** a reaction immediately after Gaza perceives the brief event, while conscious and able to react. No waiting to learn later consequences.
 - **Scope:** initially available outside initiative only, for one short exploration event. No reversing combat turns, damage, death, spellcasting, or expended resources in this trial version. The DM must identify a clear starting point; if the interval cannot be resolved within these boundaries, this version cannot rewind it.
