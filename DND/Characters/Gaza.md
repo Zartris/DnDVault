@@ -69,7 +69,7 @@ He understands the trick he is using. It can still fail: the new outcome is not 
 
 ### Only Gaza remembers
 
-**The central flavour idea is that only Gaza remembers the discarded version of the moment.** Everyone else experiences the final outcome as the only sequence of events that happened. They feel no rewind, remember no alternative, and have no reason to ask him to repeat a moment.
+**Our proposed narrative house rule, pending DM agreement, is that only Gaza remembers the discarded version of the moment.** Everyone else experiences the final outcome as the only sequence of events that happened. They feel no rewind, remember no alternative, and have no reason to ask him to repeat a moment.
 
 A mistake erased through a successful reroll is known only to Gaza. Uncorrected mistakes, or a worse second result, can still be visible to others. He retains a memory of what happened in that brief discarded moment, not general knowledge of what will happen next.
 
@@ -102,6 +102,32 @@ A companion's attempt goes wrong. Gaza remembers that version, silently makes hi
 A guard's rolled Perception check or the goblin's own Stealth check could qualify. Passive Perception has no die to reroll. The reaction must be used at the eligible roll's resolution, not much later after its consequences unfold.
 
 The “two or three seconds back” description is proposed flavour for this mechanic. Literal time travel beyond the feature would need a separate DM ruling.
+
+## Spell and feature flavour — rules and homebrew status
+
+### Published mechanics remain unchanged
+
+Chronal Shift is a subclass feature, not a spell. Its reaction, eligible rolls, visibility and 30-foot range, two uses per long rest, and requirement to use the second result remain unchanged. Gaza cannot guarantee a better outcome.
+
+### Cosmetic flavour
+
+We describe the reroll as Gaza deliberately replaying a tiny moment, roughly two or three seconds. His private reaction might be “Ah, shit. We need to do this again.” Sweating or looking drained afterwards adds character without imposing Exhaustion or other penalties.
+
+This description does not grant an actual time-reversal ability beyond the eligible reroll.
+
+### Proposed narrative house rule — pending DM agreement
+
+Only Gaza remembers the discarded outcome; everyone else experiences the replacement as the only event and feels no rewind. This is our proposed narrative interpretation, not a memory effect or guaranteed secrecy granted by the published feature.
+
+If this secrecy or memory difference changes what characters can discover or act upon, that is a house rule to agree with the DM explicitly. It does not automatically erase unrelated memories, reveal additional future information, or make all of Gaza's magic undetectable. Players and the DM still know a reroll happened.
+
+### Mechanical homebrew status
+
+No mechanical changes are currently agreed. Undoing movement, actions, spent resources, an entire turn, or death after its resolution would go beyond this concept and require separately defined homebrew. The story description does not add extra rerolls or change their timing.
+
+### Individual spells — still to develop
+
+So far, we have developed the flavour of Chronal Shift. Gaza's individual spells and the presentation of his other subclass features have not yet been worked out. Future entries should list the normal effect, Gaza's presentation, and any proposed rule change separately.
 
 ## Later subclass milestones
 
