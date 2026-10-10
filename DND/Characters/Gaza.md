@@ -21,6 +21,26 @@ He is eager to expand his knowledge. His bookish personality remains central eve
 
 Appearance, age, mannerisms, and ability scores remain open.
 
+## Personality
+
+### A thinker with good intentions
+
+Gaza is intelligent, observant, and curious. He thinks through problems and genuinely tries to fix things. He can be right or wrong; an unsuccessful idea does not mean he is foolish. His intelligence does not always translate into the right words or the best solution.
+
+He is distinctive as an individual goblin. His character does not depend on treating other goblins as inherently unintelligent.
+
+### Slightly naive and eager to help
+
+His naivety lies in his eagerness to be useful and do the right thing. He wants to be someone his companions can count on, even when he volunteers for more than he comfortably handles.
+
+For example, he might offer to take the night watch despite being scared of the dark. The offer is sincere; so is his fear. His efforts do not always work out as he hopes.
+
+### Confidence and vulnerability
+
+He has real magical knowledge, gained through study and practice, but limited experience outside captivity. He is neither a bumbling novice nor a calculating schemer concealing his intelligence. He knows what he is doing when he uses his time magic, even if the situation frightens him.
+
+A possible character arc is learning that he can belong without always getting everything right, and becoming more confident in himself.
+
 ## Backstory — current idea
 
 He was imprisoned in a wizard tower, initially with little understanding of what happened there. Over time, exposure to magical experiments, overheard conversations, and fragments of instruction helped him recognise magical patterns and understand the wizards' words.
@@ -29,7 +49,7 @@ He learned through observation and whatever books or notes he could access. His 
 
 He eventually worked out how to leave his cage at night and explore parts of the tower. Getting out of the cage was not the same as being able to escape the tower safely.
 
-A recent idea is that, when a guard noticed him, he sometimes used a tiny panic-driven time reversal to give himself another chance to remain unnoticed. This represents Chronal Shift when an eligible roll is involved, rather than an unrestricted power to undo events.
+A recent idea is that, when a guard noticed him, he deliberately used a brief time reversal to give himself another chance to remain unnoticed. He could be frightened while doing it, but the magic was an intentional act, not an accidental hiccup. This represents Chronal Shift when an eligible roll is involved, rather than an unrestricted power to undo events.
 
 The party might find and rescue him. The reason for his imprisonment, his captors' identities, the rescue circumstances, and whether he takes books with him are not decided.
 
@@ -41,9 +61,35 @@ Any larger quest remains open.
 
 ## Chronurgy and the tiny rewind
 
-The desired table moment:
+### Deliberate, private corrections
 
-> A companion fails an important roll. The goblin panics: “Mm… let's turn that bit back.” The moment seems to repeat, giving the companion another chance.
+Gaza notices something going wrong and deliberately tries that brief moment again. His private thought might be: “Ah, shit. We need to do this again.” This is an internal reaction, not an announcement to the party.
+
+He understands the trick he is using. It can still fail: the new outcome is not guaranteed to be better.
+
+### Only Gaza remembers
+
+**The central flavour idea is that only Gaza remembers the discarded version of the moment.** Everyone else experiences the final outcome as the only sequence of events that happened. They feel no rewind, remember no alternative, and have no reason to ask him to repeat a moment.
+
+A mistake erased through a successful reroll is known only to Gaza. Uncorrected mistakes, or a worse second result, can still be visible to others. He retains a memory of what happened in that brief discarded moment, not general knowledge of what will happen next.
+
+This proposed experience is for the characters within the story. The players and DM still resolve the actual reroll at the table.
+
+### Why he does not explain it
+
+Gaza does not normally tell his companions that he can turn back a moment. It might be difficult for him to explain, or simply something he does not feel comfortable discussing. The reason remains open.
+
+This does not mean he conceals his intelligence, manipulates the party, feels ashamed of his magic, or seeks praise. Those motives have not been established.
+
+### Physical tells
+
+After a rewind, companions might notice that Gaza is suddenly sweating, looks drained, or seems unusually tired. They see the strain without knowing its cause; they do not remember the event that prompted it.
+
+These are roleplay details, not added game penalties. In particular, ordinary Chronal Shift does not mechanically cause Exhaustion. The later Convergent Future feature does have an exhaustion cost.
+
+### Example at the table
+
+A companion's attempt goes wrong. Gaza remembers that version, silently makes his correction, and the check is rerolled. If the new result succeeds, the companion remembers succeeding. Gaza alone remembers the earlier failure, while someone might wonder why he suddenly looks so worn out.
 
 ### Chronal Shift — starting feature
 
@@ -71,7 +117,8 @@ Chronurgy comes from *Explorer's Guide to Wildemount*. The DM should confirm its
 ## Discuss with the DM
 
 - Approval and adaptation of Chronurgy to the 2024 Wizard.
-- How the brief rewind looks and what participants remember.
+- Whether the DM agrees to the core flavour: only Gaza remembers the discarded moment; other characters feel no change and know only the final outcome.
+- How subtle physical tells are portrayed without adding penalties to Chronal Shift.
 - Timing of rerolls during stealth and detection scenes.
 - How a knowledgeable but frightened level-five wizard remains imprisoned.
 - Whether and how the party discovers him.
