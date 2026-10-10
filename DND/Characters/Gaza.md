@@ -59,9 +59,9 @@ Expand his knowledge of wizardry and discover what he can do beyond the tower. H
 
 Any larger quest remains open.
 
-## Backstory ideas — not decided
+## Backstory thoughts — only a starting point
 
-*Loose notes for discussion. None of these possibilities is established backstory; they may change substantially.*
+*These are only exploratory thoughts: the beginning of something, not even a backstory draft. Nothing here is decided, established, or committed to. Any idea can change or be discarded entirely; no plot direction has been chosen.*
 
 ### Family and belonging
 
