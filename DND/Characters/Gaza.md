@@ -207,6 +207,30 @@ A fallback is ordinary Chronal Shift with the tiny-rewind description: no change
 
 Chronurgy comes from *Explorer's Guide to Wildemount*. The DM should confirm its use with the campaign's 2024 Wizard rules.
 
+### Level 14 — Convergent Future: choosing a branch
+
+#### Gaza's experience
+
+Gaza glimpses a few possible versions of the immediate moment and deliberately pulls one into reality. Where Chronal Shift gave him another attempt, Convergent Future lets him select the branch corresponding to the roll's success or failure.
+
+His private thought might be: “No. This is the version where you make it.” He need not say this aloud or explain what he has done.
+
+For example, he glimpses a companion losing their grip and another possibility where their fingers catch the ledge. He draws the latter possibility into place as the companion makes the qualifying check. This describes that check's outcome, not control over everything that follows.
+
+#### The strain of choosing
+
+The feature's actual Exhaustion cost represents the effort of forcing a possibility into reality. Gaza might sweat, tremble, or struggle to catch his breath afterwards. These descriptions accompany the existing penalty; they do not add new penalties.
+
+This differs from Chronal Shift's cosmetic tiredness: Convergent Future really does cause Exhaustion.
+
+#### Published mechanics and flavour boundary
+
+At wizard level 14, the feature uses a reaction when Gaza, or a creature he can see within 60 feet, makes an attack roll, ability check, or saving throw. It replaces the die roll with the minimum needed to succeed or one less than that number, chosen by Gaza. Each use causes one level of Exhaustion and costs no spell slot. Exhaustion gained this way can be removed only by finishing a long rest; each such rest removes one level of it.
+
+The possible-futures description is flavour for that immediate qualifying roll. It does not grant ongoing foresight, information about unrelated futures, control of an entire scenario, or the separate optional exploration rewind. Other rules that affect the resolved outcome still apply. No mechanical changes to Convergent Future are proposed here.
+
+The DM should confirm how this older subclass's Exhaustion cost works with the campaign's 2024 rules.
+
 ## Discuss with the DM
 
 - Approval and adaptation of Chronurgy to the 2024 Wizard.
