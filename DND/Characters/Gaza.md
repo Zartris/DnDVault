@@ -143,7 +143,7 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 
 - **Proposed unlock:** Wizard level 10, subject to DM agreement. Gaza would not have this ability at his level-five start. Level 10 is a tentative milestone, not a settled balance decision. This would be an additional homebrew benefit alongside Arcane Abeyance unless the DM explicitly chooses a replacement or tradeoff; no published feature is currently being replaced.
 
-- **Cost:** one spell slot of level 3 or higher, plus one use per long rest. Both costs remain spent through the rewind. Higher-level slots do not increase the duration or uses.
+- **Cost:** one spell slot of level 3 or higher plus one of Chronal Shift's two uses per long rest. Both costs remain spent through the rewind. Higher-level slots do not increase the duration or uses. This replaces the earlier suggestion of a separate once-per-long-rest limit.
 - **Timing:** a reaction immediately after Gaza perceives the brief event, while conscious and able to react. No waiting to learn later consequences.
 - **Scope:** initially available outside initiative only, for one short exploration event. No reversing combat turns, damage, death, spellcasting, or expended resources in this trial version. The DM must identify a clear starting point; if the interval cannot be resolved within these boundaries, this version cannot rewind it.
 - **Changed choice:** Gaza may change his own immediate action, such as stopping before stepping into view or calling “Wait—guards! Stay behind the wall!” during the replay. Companions can respond to that new warning if there is time, without remembering the discarded timeline. He cannot give them instructions before the rewind's starting point, grant extra actions, or fit a long discussion into two seconds. Other creatures respond normally to the changed situation.
@@ -152,9 +152,13 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 - **Information:** Gaza remembers only what he personally perceived during the discarded interval. No extra future vision. Trial use is for reacting to an unexpected mishap, not repeatedly testing passwords, traps, conversations, or other outcomes.
 - **Visibility and memory:** only Gaza retaining the old timeline is explicitly part of this homebrew request. Physical strain may be visible; the ability does not make his other magic undetectable.
 
+### Shared uses with Chronal Shift
+
+Under this optional homebrew, ordinary Chronal Shift and the scenario rewind draw from the same pool of two uses, refreshed by a long rest. An ordinary reroll costs a reaction and one use, with no spell slot. A scenario rewind costs a reaction, one use, and a spell slot of level 3 or higher. Two ordinary rerolls, two scenario rewinds, or one of each exhaust the pool. No additional daily pool is granted. The proposed level-ten unlock remains tentative and pending DM approval.
+
 ### Stealth example
 
-While the party approaches a castle, guards begin to spot them. Gaza spends the slot and daily use to rewind to just before that moment. This time he gives a quick warning—“Stop! Behind the wall!”—and tries to prevent the exposure. Companions can react within the available time, but remember only this version. The DM resolves the changed positions, any required checks, and the guards' response. Two seconds might allow stopping or ducking behind nearby cover; it does not allow a full retreat or a new route. A warning can itself make noise, and detection remains possible.
+While the party approaches a castle, guards begin to spot them. Gaza spends the slot and shared use to rewind to just before that moment. This time he gives a quick warning—“Stop! Behind the wall!”—and tries to prevent the exposure. Companions can react within the available time, but remember only this version. The DM resolves the changed positions, any required checks, and the guards' response. Two seconds might allow stopping or ducking behind nearby cover; it does not allow a full retreat or a new route. A warning can itself make noise, and detection remains possible.
 
 ### What the DM needs to decide
 
