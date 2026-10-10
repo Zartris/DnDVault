@@ -135,7 +135,7 @@ So far, we have developed the flavour of Chronal Shift. Gaza's individual spells
 
 ### Intended experience
 
-During a stealth or exploration scene, Gaza can rewind the shared timeline by about two seconds, returning everyone to their position and state before one brief event. Only Gaza remembers the discarded interval. He can then choose a different immediate response, including a short warning to his companions; the new outcome is not guaranteed. The goal is to change how the group handles a brief exploration scenario, not simply select one creature to reroll and not rewrite combat.
+During a stealth or exploration scene, Gaza can rewind the shared timeline by about two seconds, returning the immediate situation and everyone's positions to just before one brief event, without restoring character resources. Only Gaza remembers the discarded interval. He can then choose a different immediate response, including a short warning to his companions; the new outcome is not guaranteed. The goal is to change how the group handles a brief exploration scenario, not simply select one creature to reroll and not rewrite combat.
 
 Narratively this affects everyone's time, rather than targeting one creature's die. At the table, the DM identifies one short, local event to replay; the group does not reconstruct simultaneous events across the whole world.
 
@@ -143,7 +143,7 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 
 - **Proposed unlock:** Wizard level 10, subject to DM agreement. Gaza would not have this ability at his level-five start. Level 10 is a tentative milestone, not a settled balance decision. This would be an additional homebrew benefit alongside Arcane Abeyance unless the DM explicitly chooses a replacement or tradeoff; no published feature is currently being replaced.
 
-- **Cost:** one spell slot of level 3 or higher plus one of Chronal Shift's two uses per long rest. Both costs remain spent through the rewind. Higher-level slots do not increase the duration or uses. This replaces the earlier suggestion of a separate once-per-long-rest limit.
+- **Cost and frequency:** a reaction and one spell slot of level 3 or higher per use; two separate uses per long rest. The slot and rewind use remain spent after rewinding. Higher-level slots do not increase the duration or uses. This is the current proposed trial version, not a confirmed balanced rule.
 - **Timing:** a reaction immediately after Gaza perceives the brief event, while conscious and able to react. No waiting to learn later consequences.
 - **Scope:** initially available outside initiative only, for one short exploration event. No reversing combat turns, damage, death, spellcasting, or expended resources in this trial version. The DM must identify a clear starting point; if the interval cannot be resolved within these boundaries, this version cannot rewind it.
 - **Changed choice:** Gaza may change his own immediate action, such as stopping before stepping into view or calling “Wait—guards! Stay behind the wall!” during the replay. Companions can respond to that new warning if there is time, without remembering the discarded timeline. He cannot give them instructions before the rewind's starting point, grant extra actions, or fit a long discussion into two seconds. Other creatures respond normally to the changed situation.
@@ -152,19 +152,49 @@ Narratively this affects everyone's time, rather than targeting one creature's d
 - **Information:** Gaza remembers only what he personally perceived during the discarded interval. No extra future vision. Trial use is for reacting to an unexpected mishap, not repeatedly testing passwords, traps, conversations, or other outcomes.
 - **Visibility and memory:** only Gaza retaining the old timeline is explicitly part of this homebrew request. Physical strain may be visible; the ability does not make his other magic undetectable.
 
-### Shared uses with Chronal Shift
+### Separate from Chronal Shift
 
-Under this optional homebrew, ordinary Chronal Shift and the scenario rewind draw from the same pool of two uses, refreshed by a long rest. An ordinary reroll costs a reaction and one use, with no spell slot. A scenario rewind costs a reaction, one use, and a spell slot of level 3 or higher. Two ordinary rerolls, two scenario rewinds, or one of each exhaust the pool. No additional daily pool is granted. The proposed level-ten unlock remains tentative and pending DM approval.
+The trial rewind has its own two uses per long rest. It does not spend or increase Chronal Shift's two uses. Ordinary Chronal Shift remains a reaction plus one of its own uses, with no spell slot cost. The optional rewind costs a reaction, one rewind use, and a spell slot of level 3 or higher.
+
+This proposal supersedes the shared-pool idea. If the DM declines the add-on, the ordinary Chronal Shift character concept remains intact.
+
+### Resources remain unchanged
+
+The scenario can change, but characters do not recover hit points, spell slots, feature uses, consumed items, or other resources. Existing conditions and ongoing effects are not reset to gain additional benefits. Gaza's rewind cost always remains paid. Scenes involving damage, spellcasting, or resource expenditure within the discarded interval need an explicit DM boundary; they are excluded from the initial trial to avoid contradictory states.
 
 ### Stealth example
 
-While the party approaches a castle, guards begin to spot them. Gaza spends the slot and shared use to rewind to just before that moment. This time he gives a quick warning—“Stop! Behind the wall!”—and tries to prevent the exposure. Companions can react within the available time, but remember only this version. The DM resolves the changed positions, any required checks, and the guards' response. Two seconds might allow stopping or ducking behind nearby cover; it does not allow a full retreat or a new route. A warning can itself make noise, and detection remains possible.
+While the party approaches a castle, guards begin to spot them. Gaza spends the slot and rewind use to rewind to just before that moment. This time he gives a quick warning—“Stop! Behind the wall!”—and tries to prevent the exposure. Companions can react within the available time, but remember only this version. The DM resolves the changed positions, any required checks, and the guards' response. Two seconds might allow stopping or ducking behind nearby cover; it does not allow a full retreat or a new route. A warning can itself make noise, and detection remains possible.
 
-### What the DM needs to decide
+### Open questions for the DM
 
-Whether to permit this at all; whether the exploration-only scope fits the campaign; the exact trigger, slot cost, daily limit, and treatment of detection; and whether the exclusive memory effect is acceptable. Start with a short trial and revisit it if it removes tension or slows play.
+- [ ] Approve a trial at all, and settle the proposed level-ten unlock.
+- [ ] Confirm two separate uses per long rest, a reaction, and a level-3-or-higher slot per use.
+- [ ] Decide whether this is an additional benefit or needs a tradeoff; no existing feature is currently replaced.
+- [ ] Define the trigger when a guard notices the party: before an alarm, before initiative, and before later consequences are resolved.
+- [ ] Define the replay boundary and how much movement, a brief warning, and companions' reactions fit into two seconds.
+- [ ] Decide which checks are repeated or replaced when the party changes its approach; clarify interactions with Chronal Shift and group Stealth checks.
+- [ ] Agree that only Gaza remembers the discarded interval, and discuss consequences of that extra information.
+- [ ] Decide how physical tells and activation are noticed; cosmetic tiredness is not mechanical Exhaustion.
+- [ ] Confirm how unchanged resources, conditions, and ongoing effects are handled; keep ambiguous cases outside the initial trial.
+- [ ] Agree on a review point and how to revise or withdraw the ability if it causes problems.
 
-A less disruptive alternative is to keep ordinary Chronal Shift and use its existing reroll with the same rewind description. That alternative cannot change an action or reposition anyone.
+### Things to test in play
+
+Use a short agreed trial, such as two or three sessions after the ability becomes available. This is a suggested review period, not a requirement.
+
+- [ ] **Castle approach:** can a quick warning and nearby cover plausibly change detection without guaranteeing escape?
+- [ ] **Party agency:** can companions choose their response rather than Gaza deciding their actions?
+- [ ] **Timing:** is it easy to identify and replay the last two seconds without reconstructing a whole scene?
+- [ ] **Game flow:** does the rewind resolve promptly without lengthy group planning inside the replay?
+- [ ] **Remaining tension:** do guards and hazards remain meaningful, with failure still possible?
+- [ ] **Resource cost:** are two uses and the slot cost restrictive enough while still allowing enjoyable use?
+- [ ] **Information exploits:** do deliberate tests of passwords, conversations, or traps create repeatable advantages?
+- [ ] **Resource accounting:** are slots, HP, items, and uses tracked consistently with no refunds or duplication?
+
+After each use, briefly note the trigger, changed choice, cost, outcome, and any ruling that was unclear. At the agreed review point, the DM and player can retain the trial, adjust its cost or frequency, narrow its scope, or remove it. No balance outcome is assumed in advance.
+
+A fallback is ordinary Chronal Shift with the tiny-rewind description: no changed actions or positions. If the optional homebrew is rejected, Gaza's backstory and personality still work; the exclusive-memory flavour remains its own DM discussion.
 
 ## Later subclass milestones
 
