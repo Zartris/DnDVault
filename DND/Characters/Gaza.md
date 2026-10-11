@@ -301,6 +301,48 @@ The DM should confirm how this older subclass's Exhaustion cost works with the c
 - Whether and how the party discovers him.
 - Starting spellbook, equipment, and any books recovered from the tower.
 
+## Potential feat — Lucky: two versions to consider
+
+**Status: a feat Gaza's player likes and wants to consider; not a final build choice.** The preferred idea so far is the 2014 *Player's Handbook* version; the 2024 version is recorded below as an alternative. Choose one version with the DM, not both. Neither is a final build choice.
+
+### 2014 version — published mechanics
+
+- No racial prerequisite: Gaza can qualify as a goblin.
+- Three luck points; finishing a long rest restores all spent points. Each use spends one point.
+- On Gaza's own attack roll, ability check, or saving throw, he can roll an additional d20 and choose which die to use. He may spend the point after rolling, but before the outcome is determined.
+- When an attack roll is made against Gaza, he can roll an additional d20 and choose whether the attack uses the attacker's die or his. Normally he would choose the lower die; the attacker's modifiers still apply, so a miss is not guaranteed.
+- Using Lucky requires no action or reaction and no spell slot.
+
+### Limits and an inn example
+
+Lucky cannot change an attack against an ally or an NPC's Persuasion or Deception check aimed at the party. It can improve Gaza's own Insight check to notice a lie. It is not a general power to make another creature reroll.
+
+### Possible chronomancy flavour
+
+Gaza glimpses an unwanted version of a brief moment and quietly selects another: “No, not that one.” Others might see a lucky dodge or a better-timed response. This is flavour for the existing die choice, not an extra rewind, changed action, or guaranteed success. Any exclusive-memory or secrecy effects remain the separate narrative proposals above.
+
+Lucky has its own three-point pool, separate from Chronal Shift and the optional exploration rewind. Its lack of a reaction cost could make it a useful additional personal correction.
+
+Rules reference: *Player's Handbook* (2014), p. 167; [official Sage Advice on Lucky](https://www.dndbeyond.com/sources/dnd/sac/sage-advice-compendium#Lucky).
+
+### 2024 version — alternative
+
+The 2024 *Player's Handbook* makes Lucky an **Origin feat**, with no racial prerequisite.
+
+- Luck points equal to Gaza's Proficiency Bonus: 2 at character levels 1–4, 3 at 5–8, 4 at 9–12, 5 at 13–16, and 6 at 17–20. A long rest restores spent points.
+- Spend one point when Gaza rolls a d20 for his own attack roll, ability check, or saving throw to give himself Advantage on that roll.
+- Spend one point when a creature rolls a d20 for an attack against Gaza to impose Disadvantage on that roll.
+- No action, reaction, or spell slot cost.
+- It does not affect an ally's roll, an attack against an ally, or an NPC's social check aimed at the party.
+
+**Difference to remember:** 2014 Lucky lets Gaza roll an additional die and choose which result to use; 2024 Lucky applies normal Advantage/Disadvantage and scales its point pool with level. If Gaza already has Advantage, the 2024 feat does not add another layer of Advantage. Advantage and Disadvantage cancel normally.
+
+The same chronomancy flavour could work: a glimpse of an unwanted possibility followed by a quiet adjustment. No actual rewind, guaranteed outcome, exclusive memory, or secrecy is granted by the feat.
+
+At Gaza's planned level-five start, either version has three points per long rest. Acquisition still needs to fit the agreed background/feat choices; an Origin label is not an automatic extra feat.
+
+Rules reference: *Player's Handbook* (2024), p. 201; [official guide to 2024 Origin feats](https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024).
+
 ## Build decisions still open
 
 Background, ability scores, Origin feat, level-four choice, cantrips, prepared spells, and spellbook contents.
