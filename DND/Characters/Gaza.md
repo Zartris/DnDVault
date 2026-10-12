@@ -19,7 +19,55 @@ A small, curious goblin who has learned considerably more magic than his captors
 
 He is eager to expand his knowledge. His bookish personality remains central even if Chronurgy is chosen instead of Order of Scribes.
 
-Appearance, age, mannerisms, and ability scores remain open.
+A working proposal for his adventuring appearance, clothing, staff, keepsake, and mannerisms follows below. His exact age and ability scores remain open.
+
+## Appearance and personal belongings — working proposal
+
+*An initial visual direction for Gaza as an adventuring character, rather than his condition when the party finds him. These details are suggestions to refine together; they are not yet fixed character facts. His exact age remains open.*
+
+### Face and build
+
+Gaza is a small, lightly built goblin with moss-green skin, long expressive ears, and warm amber eyes. Short, unruly dark hair sticks up where he has run his fingers through it while thinking. One ear has a small notch; its origin is undecided.
+
+His face is attentive and easy to read. When someone speaks, he looks at them closely, sometimes tilting his head as he works through an idea. His eyes brighten when he understands something, and his smile arrives before he has found the words to explain it.
+
+### What he wears
+
+He wears a practical, faded blue coat with a split hem that lets him move easily. Its sleeves are neatly rolled back from his hands, and the lining and pockets have been repaired with careful stitching. Underneath are a brown waistcoat, a plain linen shirt, and sturdy trousers tucked into well-kept ankle boots.
+
+A soft rust-red scarf wraps around his neck. He pulls it higher when nervous or cold, and takes care of it even when he neglects his own comfort. The coat and scarf are belongings he has chosen and made comfortable for himself.
+
+A leather belt carries his component pouch, a pencil, and a few small tools. His spellbook travels in a weatherproof satchel, with cloth wrapped around it and little paper tabs marking frequently consulted pages. He keeps useful scraps of notes, string, and spare buttons in separate pockets. He usually knows which pocket holds what.
+
+### His staff
+
+His staff is a slender length of pale ash, slightly taller than he is, with a natural curve near the top. The grip is wrapped in dark leather, worn smooth where his thumb rests. A narrow split in the wood has been carefully bound with copper wire.
+
+At the head, a small loop of tarnished brass holds a cloudy blue glass bead. It gives the staff a recognisable silhouette without making it elaborate. Tiny measuring marks run down one side, and a few handwritten reminders have been scratched into the wood.
+
+He treats the staff as a familiar tool: leaning on it while reading, laying it within reach when he sleeps, and checking the copper binding when he is thinking. Its craftsmanship can become tidier as he gains confidence.
+
+This is a proposed appearance for an ordinary wizard's staff or arcane focus, subject to the agreed equipment. The bead, brass loop, and repairs grant no additional abilities. Any magical visual effects can be developed separately with his spell flavour.
+
+### A unique personal item — the key without a lock
+
+Gaza keeps a small, worn brass key on a cord beneath his scarf. He has no matching lock. He occasionally rubs its rounded head between his fingers while thinking.
+
+One possible explanation is that it was the first small possession he chose to keep for himself. He likes the thought that somewhere there might be a door it opens. Whether it eventually connects to his past, an ordinary place, or nothing at all is left open for the DM and player.
+
+The key is a personal keepsake, not a magical item, a working skeleton key, or a confirmed clue. Its exact origin remains undecided.
+
+### Mannerisms that bring the appearance to life
+
+- He pushes his sleeves back before concentrating on a problem, even when they are already rolled up.
+- He carefully straightens bent pages and checks that his companions' belongings are out of the rain.
+- When excited, he starts an explanation halfway through his thought, then backs up to supply the missing beginning.
+- On night watch, he sits close to the light with the staff across his knees, making a sincere effort to look dependable.
+- After a time correction, his usual attentive expression might briefly give way to a distant stare, damp forehead, or tight grip on the staff, consistent with the existing cosmetic physical tells.
+
+### Short description for play
+
+A small moss-green goblin with amber eyes and untidy dark hair wears a carefully mended blue coat and a rust-red scarf. A satchel of tabbed books rests against his hip. His pale wooden staff has a crooked head, copper repairs, and a cloudy blue bead held in a brass loop. He listens closely, fingers sometimes finding the little key beneath his scarf, and looks ready to help before he has quite worked out how.
 
 ## Personality
 
