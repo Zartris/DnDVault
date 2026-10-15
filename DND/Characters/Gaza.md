@@ -146,6 +146,16 @@ While travelling, he bonds with his companions and discovers how much he wants t
 
 With the party, the same obedient eagerness carries over. A possible development is learning to voice his own wishes and accept that companions value his thoughts and company as well as his help. He remains thoughtful, capable of disagreement, and more than a comic servant.
 
+### What Master knows — the overlooked contribution
+
+Master knows Gaza is intelligent, can read, and can handle basic spellwork and familiar preparations. He is genuinely accomplished himself, but assumes Gaza follows instructions and does not appreciate how independently his assistant understands and solves problems.
+
+Gaza does much of the unnoticed work that keeps the tower running: anticipating needs, correcting errors, preparing solutions, and studying at night to tackle difficulties Master encountered during the day. Master takes the smooth results for granted and credits his own methods and expertise, scarcely noticing the obstacles Gaza has already removed. He has not discovered the restricted studying or Gaza's deliberate time corrections.
+
+For example, Gaza might work through the troublesome part of an experiment overnight and prepare the solution for morning. When it succeeds, Master says, “Yes, as expected.” Gaza waits for recognition that does not come. This illustrates their dynamic rather than establishing a particular experiment.
+
+Gaza's absence could eventually expose how much Master depends on him. Whether Master recognises that dependence, and how he responds, remain possibilities for the DM and play rather than predetermined events.
+
 ### A moment in the restricted library
 
 That line finally made sense. His ears lifted. Tomorrow, he could set the apparatus perfectly before Master even asked. Perhaps then—
@@ -168,7 +178,6 @@ Tomorrow he'd be ready. Useful. Worth keeping.
 
 ### Still to explore
 
-- What the master knows about his literacy and wizardry; overlooking his progress need not mean overlooking every spell.
 - Why the library sections are restricted, and what the master would actually do if he discovered the studying.
 - Whether the earlier goblin-family search still interests us alongside this upbringing.
 - The earlier assistant suggestion that he answers praise by offering more help is an optional mannerism, not yet a selected trait.
@@ -417,7 +426,6 @@ The DM should confirm how this older subclass's Exhaustion cost works with the c
 - Whether Gaza could later overcome that restriction remains deliberately open.
 - How subtle physical tells are portrayed without adding penalties to Chronal Shift.
 - Timing of rerolls during stealth and detection scenes.
-- How much the chronomancer master knows about Gaza's level-five wizardry and secret study of restricted books.
 - The details of the master's quest that sends Gaza with the party, to be chosen by the DM; his reasons to join and want to stay are established.
 - Starting spellbook, equipment, and whether he takes or is given books from the tower.
 
