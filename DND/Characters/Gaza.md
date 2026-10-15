@@ -212,7 +212,7 @@ This proposed experience is for the characters within the story. The players and
 
 Gaza is willing to tell his companions about his time magic, but currently cannot. When he tries to explain the ability, an unknown higher power or temporal force rolls time back to roughly two seconds before he began explaining. The strain overwhelms him and he blacks out. It is draining rather than painful.
 
-The rewind prevents the disclosure from reaching his companions. They do not retain the discarded explanation. What they observe of his blackout, and how long it lasts, remain for the DM to define. This replaces the earlier suggestion that he simply feels uncomfortable discussing it: his silence is imposed, not chosen out of shame, distrust, or uncertainty about his competence.
+The rewind prevents the disclosure from reaching his companions. They do not retain the discarded explanation. The player leaves the blackout's duration to the DM in each situation: it may last seconds, minutes, or hours, depending on the circumstances and how fatigued Gaza already is. The blackout can serve as a consequence or penalty for the disclosure attempt. No fixed duration is chosen. What companions observe remains for the DM to define. This replaces the earlier suggestion that he simply feels uncomfortable discussing it: his silence is imposed, not chosen out of shame, distrust, or uncertainty about his competence.
 
 The identity, motives, and origin of the preventing force remain open. This is a proposed story restriction and house rule, not a published Chronurgy feature or an approved extra power.
 
@@ -222,7 +222,7 @@ The restriction covers deliberate attempts to reveal or explain that Gaza can tu
 
 Practical warnings and vague explanations that do not reveal the ability are allowed. After a rewind, he can say “I just know,” “I had a feeling,” or give an immediate warning without blacking out. He knows why he is giving the warning and remembers the discarded moment; he is not confused about his own power.
 
-The forced disclosure event spends no Chronal Shift charges, other feature uses, or spell slots. It is an imposed interruption followed by a blackout, not an ability he can use to gain a useful replay, beneficial information, or restored resources. This defines the player's intended proposal; DM approval and the blackout's duration and representation remain open.
+The forced disclosure event spends no Chronal Shift charges, other feature uses, or spell slots. It is an imposed interruption followed by a blackout, not an ability he can use to gain a useful replay, beneficial information, or restored resources. This defines the player's intended proposal, pending DM approval. The player deliberately delegates the duration to a situational DM ruling; whether the blackout applies a formal condition remains to be agreed. Existing fatigue can inform the ruling without automatically adding levels of the mechanical Exhaustion condition.
 
 #### Private decisions, not a group safety plan
 
@@ -240,7 +240,8 @@ As Gaza gains experience and becomes more adept, he might eventually tolerate th
 
 - [ ] Agree whether this disclosure-blocking force belongs in the story.
 - [ ] Review and approve the defined player proposal: all deliberate methods of revealing the time-reversal ability are blocked; practical warnings and vague explanations such as “I just know” or “I had a feeling” are allowed.
-- [ ] Define the blackout's duration, what companions observe, and what Gaza remembers afterwards.
+- [ ] Review the player's proposed delegation: the DM determines the blackout's duration in the situation, from seconds to minutes or hours, considering Gaza's existing fatigue and using the blackout as a consequence where appropriate. No fixed duration or automatic additional Exhaustion levels are chosen.
+- [ ] Define what companions observe and what Gaza remembers afterwards.
 - [ ] Decide whether the blackout is a narrative lapse or applies an actual condition such as Unconscious. The player proposal spends no charges, feature uses, or spell slots; no additional mechanical Exhaustion is assumed.
 - [ ] Ensure the forced rewind cannot be triggered deliberately to gain extra useful rewinds, information, or restored resources.
 - [ ] Decide how discovery by others is handled; the restriction on his explanations does not itself establish universal undetectability.
@@ -292,7 +293,7 @@ If this secrecy or memory difference changes what characters can discover or act
 
 ### Mechanical homebrew status
 
-No mechanical changes are currently approved. The disclosure-blocking rewind and blackout are a story restriction for DM discussion. The player proposal spends no charges, feature uses, or spell slots and grants no exploitable replay; the blackout's duration and whether it applies a condition still need agreement. No additional mechanical Exhaustion is assumed. A separate optional Two-Second Rewind is proposed below as explicit mechanical homebrew. Until the DM approves defined versions, Gaza's published features remain unchanged.
+No mechanical changes are currently approved. The disclosure-blocking rewind and blackout are a story restriction for DM discussion. The player proposal spends no charges, feature uses, or spell slots and grants no exploitable replay; duration is deliberately left to the DM in the situation, while whether the blackout applies a formal condition still needs agreement. No additional mechanical Exhaustion is assumed. A separate optional Two-Second Rewind is proposed below as explicit mechanical homebrew. Until the DM approves defined versions, Gaza's published features remain unchanged.
 
 ### Individual spells — still to develop
 
