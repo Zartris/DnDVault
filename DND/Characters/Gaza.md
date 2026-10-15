@@ -57,11 +57,11 @@ A leather belt carries his component pouch, a pencil, and a few small tools. His
 
 His staff is a slender length of pale ash, slightly taller than he is, with a natural curve near the top. The grip is wrapped in dark leather, worn smooth where his thumb rests. A narrow split in the wood has been carefully bound with copper wire.
 
-At the head, a small loop of tarnished brass holds a cloudy blue glass bead. It gives the staff a recognisable silhouette without making it elaborate. Tiny measuring marks run down one side, and a few handwritten reminders have been scratched into the wood.
+At the head, a small loop of tarnished brass holds a cloudy blue orb, with tiny grains of golden sand floating inside as a subtle hint of chronomancy. It gives the staff a recognisable silhouette without making it elaborate. Tiny measuring marks run down one side, and a few handwritten reminders have been scratched into the wood.
 
 He treats the staff as a familiar tool: leaning on it while reading, laying it within reach when he sleeps, and checking the copper binding when he is thinking. Its craftsmanship can become tidier as he gains confidence.
 
-This is a proposed appearance for an ordinary wizard's staff or arcane focus, subject to the agreed equipment. The bead, brass loop, and repairs grant no additional abilities. Any magical visual effects can be developed separately with his spell flavour.
+This is a proposed appearance for an ordinary wizard's staff or arcane focus, subject to the agreed equipment. The orb, brass loop, repairs, and floating golden sand are cosmetic flavour and grant no additional abilities.
 
 ### A unique personal item — the key without a lock
 
