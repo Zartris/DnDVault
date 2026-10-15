@@ -216,6 +216,14 @@ The rewind prevents the disclosure from reaching his companions. They do not ret
 
 The identity, motives, and origin of the preventing force remain open. This is a proposed story restriction and house rule, not a published Chronurgy feature or an approved extra power.
 
+#### What triggers the blackout — player proposal
+
+The restriction covers deliberate attempts to reveal or explain that Gaza can turn back time, through speech, writing, drawing, deliberate explanatory hints or demonstrations, magical communication, or any other means. “I can turn back time” would trigger it regardless of how he tries to convey that meaning.
+
+Practical warnings and vague explanations that do not reveal the ability are allowed. After a rewind, he can say “I just know,” “I had a feeling,” or give an immediate warning without blacking out. He knows why he is giving the warning and remembers the discarded moment; he is not confused about his own power.
+
+The forced disclosure event spends no Chronal Shift charges, other feature uses, or spell slots. It is an imposed interruption followed by a blackout, not an ability he can use to gain a useful replay, beneficial information, or restored resources. This defines the player's intended proposal; DM approval and the blackout's duration and representation remain open.
+
 #### Private decisions, not a group safety plan
 
 Gaza knows his own ability and can take a personal risk with the thought that he might reverse an eligible moment if necessary. He still activates it in reaction to something happening, within the limits of the feature being used. Having this private fallback is not a guarantee of success or permission to undo anything.
@@ -231,9 +239,9 @@ As Gaza gains experience and becomes more adept, he might eventually tolerate th
 #### DM decisions and mechanical boundaries
 
 - [ ] Agree whether this disclosure-blocking force belongs in the story.
-- [ ] Define what counts as disclosure, including writing, hints, demonstrations, or magical communication.
+- [ ] Review and approve the defined player proposal: all deliberate methods of revealing the time-reversal ability are blocked; practical warnings and vague explanations such as “I just know” or “I had a feeling” are allowed.
 - [ ] Define the blackout's duration, what companions observe, and what Gaza remembers afterwards.
-- [ ] Decide whether the blackout is a narrative lapse or applies an actual condition such as Unconscious, and whether attempts impose mechanical Exhaustion or resource costs.
+- [ ] Decide whether the blackout is a narrative lapse or applies an actual condition such as Unconscious. The player proposal spends no charges, feature uses, or spell slots; no additional mechanical Exhaustion is assumed.
 - [ ] Ensure the forced rewind cannot be triggered deliberately to gain extra useful rewinds, information, or restored resources.
 - [ ] Decide how discovery by others is handled; the restriction on his explanations does not itself establish universal undetectability.
 - [ ] Keep any future weakening or removal of the restriction open for later discussion.
@@ -284,7 +292,7 @@ If this secrecy or memory difference changes what characters can discover or act
 
 ### Mechanical homebrew status
 
-No mechanical changes are currently approved. The disclosure-blocking rewind and blackout are a new story restriction for DM discussion; any actual Exhaustion, condition, or costs must be defined separately. A separate optional Two-Second Rewind is proposed below as explicit mechanical homebrew. Until the DM approves defined versions, Gaza's published features remain unchanged.
+No mechanical changes are currently approved. The disclosure-blocking rewind and blackout are a story restriction for DM discussion. The player proposal spends no charges, feature uses, or spell slots and grants no exploitable replay; the blackout's duration and whether it applies a condition still need agreement. No additional mechanical Exhaustion is assumed. A separate optional Two-Second Rewind is proposed below as explicit mechanical homebrew. Until the DM approves defined versions, Gaza's published features remain unchanged.
 
 ### Individual spells — still to develop
 
