@@ -128,7 +128,9 @@ A possible character arc is learning that he can belong without always getting e
 
 *Selected direction: 15 October 2026. This is the backstory premise to develop; the open details below remain for discussion together.*
 
-Gaza grew up serving a chronomancer in a wizard tower. He is an obedient assistant, accustomed to preparing materials, fetching books, and helping with the master's work. His upbringing is relatively comfortable, with an emphasis on assisting his master. His master values reliable service, but does not give Gaza the recognition he longs for. Their relationship is master and servant, without a family bond. Whether the service is formally slavery, and what freedom he actually has to leave, remain undecided.
+Gaza's earliest memories are of living as a slave on a farm. He does not know how or why he was enslaved. While he was still very young, a visiting chronomancer noticed his intelligence, nimble hands, and aptitude for helping with practical tasks. The wizard bought him to become his assistant in the tower. This is the simple origin chosen for him; no elaborate explanation or secret purpose is established.
+
+He grew up serving the chronomancer as an obedient assistant, accustomed to preparing materials, fetching books, and helping with the master's work. His life in the tower is relatively comfortable. His master values reliable service, but does not give Gaza the recognition he longs for. Their relationship is master and slave assistant, without a family bond. His purchase and status are established; the exact terms of his service and what freedom he has to leave are still for discussion if needed.
 
 “Of course, Master! Yes, yes—I can help.” That eagerness is sincere. Gaza is intelligent and capable, but being useful is the place he knows for himself. His master overlooks how much magical understanding he has acquired through watching and assisting.
 
@@ -138,20 +140,22 @@ He wants to learn more and become more capable so that he can help Master better
 
 Being caught could, in Gaza's mind, mean losing his assistant's position and being thrown out of the only home he knows. This preserves the fear of discovery and nightly sneaking. Expulsion is a feared consequence, not an established response from the master. During an eligible check, Gaza could deliberately use Chronal Shift, with the proposed tiny-rewind presentation, to try to avoid discovery. No new ability is granted.
 
+His master sends him out with the party on a quest. The DM will decide its purpose, details, and circumstances; no specific errand or reward has been chosen. Gaza goes obediently, hoping that doing the work well will earn recognition.
+
+While travelling, he bonds with his companions and discovers how much he wants to learn and see beyond the tower. He wants to keep adventuring, and frames that wish to his master as useful service: he can bring back knowledge, books, and whatever Master needs, becoming a better assistant along the way. This motive is sincere alongside his growing desire to explore for himself. How an extension or return plays out can emerge during play.
+
 With the party, the same obedient eagerness carries over. A possible development is learning to voice his own wishes and accept that companions value his thoughts and company as well as his help. He remains thoughtful, capable of disagreement, and more than a comic servant.
 
 ### Still to explore
 
-- How he came to the tower, how long he has served, and the precise terms of that service.
 - What the master knows about his literacy and wizardry; overlooking his progress need not mean overlooking every spell.
 - Why the library sections are restricted, and what the master would actually do if he discovered the studying.
-- How he joins the party and gains a reason to keep adventuring. The circumstances of his departure remain undecided.
 - Whether the earlier goblin-family search still interests us alongside this upbringing.
 - The earlier assistant suggestion that he answers praise by offering more help is an optional mannerism, not yet a selected trait.
 
 ## Personal quest
 
-He wants to expand his knowledge of wizardry, become more useful to his master, and earn recognition. What takes him beyond the tower, and how his goals develop with the party, remain for discussion.
+He wants to expand his knowledge of wizardry, become more useful to his master, and earn recognition. His master's quest takes him out with the party. Bonding with his companions and discovering the wider world give him reasons to stay. He presents continued travel as a way to bring Master useful knowledge, books, and other needed things, while also wanting to explore for himself. The DM determines the quest details; his eventual decisions can develop in play.
 
 Any larger quest remains open.
 
@@ -394,7 +398,7 @@ The DM should confirm how this older subclass's Exhaustion cost works with the c
 - How subtle physical tells are portrayed without adding penalties to Chronal Shift.
 - Timing of rerolls during stealth and detection scenes.
 - How much the chronomancer master knows about Gaza's level-five wizardry and secret study of restricted books.
-- How and why Gaza leaves the tower and joins the party.
+- The details of the master's quest that sends Gaza with the party, to be chosen by the DM; his reasons to join and want to stay are established.
 - Starting spellbook, equipment, and whether he takes or is given books from the tower.
 
 ## Potential feat — Lucky: two versions to consider
