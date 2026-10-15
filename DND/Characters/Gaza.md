@@ -106,6 +106,13 @@ Examples of his natural phrasing:
 - “Oh yes, Master!”
 - “Of course, Master!”
 - “Yes, yes, of course—I can help.”
+- “Oh yes, of course, Master! I’ll see to it.”
+- “Yes, yes—I can help with that, sir.”
+- “Master? If I may… I think I know this one.”
+- “Oh—but, Master, that rune is still glowing. Perhaps let me check it first?”
+- “Please, sir, let me carry that. You’ve enough to worry about.”
+- “Was that right, Master? Shall I do it that way again?”
+- “For me, sir? Oh. Thank you. I’ll take very good care of it.”
 
 He longs for recognition from his master. His helpfulness is sincere, while his habit of putting others' requests first reflects the role he has grown up in. His master's appreciation of his work has not made theirs a family relationship.
 
