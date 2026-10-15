@@ -122,6 +122,8 @@ This manner does not make him foolish or incapable of independent thought. He re
 
 He has real magical knowledge, gained through study and practice, but limited experience outside the tower. He is neither a bumbling novice nor a calculating schemer concealing his intelligence. He knows what he is doing when he uses his time magic, even if the situation frightens him.
 
+His deepest insecurity is being unacknowledged or abandoned. He imagines being sent away as the loss of both his home and his chance to be valued. This fear does not establish any particular incident in his unknown early history.
+
 A possible character arc is learning that he can belong without always getting everything right, and becoming more confident in himself.
 
 ## Backstory — the overlooked assistant
@@ -140,7 +142,7 @@ A possible progression is that he gradually taught himself to read by matching f
 
 He wants to learn more and become more capable so that he can help Master better and finally earn recognition. Alongside that sincere motive, he discovers his own enjoyment of magic. He might spend hours on a spell with no obvious use for his duties and still explain it as preparation for helping.
 
-Being caught could, in Gaza's mind, mean losing his assistant's position and being thrown out of the only home he knows. This preserves the fear of discovery and nightly sneaking. Expulsion is a feared consequence, not an established response from the master. During an eligible check, Gaza could deliberately use Chronal Shift, with the proposed tiny-rewind presentation, to try to avoid discovery. No new ability is granted.
+Master has not told Gaza what would actually happen if he were caught in the private collection. Gaza fills that uncertainty with the worst outcome he can imagine: losing his assistant's position, being sent away from his home, and being abandoned. At the heart of this fear is the possibility that he will never be acknowledged or valued. Death is not what he imagines as the worst outcome; losing his place and the hope of recognition is. This preserves the fear of discovery and nightly sneaking. Expulsion is Gaza's fear, not an established threat or response from Master. During an eligible check, Gaza could deliberately use Chronal Shift, with the proposed tiny-rewind presentation, to try to avoid discovery. No new ability is granted.
 
 His master sends him out with the party on a quest. The DM will decide its purpose, details, and circumstances; no specific errand or reward has been chosen. Gaza goes obediently, hoping that doing the work well will earn recognition.
 
