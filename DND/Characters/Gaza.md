@@ -224,6 +224,14 @@ Practical warnings and vague explanations that do not reveal the ability are all
 
 The forced disclosure event spends no Chronal Shift charges, other feature uses, or spell slots. It is an imposed interruption followed by a blackout, not an ability he can use to gain a useful replay, beneficial information, or restored resources. This defines the player's intended proposal, pending DM approval. The player deliberately delegates the duration to a situational DM ruling; whether the blackout applies a formal condition remains to be agreed. Existing fatigue can inform the ruling without automatically adding levels of the mechanical Exhaustion condition.
 
+#### What others may notice — intended secrecy
+
+The intended story is that others do not know how Gaza knows what he knows. They may notice that he is sometimes unexpectedly right, gives useful warnings, or knows something he apparently should not. They can find this strange and form suspicions, without remembering any discarded timeline.
+
+Gaza cannot reveal or confirm that time reversal is the source of that knowledge. He can offer the permitted vague explanations, such as “I just know” or “I had a feeling.” His silence does not mean that he is unaware of his own ability.
+
+The player does not dictate other characters' deductions. Whether suspicions ever lead to genuine discovery, and how that happens, is left open for the DM. Keeping the mechanism unknown is the intended direction, not an established extra power that automatically erases every independent deduction.
+
 #### Private decisions, not a group safety plan
 
 Gaza knows his own ability and can take a personal risk with the thought that he might reverse an eligible moment if necessary. He still activates it in reaction to something happening, within the limits of the feature being used. Having this private fallback is not a guarantee of success or permission to undo anything.
@@ -244,7 +252,7 @@ As Gaza gains experience and becomes more adept, he might eventually tolerate th
 - [ ] Define what companions observe and what Gaza remembers afterwards.
 - [ ] Decide whether the blackout is a narrative lapse or applies an actual condition such as Unconscious. The player proposal spends no charges, feature uses, or spell slots; no additional mechanical Exhaustion is assumed.
 - [ ] Ensure the forced rewind cannot be triggered deliberately to gain extra useful rewinds, information, or restored resources.
-- [ ] Decide how discovery by others is handled; the restriction on his explanations does not itself establish universal undetectability.
+- [ ] Handle others' suspicions and any eventual discovery with the DM. The intended story keeps the source of Gaza's knowledge unknown; others may notice clues and draw their own conclusions, while Gaza cannot reveal or confirm time reversal. No automatic suppression of all independent deductions is established.
 - [ ] Keep any future weakening or removal of the restriction open for later discussion.
 
 No new Exhaustion cost, condition, or spending of Chronal Shift uses is assumed here. Ordinary Chronal Shift remains unchanged. The forced disclosure rewind is separate from the optional level-ten exploration rewind and is not available as an additional controllable ability.
