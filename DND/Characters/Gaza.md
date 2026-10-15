@@ -134,7 +134,9 @@ He grew up serving the chronomancer as an obedient assistant, accustomed to prep
 
 “Of course, Master! Yes, yes—I can help.” That eagerness is sincere. Gaza is intelligent and capable, but being useful is the place he knows for himself. His master overlooks how much magical understanding he has acquired through watching and assisting.
 
-At night, curiosity takes him into restricted sections of the library. A possible progression is that he gradually taught himself to read by matching familiar instructions and spoken explanations to written notes, then built up his wizardry through study and practice. The exact learning timeline remains open.
+At night, curiosity takes him into Master's private, restricted collection of books. Master has told him many times that he is not allowed in there, without explaining the reasons further. Gaza knows the collection contains forbidden books and forbidden knowledge. He understands that entering and studying there disobeys an explicit instruction, which gives his nightly curiosity a real sense of guilt even while he hopes to become more useful.
+
+A possible progression is that he gradually taught himself to read by matching familiar instructions and spoken explanations to written notes, then built up his wizardry through study and practice. The exact learning timeline remains open.
 
 He wants to learn more and become more capable so that he can help Master better and finally earn recognition. Alongside that sincere motive, he discovers his own enjoyment of magic. He might spend hours on a spell with no obvious use for his duties and still explain it as preparation for helping.
 
@@ -178,7 +180,7 @@ Tomorrow he'd be ready. Useful. Worth keeping.
 
 ### Still to explore
 
-- Why the library sections are restricted, and what the master would actually do if he discovered the studying.
+- What Master would actually do if he discovered Gaza studying in his private collection is left for the DM; Gaza's fear of dismissal does not establish the actual consequence.
 - Whether the earlier goblin-family search still interests us alongside this upbringing.
 - The earlier assistant suggestion that he answers praise by offering more help is an optional mannerism, not yet a selected trait.
 
