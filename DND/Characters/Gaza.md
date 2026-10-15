@@ -97,6 +97,20 @@ His naivety lies in his eagerness to be useful and do the right thing. He wants 
 
 For example, he might offer to take the night watch despite being scared of the dark. The offer is sincere; so is his fear. His efforts do not always work out as he hopes.
 
+### Speech and learned servant manners
+
+Gaza speaks with the eager, deferential manner of someone who has always been an assistant. He is quick to agree, offer help, and respond to requests with an earnest willingness to be useful. Serving his chronomancer master is familiar to him, and that same attitude carries into his interactions with the party.
+
+Examples of his natural phrasing:
+
+- “Oh yes, Master!”
+- “Of course, Master!”
+- “Yes, yes, of course—I can help.”
+
+He longs for recognition from his master. His helpfulness is sincere, while his habit of putting others' requests first reflects the role he has grown up in. His master's appreciation of his work has not made theirs a family relationship.
+
+This manner does not make him foolish or incapable of independent thought. He remains an intelligent, observant wizard with his own curiosity and ideas. How he addresses individual companions, including whether he uses “Master” for anyone in the party, remains to be explored.
+
 ### Confidence and vulnerability
 
 He has real magical knowledge, gained through study and practice, but limited experience outside the tower. He is neither a bumbling novice nor a calculating schemer concealing his intelligence. He knows what he is doing when he uses his time magic, even if the situation frightens him.
