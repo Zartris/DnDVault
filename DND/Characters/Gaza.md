@@ -99,7 +99,7 @@ For example, he might offer to take the night watch despite being scared of the 
 
 ### Speech and learned servant manners
 
-Gaza speaks with the eager, deferential manner of someone who has always been an assistant. He is quick to agree, offer help, and respond to requests with an earnest willingness to be useful. Serving his chronomancer master is familiar to him, and that same attitude carries into his interactions with the party.
+Gaza speaks with the eager, deferential manner of someone who has always been an assistant. His repeated “yes, yes” belongs to moments of excitement or eager responses to requests and commands. Repeating words while thinking or distracted is not a general mannerism. He is quick to agree, offer help, and respond to requests with an earnest willingness to be useful. Serving his chronomancer master is familiar to him, and that same attitude carries into his interactions with the party.
 
 Examples of his natural phrasing:
 
@@ -145,6 +145,26 @@ His master sends him out with the party on a quest. The DM will decide its purpo
 While travelling, he bonds with his companions and discovers how much he wants to learn and see beyond the tower. He wants to keep adventuring, and frames that wish to his master as useful service: he can bring back knowledge, books, and whatever Master needs, becoming a better assistant along the way. This motive is sincere alongside his growing desire to explore for himself. How an extension or return plays out can emerge during play.
 
 With the party, the same obedient eagerness carries over. A possible development is learning to voice his own wishes and accept that companions value his thoughts and company as well as his help. He remains thoughtful, capable of disagreement, and more than a comic servant.
+
+### A moment in the restricted library
+
+That line finally made sense. His ears lifted. Tomorrow, he could set the apparatus perfectly before Master even asked. Perhaps then—
+
+A latch clicked behind him.
+
+He looked up. The door was opening.
+
+Then his fingers snapped. The sound cracked through the room and was gone.
+
+The door was closed again. His finger rested beneath the same sentence. Three seconds. He knew what came next.
+
+He slid the book behind the ledger, lowered the candle, and folded himself under the desk as the door opened. Light moved between the shelves. Master lingered a moment, then left.
+
+Gaza stayed where he was, heartbeat loud in his ears, until the tower settled again.
+
+Tomorrow he'd be ready. Useful. Worth keeping.
+
+*Gaza deliberately reacts to danger and remembers the discarded three seconds; no one else remembers the snap or the earlier version. This vignette shows the desired literal replay with changed actions. How that fits his backstory and starting abilities needs DM agreement; it does not expand ordinary Chronal Shift or approve the separate homebrew rewind.*
 
 ### Still to explore
 
