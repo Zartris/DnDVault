@@ -16,6 +16,7 @@
 - **Role:** Backup character, available if Kaelen dies or the player wants a change.
 - **Interests:** Learning spells, collecting books, understanding magic, and helping companions.
 - **Play preferences:** Time manipulation, useful interventions in other players' rolls, teleportation, and ordinary wizard spell versatility. No summon-focused play.
+- **Selected feat:** Lucky (2014); acquisition and timing remain open, subject to DM agreement.
 
 ## Description
 
@@ -433,11 +434,11 @@ The DM should confirm how this older subclass's Exhaustion cost works with the c
 - The details of the master's quest that sends Gaza with the party, to be chosen by the DM; his reasons to join and want to stay are established.
 - Starting spellbook, equipment, and whether he takes or is given books from the tower.
 
-## Potential feat — Lucky: two versions to consider
+## Selected feat — Lucky (2014)
 
-**Status: a feat Gaza's player likes and wants to consider; not a final build choice.** The preferred idea so far is the 2014 *Player's Handbook* version; the 2024 version is recorded below as an alternative. Choose one version with the DM, not both. Neither is a final build choice.
+**Status: selected by the player on 15 October 2026.** Gaza will take the 2014 *Player's Handbook* version of Lucky, subject to the campaign's DM agreement. When and how he acquires it remain open. The 2024 version is retained below for reference, not selected alongside it. Other build choices are deliberately left open so the story can guide what Gaza needs when he becomes relevant.
 
-### 2014 version — published mechanics
+### Selected 2014 version — published mechanics
 
 - No racial prerequisite: Gaza can qualify as a goblin.
 - Three luck points; finishing a long rest restores all spent points. Each use spends one point.
@@ -457,7 +458,7 @@ Lucky has its own three-point pool, separate from Chronal Shift and the optional
 
 Rules reference: *Player's Handbook* (2014), p. 167; [official Sage Advice on Lucky](https://www.dndbeyond.com/sources/dnd/sac/sage-advice-compendium#Lucky).
 
-### 2024 version — alternative
+### 2024 version — reference only, not selected
 
 The 2024 *Player's Handbook* makes Lucky an **Origin feat**, with no racial prerequisite.
 
@@ -485,6 +486,6 @@ These ideas were discussed but have not been selected or added to the build:
 
 ## Build decisions still open
 
-Background, ability scores, Origin feat, level-four choice, cantrips, prepared spells, and spellbook contents.
+Lucky (2014) is selected; its acquisition and timing remain open. Background, ability scores, Origin feat, level-four choice, cantrips, prepared spells, spellbook contents, and equipment remain undecided. Apart from the established character concept and this feat choice, further build decisions are deferred until the story and campaign show what he needs.
 
 Evoker, Diviner, and Order of Scribes remain alternatives if Chronurgy does not work for the table. Abjurer, Enchanter, Illusionist, Necromancer, Transmuter, Graviturgy, and Bladesinger have been ruled out for this character. War Magic does not fit the desired play style; Conjurer's teleportation appealed, but its summon focus did not.
