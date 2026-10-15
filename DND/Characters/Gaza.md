@@ -184,7 +184,6 @@ Tomorrow he'd be ready. Useful. Worth keeping.
 ### Still to explore
 
 - What Master would actually do if he discovered Gaza studying in his private collection is left for the DM; Gaza's fear of dismissal does not establish the actual consequence.
-- Whether the earlier goblin-family search still interests us alongside this upbringing.
 - The earlier assistant suggestion that he answers praise by offering more help is an optional mannerism, not yet a selected trait.
 
 ## Personal quest
@@ -192,35 +191,6 @@ Tomorrow he'd be ready. Useful. Worth keeping.
 He wants to expand his knowledge of wizardry, become more useful to his master, and earn recognition. His master's quest takes him out with the party. Bonding with his companions and discovering the wider world give him reasons to stay. He presents continued travel as a way to bring Master useful knowledge, books, and other needed things, while also wanting to explore for himself. The DM determines the quest details; his eventual decisions can develop in play.
 
 Any larger quest remains open.
-
-## Backstory thoughts — only a starting point
-
-*These family-and-belonging ideas remain exploratory. They have not been selected as Gaza's personal quest and should be reviewed together in light of his assistant upbringing. Any of these ideas can change or be discarded.*
-
-### Family and belonging
-
-Perhaps Gaza grew up serving in the tower with little contact with his family or former community. How much he remembers, and how familiar he is with everyday goblin customs, remain open.
-
-He might want to find the people he came from, partly to discover whether anyone remembers or missed him. He imagines that returning will feel like coming home, but the reunion may be more complicated: affection and unfamiliarity can coexist.
-
-One possible arc is discovering that he can reconnect with his origins while also finding a home among his adventuring companions. Whether he returns, stays, or belongs in both places remains open.
-
-### Possible hooks for the DM
-
-- **A first lead:** someone recognises a name, keepsake, or fragment of a childhood memory and can point him towards his former community. Which clue he has, if any, is undecided.
-- **An actual reunion:** a relative or old friend remembers him, but they have both changed. The encounter gives him someone to talk to and something concrete to choose.
-- **A reason to stay involved:** someone from home needs help with a specific problem. The nature of that problem should fit the campaign rather than being fixed now.
-
-These hooks work through relationships and ordinary events; they do not require anyone to know about Gaza's chronomancy.
-
-### Questions to return to
-
-- Does he remember particular people, or mostly a feeling of home?
-- What makes him start looking, and what lead can he actually follow?
-- What does he hope to find when he arrives?
-- How would returning differ from his expectations?
-
-His interest in learning spells remains part of his personality. A concrete person, place, or lead could give that curiosity and his wish to belong a playable direction.
 
 ## Chronurgy and the tiny rewind
 
