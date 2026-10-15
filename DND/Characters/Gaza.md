@@ -19,7 +19,7 @@
 
 ## Description
 
-A small, curious goblin who has learned considerably more magic than his captors might expect. He is already a capable level-five wizard, although his confidence does not match his knowledge. He is frightened of the tower's inhabitants and does not believe he can escape their control alone.
+A small, curious goblin who has learned considerably more magic than his chronomancer master realises. He is already a capable level-five wizard, although his confidence does not match his knowledge. He serves as an obedient assistant and longs for his master's recognition. He fears losing his position and home if his secret study of restricted books is discovered.
 
 He is eager to expand his knowledge. His bookish personality remains central even if Chronurgy is chosen instead of Order of Scribes.
 
@@ -99,29 +99,15 @@ For example, he might offer to take the night watch despite being scared of the 
 
 ### Confidence and vulnerability
 
-He has real magical knowledge, gained through study and practice, but limited experience outside captivity. He is neither a bumbling novice nor a calculating schemer concealing his intelligence. He knows what he is doing when he uses his time magic, even if the situation frightens him.
+He has real magical knowledge, gained through study and practice, but limited experience outside the tower. He is neither a bumbling novice nor a calculating schemer concealing his intelligence. He knows what he is doing when he uses his time magic, even if the situation frightens him.
 
 A possible character arc is learning that he can belong without always getting everything right, and becoming more confident in himself.
 
-## Backstory — current idea
+## Backstory — the overlooked assistant
 
-He was imprisoned in a wizard tower, initially with little understanding of what happened there. Over time, exposure to magical experiments, overheard conversations, and fragments of instruction helped him recognise magical patterns and understand the wizards' words.
+*Selected direction: 15 October 2026. This is the backstory premise to develop; the open details below remain for discussion together.*
 
-He learned through observation and whatever books or notes he could access. His abilities come from studying and practising wizardry; the exact role of the tower's magical atmosphere is a narrative detail to settle with the DM.
-
-He eventually worked out how to leave his cage at night and explore parts of the tower. Getting out of the cage was not the same as being able to escape the tower safely.
-
-A recent idea is that, when a guard noticed him, he deliberately used a brief time reversal to give himself another chance to remain unnoticed. He could be frightened while doing it, but the magic was an intentional act, not an accidental hiccup. This represents Chronal Shift when an eligible roll is involved, rather than an unrestricted power to undo events.
-
-The party might find and rescue him. The reason for his imprisonment, his captors' identities, the rescue circumstances, and whether he takes books with him are not decided.
-
-## Alternative backstory — the overlooked assistant
-
-*Exploratory sketch added 15 October 2026, at the player's request. Keep both versions for comparison; no final backstory choice has been made. The existing backstory above is Version A, the captive. This alternative is Version B, the assistant. Earlier references to captors, imprisonment, escape, and captivity-based family hooks belong to Version A until a version is selected; they are not combined facts.*
-
-### Version B — working sketch
-
-Gaza grew up serving a chronomancer in a wizard tower. He is an obedient assistant, accustomed to preparing materials, fetching books, and helping with the master's work. The intended upbringing is lighter, without a cage or a childhood centred on mistreatment. His master values reliable service, but does not give Gaza the recognition he longs for. Their relationship is master and servant, without a family bond. Whether the service is formally slavery, and what freedom he actually has to leave, remain undecided.
+Gaza grew up serving a chronomancer in a wizard tower. He is an obedient assistant, accustomed to preparing materials, fetching books, and helping with the master's work. His upbringing is relatively comfortable, with an emphasis on assisting his master. His master values reliable service, but does not give Gaza the recognition he longs for. Their relationship is master and servant, without a family bond. Whether the service is formally slavery, and what freedom he actually has to leave, remain undecided.
 
 “Of course, Master! Yes, yes—I can help.” That eagerness is sincere. Gaza is intelligent and capable, but being useful is the place he knows for himself. His master overlooks how much magical understanding he has acquired through watching and assisting.
 
@@ -129,7 +115,7 @@ At night, curiosity takes him into restricted sections of the library. A possibl
 
 He wants to learn more and become more capable so that he can help Master better and finally earn recognition. Alongside that sincere motive, he discovers his own enjoyment of magic. He might spend hours on a spell with no obvious use for his duties and still explain it as preparation for helping.
 
-Being caught could, in Gaza's mind, mean losing his assistant's position and being thrown out of the only home he knows. This preserves the fear of discovery and nightly sneaking. Expulsion is a feared consequence, not an established response from the master. During an eligible check, Gaza could deliberately use Chronal Shift, with the agreed tiny-rewind presentation, to try to avoid discovery. No new ability is granted.
+Being caught could, in Gaza's mind, mean losing his assistant's position and being thrown out of the only home he knows. This preserves the fear of discovery and nightly sneaking. Expulsion is a feared consequence, not an established response from the master. During an eligible check, Gaza could deliberately use Chronal Shift, with the proposed tiny-rewind presentation, to try to avoid discovery. No new ability is granted.
 
 With the party, the same obedient eagerness carries over. A possible development is learning to voice his own wishes and accept that companions value his thoughts and company as well as his help. He remains thoughtful, capable of disagreement, and more than a comic servant.
 
@@ -138,40 +124,23 @@ With the party, the same obedient eagerness carries over. A possible development
 - How he came to the tower, how long he has served, and the precise terms of that service.
 - What the master knows about his literacy and wizardry; overlooking his progress need not mean overlooking every spell.
 - Why the library sections are restricted, and what the master would actually do if he discovered the studying.
-- How he joins the party and gains a reason to keep adventuring. No departure, rescue, dismissal, or death of the master is chosen.
-- Whether the earlier goblin-family search still interests us independently of captivity.
+- How he joins the party and gains a reason to keep adventuring. The circumstances of his departure remain undecided.
+- Whether the earlier goblin-family search still interests us alongside this upbringing.
 - The earlier assistant suggestion that he answers praise by offering more help is an optional mannerism, not yet a selected trait.
-
-### Comparing the two versions — current assessment
-
-| Aspect | Version A: captive | Version B: overlooked assistant |
-|---|---|---|
-| Immediate drive | Freedom and safety; a clear reason to accept rescue. | Recognition and learning; departure still needs a concrete reason. |
-| Nighttime tension | Discovery while outside his cage. | Discovery studying restricted books, risking his role and home. |
-| Potential growth | Building confidence and belonging after captivity. | Developing his own wishes while retaining sincere helpfulness. |
-| Fit for this player's aims | Repeats elements of the player's previous captured wizard. | Better fits the requested lighter upbringing and obedient manner. |
-
-**Assistant's recommendation:** develop Version B. It preserves the library adventures, fear of discovery, private time corrections, and bookish curiosity while giving his helpfulness a personal source. Its main unresolved piece is the transition into adventuring.
-
-**Improve Version A:** give him a specific tower responsibility or relationship that helps explain his knowledge and choices; establish why a capable level-five wizard cannot simply leave. Give him a concrete goal after rescue so the story continues beyond escape. Avoid adding cruelty just to increase the stakes.
-
-**Improve Version B:** define one meaningful library restriction and one small kind of recognition he hopes to earn. Give him an interest or opinion that exists beyond serving others. A task that temporarily sends him with the party could let him discover reasons to stay, but this is only a possible departure hook. Keep his fear of expulsion distinct from the master's actual intentions.
-
-Both versions retain the existing chronomancy rules, proposed memory interpretation, disclosure restriction, and homebrew status. No mechanical changes follow from this sketch.
 
 ## Personal quest
 
-Expand his knowledge of wizardry and discover what he can do beyond the tower. His first practical goal would be freedom and safety, followed by learning alongside people he can trust.
+He wants to expand his knowledge of wizardry, become more useful to his master, and earn recognition. What takes him beyond the tower, and how his goals develop with the party, remain for discussion.
 
 Any larger quest remains open.
 
 ## Backstory thoughts — only a starting point
 
-*These are only exploratory thoughts: the beginning of something, not even a backstory draft. Nothing here is decided, established, or committed to. Any idea can change or be discarded entirely; no plot direction has been chosen.*
+*These family-and-belonging ideas remain exploratory. They have not been selected as Gaza's personal quest and should be reviewed together in light of his assistant upbringing. Any of these ideas can change or be discarded.*
 
 ### Family and belonging
 
-Perhaps Gaza spent so much of his life in captivity that he barely remembers being with family or friends. He has had little opportunity to learn the everyday customs of his own goblin community.
+Perhaps Gaza grew up serving in the tower with little contact with his family or former community. How much he remembers, and how familiar he is with everyday goblin customs, remain open.
 
 He might want to find the people he came from, partly to discover whether anyone remembers or missed him. He imagines that returning will feel like coming home, but the reunion may be more complicated: affection and unfamiliarity can coexist.
 
@@ -182,7 +151,6 @@ One possible arc is discovering that he can reconnect with his origins while als
 - **A first lead:** someone recognises a name, keepsake, or fragment of a childhood memory and can point him towards his former community. Which clue he has, if any, is undecided.
 - **An actual reunion:** a relative or old friend remembers him, but they have both changed. The encounter gives him someone to talk to and something concrete to choose.
 - **A reason to stay involved:** someone from home needs help with a specific problem. The nature of that problem should fit the campaign rather than being fixed now.
-- **The captivity question:** why he was taken, whether anyone searched for him, and who knows the answer could become separate leads. No answer is chosen yet.
 
 These hooks work through relationships and ordinary events; they do not require anyone to know about Gaza's chronomancy.
 
@@ -192,7 +160,6 @@ These hooks work through relationships and ordinary events; they do not require 
 - What makes him start looking, and what lead can he actually follow?
 - What does he hope to find when he arrives?
 - How would returning differ from his expectations?
-- Why was he captured in the first place? Leave this for a separate discussion.
 
 His interest in learning spells remains part of his personality. A concrete person, place, or lead could give that curiosity and his wish to belong a playable direction.
 
@@ -405,9 +372,9 @@ The DM should confirm how this older subclass's Exhaustion cost works with the c
 - Whether Gaza could later overcome that restriction remains deliberately open.
 - How subtle physical tells are portrayed without adding penalties to Chronal Shift.
 - Timing of rerolls during stealth and detection scenes.
-- How a knowledgeable but frightened level-five wizard remains imprisoned.
-- Whether and how the party discovers him.
-- Starting spellbook, equipment, and any books recovered from the tower.
+- How much the chronomancer master knows about Gaza's level-five wizardry and secret study of restricted books.
+- How and why Gaza leaves the tower and joins the party.
+- Starting spellbook, equipment, and whether he takes or is given books from the tower.
 
 ## Potential feat — Lucky: two versions to consider
 
