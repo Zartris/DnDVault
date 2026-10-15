@@ -232,6 +232,8 @@ Chronal Shift is a subclass feature, not a spell. Its reaction, eligible rolls, 
 
 We describe the reroll as Gaza deliberately replaying a tiny moment, roughly two or three seconds. His private reaction might be “Ah, shit. We need to do this again.” Sweating or looking drained afterwards adds character without imposing Exhaustion or other penalties.
 
+When Gaza deliberately rewinds a moment, he snaps his fingers with a sharp, very loud snapping sound. The snap belongs to the discarded moment and is erased with it, so only Gaza remembers hearing it afterwards, under the proposed only-Gaza-remembers interpretation. This gesture and sound are cosmetic flavour, not an additional mechanical requirement.
+
 This description does not grant an actual time-reversal ability beyond the eligible reroll.
 
 ### Proposed narrative house rule — pending DM agreement
