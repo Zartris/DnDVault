@@ -2,6 +2,10 @@
 
 *Started: 10 October 2026. Working concept; final build undecided.*
 
+![Gaza — selected goblin chronurgy wizard portrait](../images/Characters/Gaza.png)
+
+*Selected portrait: the first of the three latest variants, with the complete sand-colored hourglass inside the lower brown stitched patch.*
+
 ## Character at a glance
 
 - **Name:** Gaza (G-A-Z-A).
@@ -24,6 +28,16 @@ A working proposal for his adventuring appearance, clothing, staff, keepsake, an
 ## Appearance and personal belongings — working proposal
 
 *An initial visual direction for Gaza as an adventuring character, rather than his condition when the party finds him. These details are suggestions to refine together; they are not yet fixed character facts. His exact age remains open.*
+
+### Selected portrait and visual refinements
+
+The selected portrait above is the current visual reference. These refinements update the earlier appearance proposal where details differ:
+
+- **Face:** a grimmer, clearly goblin face with angular, irregular features, a pronounced nose, and large ears. Avoid the earlier overly handsome or small-orc appearance; the grimmer look does not change his good intentions.
+- **Clothing:** worn hooded clothing with fewer dangling shreds and clear, uncluttered shapes.
+- **Staff:** tiny hints of chronomancy, with floating golden sand inside the staff's blue orb. This is cosmetic flavour and grants no additional ability.
+- **Hourglass patch:** a complete sand-colored hourglass within the existing lower brown stitched patch, following the patch's angle and folds.
+- **Key:** a very small time-dragon crest engraved on his ordinary-looking brass key. It leaves a possible story hook for the DM, with no powers or origin established.
 
 ### Face and build
 
@@ -390,6 +404,14 @@ The same chronomancy flavour could work: a glimpse of an unwanted possibility fo
 At Gaza's planned level-five start, either version has three points per long rest. Acquisition still needs to fit the agreed background/feat choices; an Origin label is not an automatic extra feat.
 
 Rules reference: *Player's Handbook* (2024), p. 201; [official guide to 2024 Origin feats](https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024).
+
+## Other feat ideas — not chosen
+
+These ideas were discussed but have not been selected or added to the build:
+
+- **Alert**, especially the 2024 version.
+- **Fey Touched**.
+- **Bountiful Luck**, which would require the DM to waive its halfling prerequisite for Gaza.
 
 ## Build decisions still open
 
