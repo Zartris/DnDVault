@@ -109,7 +109,7 @@ Examples of his natural phrasing:
 
 He longs for recognition from his master. His helpfulness is sincere, while his habit of putting others' requests first reflects the role he has grown up in. His master's appreciation of his work has not made theirs a family relationship.
 
-This manner does not make him foolish or incapable of independent thought. He remains an intelligent, observant wizard with his own curiosity and ideas. How he addresses individual companions, including whether he uses “Master” for anyone in the party, remains to be explored.
+This manner does not make him foolish or incapable of independent thought. He remains an intelligent, observant wizard with his own curiosity and ideas. Gaza sees himself as the lowest person in any hierarchy. He addresses the party and others with deferential titles such as “Master” or “sir”: “Yes, sir. Of course.” He assumes everyone else stands above him and does not consider himself anyone's equal. This describes his own sense of his place; how his companions respond remains open.
 
 ### Confidence and vulnerability
 
