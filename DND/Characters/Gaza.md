@@ -140,40 +140,6 @@ Being caught could, in Gaza's mind, mean losing his assistant's position and bei
 
 With the party, the same obedient eagerness carries over. A possible development is learning to voice his own wishes and accept that companions value his thoughts and company as well as his help. He remains thoughtful, capable of disagreement, and more than a comic servant.
 
-### A night in the restricted library
-
-*Illustrative scene using the proposed tiny-rewind flavour for a successful Chronal Shift reroll.*
-
-Gaza had promised himself one page. He was on his fourth.
-
-He traced a line of cramped writing with one finger. The strange little diagram beneath it finally made sense. His ears lifted.
-
-“Oh,” he whispered. “Oh, that's clever.”
-
-He ought to go. Master would need him early.
-
-The book was almost back on its shelf when the floorboard creaked beneath him. Footsteps stopped outside the library.
-
-Gaza's stomach tightened. If they found him here—
-
-He snapped his fingers: a sharp, very loud snap.
-
-The book was back in his hands, inches from the shelf. He was living those last seconds again. This time, the board took his weight without a sound.
-
-The footsteps continued down the corridor.
-
-Gaza stood motionless, his fingers damp against the leather cover. Only he remembered the creak, the approaching discovery, and the snap.
-
-He put the book away.
-
-Then he glanced at its spine.
-
-There had been another diagram on the next page.
-
-“Just to be useful,” he murmured. “In case Master needs it.”
-
-He drew the book out again.
-
 ### Still to explore
 
 - How he came to the tower, how long he has served, and the precise terms of that service.
