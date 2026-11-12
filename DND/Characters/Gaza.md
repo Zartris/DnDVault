@@ -22,7 +22,7 @@
 
 A small, curious goblin who has learned considerably more magic than his chronomancer master realises. He is already a capable level-five wizard, although his confidence does not match his knowledge. He serves as an obedient assistant and longs for his master's recognition. He fears losing his position and home if his secret study of restricted books is discovered.
 
-| He is eager to expand his knowledge. His bookish personality remains central even if Chronurgy is chosen instead of Order of Scribes.
+> He is eager to expand his knowledge. His bookish personality remains central even if Chronurgy is chosen instead of Order of Scribes.
 
 A working proposal for his adventuring appearance, clothing, staff, keepsake, and mannerisms follows below. His exact age and ability scores remain open.
 
